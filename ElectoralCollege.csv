@@ -1,0 +1,59 @@
+﻿Rank,Year,Winner,Total,Winner,Runnerup,Normalized victory margin,Percentage,Party,BirthState,Region
+1,1788,George Washington[f][g],69,69,34,1,100,Federalist,Virginia,South
+2,1792,George Washington[f],132,132,77,1,100,Federalist,Virginia,South
+55,1796,John Adams,138,71,68,0.029,51.45,Federalist,Massachusetts,Northeast
+53,1800,"tie: Thomas Jefferson, Aaron Burr[b]",138,73,65,0,52.9,Democratic-Republican,Virginia,South
+7,1804,Thomas Jefferson,176,162,14,0.841,92.05,Democratic-Republican,Virginia,South
+29,1808,James Madison,175,122,47,0.394,69.71,Democratic-Republican,Virginia,South
+40,1812,James Madison,217,128,89,0.18,58.99,Democratic-Republican,Virginia,South
+15,1816,James Monroe,217,183,34,0.687,84.33,Democratic-Republican,Virginia,South
+3,1820,James Monroe[d],232,231,1,0.991,99.57,Democratic-Republican,Virginia,South
+58,1824,"second-place winner: Andrew Jackson, John Quincy Adams, William Crawford[a]",261,84,99,0,32.18,Democratic-Republican,Massachusetts,Northeast
+31,1828,Andrew Jackson,261,178,83,0.364,68.2,Democratic,South Carolina,South
+23,1832,Andrew Jackson,286,219,49,0.531,76.57,Democratic,South Carolina,South
+44,1836,Martin Van Buren,294,170,73,0.156,57.82,Democratic,New York,Northeast
+21,1840,William Henry Harrison,294,234,60,0.592,79.59,Whig,Virginia,South
+36,1844,James K. Polk,275,170,105,0.236,61.82,Democratic,North Carolina,South
+48,1848,Zachary Taylor,290,163,127,0.124,56.21,Whig,Virginia,South
+13,1852,Franklin Pierce,296,254,42,0.716,85.81,Democratic,Virginia,South
+41,1856,James Buchanan,296,174,114,0.176,58.78,Democratic,Pennsylvania,Northeast
+39,1860,Abraham Lincoln,303,180,72,0.188,59.41,Republican,Kentucky,South
+8,1864,Abraham Lincoln,233,212,21,0.82,90.99,Republican,Kentucky,South
+25,1868,Ulysses S. Grant,294,214,80,0.456,72.79,Republican,Ohio,Midwest
+18,1872,Ulysses S. Grant[c],352,286,42,0.639,81.95,Republican,Ohio,Midwest
+57,1876,Rutherford B. Hayes,369,185,184,0.003,50.14,Republican,Ohio,Midwest
+43,1880,James A. Garfield,369,214,155,0.16,57.99,Republican,Ohio,Midwest
+51,1884,Grover Cleveland,401,219,182,0.092,54.61,Democratic,New Jersey,Northeast
+42,1888,Benjamin Harrison,401,233,168,0.162,58.1,Republican,Ohio,Midwest
+35,1892,Grover Cleveland,444,277,145,0.248,62.39,Democratic,New Jersey,Northeast
+38,1896,William McKinley,447,271,176,0.213,60.63,Republican,Ohio,Midwest
+34,1900,William McKinley,447,292,155,0.306,65.32,Republican,Ohio,Midwest
+27,1904,Theodore Roosevelt,476,336,140,0.412,70.59,Republican,New York,Northeast
+33,1908,William Howard Taft,483,321,162,0.329,66.46,Republican,Ohio,Midwest
+19,1912,Woodrow Wilson,531,435,88,0.638,81.92,Democratic,Virginia,South
+54,1916,Woodrow Wilson,531,277,254,0.043,52.17,Democratic,Virginia,South
+24,1920,Warren G. Harding,531,404,127,0.522,76.08,Republican,Ohio,Midwest
+26,1924,Calvin Coolidge,531,382,136,0.439,71.94,Republican,Vermont,Northeast
+16,1928,Herbert Hoover,531,444,87,0.672,83.62,Republican,Iowa,Midwest
+11,1932,Franklin D. Roosevelt,531,472,59,0.778,88.89,Democratic,New York,Northeast
+4,1936,Franklin D. Roosevelt,531,523,8,0.97,98.49,Democratic,New York,Northeast
+14,1940,Franklin D. Roosevelt,531,449,82,0.691,84.56,Democratic,New York,Northeast
+20,1944,Franklin D. Roosevelt,531,432,99,0.627,81.36,Democratic,New York,Northeast
+45,1948,Harry S. Truman,531,303,189,0.141,57.06,Democratic,Missouri,Midwest
+17,1952,Dwight D. Eisenhower,531,442,89,0.665,83.24,Republican,Texas,South
+12,1956,Dwight D. Eisenhower,531,457,73,0.721,86.06,Republican,Texas,South
+47,1960,John F. Kennedy,537,303,219,0.128,56.42,Democratic,Massachusetts,Northeast
+10,1964,Lyndon B. Johnson,538,486,52,0.807,90.33,Democratic,Texas,South
+49,1968,Richard Nixon,538,301,191,0.119,55.95,Republican,California,West
+6,1972,Richard Nixon,538,520,17,0.933,96.65,Republican,California,West
+50,1976,Jimmy Carter,538,297,240,0.104,55.2,Democratic,Georgia,South
+9,1980,Ronald Reagan,538,489,49,0.818,90.89,Republican,Illinois,Midwest
+5,1984,Ronald Reagan,538,525,13,0.952,97.58,Republican,Illinois,Midwest
+22,1988,George H. W. Bush,538,426,111,0.584,79.18,Republican,Massachusetts,Northeast
+30,1992,Bill Clinton,538,370,168,0.375,68.77,Democratic,Arkansas,South
+28,1996,Bill Clinton,538,379,159,0.409,70.45,Democratic,Arkansas,South
+56,2000,George W. Bush,538,271,266,0.009,50.37,Republican,Connecticut,Northeast
+52,2004,George W. Bush,538,286,251,0.063,53.16,Republican,Connecticut,Northeast
+32,2008,Barack Obama,538,365,173,0.357,67.84,Democratic,Hawaii,West
+37,2012,Barack Obama,538,332,206,0.234,61.71,Democratic,Hawaii,West
+46,2016,Donald Trump,538,304,227,0.13,56.51,Republican,New York,Northeast
