@@ -1,0 +1,239 @@
+SEX,RACE,INCOME,AGE,DEGREE,CHILDS,MARITAL,WRKSLF,PARTYID,VOTE12,TRUST,EQWLTH,INCGAP,HEALTH1,NATHEAL,NATSPAC,NATDRUG,NATRACE,RACLIVE,GRASS
+Male,White,42154,43,High School,0,Never Married,0,Republican,0,0,1,0,Very Good,1,1,1,0,0,1
+Female,White,29119,40,Graduate,2,Was Married,0,Democrat,1,0,2,1,Excellent,1,0,1,1,1,0
+Male,White,40894,20,High School,0,Never Married,0,Independent,0,0,4,0,Excellent,0,0,1,1,0,0
+Male,White,38100,65,Graduate,5,Married,0,Republican,1,1,7,0,Very Good,0,0,1,0,1,0
+Male,White,72593,22,High School,0,Never Married,1,Independent,0,0,4,1,Excellent,1,1,1,1,1,1
+Female,White,100242,42,Graduate,2,Married,0,Democrat,1,1,2,1,Good,1,0,1,1,1,1
+Female,White,65647,37,College,2,Married,0,Independent,1,1,3,1,Excellent,0,0,0,0,0,0
+Male,White,87573,46,High School,2,Married,0,Democrat,1,1,3,1,Very Good,1,1,1,1,1,1
+Female,White,69404,54,College,5,Married,0,Independent,1,0,1,1,Very Good,0,0,1,1,0,0
+Female,White,45685,59,College,2,Married,0,Independent,1,1,2,1,Very Good,1,0,1,0,1,1
+Female,White,84,39,College,0,Never Married,0,Democrat,0,1,1,1,Excellent,1,0,1,1,0,1
+Female,White,37423,39,Graduate,1,Never Married,1,Democrat,1,0,1,1,Very Good,1,0,1,1,1,1
+Male,White,30537,69,High School,2,Married,1,Democrat,1,0,4,1,Fair,1,1,1,1,1,0
+Female,Other,28703,35,College,0,Married,0,Independent,0,0,6,1,Good,0,0,1,1,0,1
+Male,White,46062,55,Associates,2,Was Married,0,Republican,1,0,7,0,Good,0,1,0,0,1,0
+Male,White,34593,43,No Degree,0,Never Married,0,Democrat,0,0,5,1,Fair,0,0,0,0,0,1
+Male,White,38372,19,High School,0,Never Married,0,Independent,0,0,2,1,Fair,0,1,1,0,1,0
+Male,White,63857,36,Graduate,2,Married,1,Democrat,1,0,4,1,Excellent,1,0,1,1,1,1
+Male,Other,49468,53,High School,3,Was Married,1,Republican,1,1,5,0,Very Good,1,0,0,0,1,1
+Female,White,34408,38,College,3,Married,0,Democrat,1,1,4,1,Very Good,1,0,1,1,0,1
+Female,White,46819,34,Graduate,2,Married,0,Republican,1,0,7,1,Very Good,0,1,1,0,1,1
+Male,Black,25024,28,High School,0,Never Married,0,Democrat,1,1,1,1,Fair,1,0,1,0,1,1
+Female,White,36471,28,College,0,Never Married,0,Independent,1,0,2,1,Fair,1,1,0,1,1,1
+Female,Other,33062,51,High School,1,Was Married,1,Independent,0,1,7,0,Excellent,0,0,0,1,1,1
+Male,Black,102513,44,College,3,Married,0,Independent,1,0,3,1,Very Good,0,1,1,0,1,0
+Male,White,48658,26,High School,2,Never Married,0,Independent,0,0,3,1,Very Good,0,0,1,1,0,1
+Male,Other,45299,36,High School,1,Never Married,0,Independent,1,0,4,0,Good,1,0,1,1,1,1
+Male,Other,29635,51,High School,0,Never Married,0,Independent,0,0,2,1,Very Good,0,0,0,1,1,0
+Female,White,35786,36,High School,1,Was Married,0,Democrat,1,0,1,1,Excellent,1,0,1,0,1,1
+Male,White,34411,34,High School,3,Married,0,Independent,0,1,1,1,Very Good,1,1,0,1,0,1
+Male,White,33776,59,College,1,Was Married,0,Republican,1,0,7,0,Excellent,0,1,1,1,0,1
+Male,White,58730,25,College,0,Never Married,0,Independent,1,1,5,0,Very Good,0,0,1,0,0,0
+Male,White,56223,58,Graduate,0,Was Married,0,Democrat,1,1,2,1,Excellent,1,1,0,1,0,1
+Female,White,48403,40,College,2,Married,0,Independent,1,1,2,1,Very Good,1,0,1,0,1,1
+Female,Black,44532,35,College,2,Married,0,Independent,1,0,4,0,Excellent,1,0,1,1,1,0
+Male,White,42131,70,High School,0,Was Married,0,Independent,1,0,5,1,Good,1,0,1,0,1,0
+Female,Other,39896,55,High School,2,Was Married,0,Independent,1,1,1,1,Poor,1,0,1,1,1,0
+Female,White,62264,77,High School,3,Married,1,Republican,1,1,7,0,Excellent,1,1,1,1,0,0
+Female,White,38705,20,High School,0,Never Married,0,Independent,0,0,7,0,Excellent,0,0,1,0,1,1
+Female,White,42014,59,Associates,1,Married,0,Democrat,1,0,1,1,Very Good,1,0,1,0,0,1
+Female,White,43902,74,Graduate,1,Married,0,Independent,1,1,5,1,Excellent,1,0,1,0,0,1
+Male,White,41690,36,College,2,Married,0,Republican,1,1,3,1,Excellent,1,0,1,1,1,1
+Female,Black,41502,31,High School,0,Never Married,0,Independent,0,0,1,1,Very Good,1,0,1,1,1,1
+Female,White,33016,35,College,1,Married,0,Democrat,1,0,5,1,Fair,1,0,1,1,1,0
+Female,Other,37882,37,High School,1,Never Married,1,Democrat,0,0,3,0,Good,0,0,1,0,1,0
+Female,Other,30705,24,College,0,Never Married,0,Independent,0,0,3,1,Very Good,1,1,0,1,1,1
+Female,White,27876,21,High School,0,Never Married,0,Independent,0,0,5,0,Very Good,1,0,1,1,1,1
+Female,Other,48035,37,Graduate,1,Was Married,0,Democrat,0,1,3,1,Very Good,1,0,1,1,1,0
+Male,White,48928,31,High School,0,Never Married,0,Independent,0,0,4,1,Fair,0,0,1,1,1,1
+Male,White,39142,27,High School,0,Never Married,0,Independent,0,0,5,1,Fair,0,0,1,0,1,1
+Female,White,54499,50,Graduate,2,Was Married,0,Democrat,1,1,3,1,Excellent,1,1,1,1,0,1
+Female,White,48506,35,College,0,Never Married,0,Republican,1,0,7,0,Excellent,1,0,0,0,0,1
+Female,White,38064,30,College,1,Married,0,Republican,1,1,7,1,Good,0,0,1,1,1,1
+Female,Other,25454,68,Graduate,0,Was Married,1,Independent,1,0,6,0,Good,1,0,1,0,0,0
+Female,White,88254,48,High School,1,Married,1,Republican,0,0,4,0,Excellent,1,0,1,0,1,0
+Female,White,49258,59,College,1,Was Married,0,Democrat,1,1,4,1,Very Good,0,0,0,1,1,1
+Female,White,22063,33,High School,0,Married,0,Other,1,1,3,1,Very Good,1,0,1,1,1,0
+Female,White,34951,49,Graduate,2,Was Married,0,Independent,0,1,6,1,Very Good,0,0,1,0,1,1
+Male,White,41766,28,High School,0,Never Married,0,Democrat,1,1,3,1,Very Good,1,1,1,1,1,1
+Female,White,26850,23,College,0,Never Married,0,Republican,0,1,5,0,Very Good,1,0,1,0,1,1
+Female,Other,42170,44,High School,1,Was Married,0,Independent,0,0,5,1,Good,0,0,0,0,1,0
+Female,White,30432,45,High School,2,Married,0,Independent,1,0,4,0,Good,1,0,1,0,1,1
+Male,Black,21859,51,College,1,Never Married,1,Independent,1,0,1,1,Excellent,1,1,1,1,1,1
+Female,Other,32948,40,No Degree,5,Was Married,0,Independent,0,0,7,0,Excellent,0,0,1,1,0,0
+Female,Black,25163,31,Graduate,1,Never Married,0,Independent,1,1,3,1,Very Good,1,0,1,1,1,1
+Female,Black,27311,53,Graduate,1,Married,0,9,1,0,1,0,Good,1,0,1,1,0,0
+Female,Black,12657,48,High School,4,Was Married,0,Independent,0,0,4,0,Good,1,0,1,1,1,0
+Male,Black,44378,40,High School,4,Was Married,0,Independent,1,0,3,1,Excellent,1,1,1,1,1,1
+Female,Black,47364,36,College,1,Married,0,Republican,1,0,4,1,Very Good,1,0,1,1,1,0
+Female,White,36364,28,High School,0,Never Married,0,Republican,1,0,5,1,Very Good,0,1,0,1,1,0
+Male,White,33520,22,High School,0,Never Married,0,Other,0,0,5,1,Very Good,1,1,1,1,1,1
+Female,White,35352,40,College,4,Was Married,1,Independent,0,0,3,1,Very Good,0,0,1,0,1,0
+Female,Black,45728,38,No Degree,1,Married,0,Democrat,1,0,1,1,Good,0,0,1,1,1,1
+Male,Black,46547,59,High School,3,Was Married,0,Independent,1,0,2,0,Good,1,0,0,1,1,1
+Female,Black,102275,54,High School,4,Married,0,Democrat,1,1,2,1,Very Good,1,0,0,1,1,1
+Female,White,47773,28,High School,0,Married,0,Independent,1,0,3,1,Very Good,1,0,1,1,1,1
+Male,Black,38084,30,High School,0,Never Married,0,Democrat,1,0,7,1,Very Good,0,0,1,1,1,0
+Male,Other,33382,23,High School,0,Never Married,0,Democrat,0,0,2,1,Fair,1,0,1,1,1,1
+Female,Other,55171,44,Associates,0,Married,1,Independent,0,0,2,0,Very Good,1,0,1,1,1,0
+Male,White,41482,36,High School,2,Was Married,0,Independent,0,0,4,1,Fair,1,0,1,1,1,1
+Female,White,28104,51,Associates,3,Married,0,Democrat,1,1,1,1,Good,1,1,1,1,0,1
+Female,White,47301,27,Associates,0,Never Married,0,Democrat,1,1,1,1,Very Good,1,0,1,1,1,1
+Male,White,32715,28,No Degree,0,Never Married,1,Independent,1,0,2,1,Excellent,1,0,0,0,1,0
+Female,White,25084,35,College,1,Married,0,Democrat,0,0,3,1,Very Good,1,0,1,0,1,0
+Female,White,25131,33,High School,3,Married,0,Republican,1,1,7,0,Excellent,1,0,1,0,1,1
+Male,White,45781,55,Associates,2,Was Married,0,Independent,1,0,3,1,Good,1,0,1,1,1,1
+Female,Black,42899,24,High School,2,Married,0,Independent,0,1,1,1,Very Good,0,0,0,0,1,0
+Female,Other,46957,45,Associates,6,Was Married,0,Independent,1,1,2,1,Good,1,0,0,1,1,1
+Male,White,41042,39,College,0,Never Married,0,Independent,1,0,1,1,Good,0,1,1,1,1,1
+Female,White,20528,46,High School,6,Was Married,0,Democrat,1,0,1,0,Poor,0,0,1,1,1,0
+Female,White,35691,56,College,2,Was Married,0,Independent,1,1,5,0,Good,0,0,1,0,1,0
+Male,White,31137,56,High School,1,Married,0,Republican,1,0,7,0,Fair,0,1,0,0,1,0
+Female,White,38193,39,Associates,2,Married,0,Democrat,1,0,1,1,Very Good,1,0,1,1,1,1
+Female,White,26233,53,Associates,3,Married,0,Republican,1,1,3,1,Very Good,1,0,1,0,1,1
+Male,White,2750,31,High School,0,Never Married,0,Other,1,0,7,1,Fair,0,1,0,0,1,1
+Female,Black,191,42,No Degree,6,Never Married,0,Independent,1,1,5,0,Good,1,0,0,1,1,1
+Female,White,22752,53,High School,3,Was Married,0,Republican,1,0,6,0,Good,1,0,0,0,0,0
+Male,White,43806,57,High School,0,Was Married,0,Republican,0,1,1,1,Good,0,0,1,1,1,1
+Female,White,69270,59,Graduate,2,Married,0,Republican,1,1,7,1,Good,0,0,0,0,1,1
+Female,White,56057,48,Graduate,2,Married,1,Independent,1,0,7,0,Good,0,0,0,0,1,1
+Male,Black,60784,59,High School,3,Married,0,Independent,1,0,4,0,Fair,1,0,1,1,1,1
+Male,White,67222,45,College,0,Was Married,0,Democrat,1,1,5,1,Very Good,1,0,0,0,1,1
+Female,Black,14250,26,High School,3,Was Married,0,Independent,0,0,1,1,Very Good,1,0,1,1,0,1
+Male,White,64668,42,Graduate,2,Married,0,Independent,1,1,6,0,Very Good,0,0,1,0,1,1
+Female,White,68015,60,High School,4,Married,0,Republican,1,0,2,1,Poor,1,0,1,1,1,1
+Female,White,19516,34,High School,0,Never Married,0,Other,1,0,1,1,Fair,1,1,1,0,1,1
+Female,White,18931,23,High School,0,Never Married,0,Independent,0,0,1,1,Good,0,1,0,1,1,1
+Male,Black,62106,61,College,3,Was Married,0,Independent,1,0,3,1,Excellent,1,0,1,1,1,1
+Female,White,63874,37,College,2,Married,0,Democrat,1,0,5,1,Excellent,1,1,1,0,1,1
+Male,White,70729,61,Associates,2,Married,0,Independent,0,1,4,1,Good,1,0,1,1,1,1
+Female,White,63215,31,College,2,Was Married,1,Independent,0,0,3,1,Fair,1,0,0,0,1,1
+Male,White,19937,45,College,3,Was Married,0,Republican,0,0,5,0,Fair,0,1,0,1,1,1
+Male,White,73583,21,No Degree,0,Never Married,0,Independent,0,0,6,0,Very Good,0,0,1,1,1,0
+Male,White,6412,53,No Degree,1,Was Married,1,Independent,0,0,4,0,Fair,0,0,1,0,1,1
+Female,White,67946,44,High School,6,Was Married,0,Republican,1,1,6,0,Fair,0,0,0,0,1,1
+Female,White,56919,37,High School,4,Married,0,Independent,0,0,3,1,Good,1,1,1,1,1,1
+Male,White,991,41,No Degree,2,Never Married,0,Independent,1,0,7,1,Excellent,1,0,0,0,1,1
+Female,White,73640,69,High School,3,Was Married,0,Democrat,1,0,3,1,Good,1,0,1,1,1,0
+Female,White,22167,60,High School,0,Married,0,Republican,1,1,6,0,Very Good,1,0,1,1,1,1
+Male,White,56832,33,High School,0,Married,0,Democrat,1,1,3,1,Very Good,1,0,0,1,1,1
+Male,White,72428,40,No Degree,4,Married,0,Republican,0,0,2,1,Good,1,1,1,1,0,0
+Male,White,32272,23,No Degree,0,Was Married,0,Independent,0,0,4,0,Fair,0,0,0,1,1,1
+Female,Black,59668,33,College,2,Married,0,Democrat,1,0,3,0,Fair,1,0,0,1,1,1
+Female,White,31549,51,High School,2,Married,0,Republican,1,1,4,0,Very Good,1,0,1,1,1,0
+Female,White,67931,51,Associates,2,Married,0,Republican,1,1,4,0,Very Good,1,0,1,0,1,1
+Male,White,73261,49,College,0,Was Married,0,Independent,1,0,2,1,Fair,1,1,1,1,0,1
+Male,White,69507,22,High School,1,Married,0,Independent,0,0,5,1,Good,1,1,1,1,0,1
+Female,Other,56881,38,College,0,Never Married,0,Democrat,1,1,3,1,Excellent,0,0,0,0,1,1
+Female,White,50957,25,High School,1,Never Married,0,Independent,0,1,5,0,Excellent,1,0,1,1,1,1
+Female,White,66980,63,High School,2,Married,0,Democrat,0,0,4,1,Fair,1,0,1,1,1,1
+Female,White,54138,27,College,0,Never Married,0,Republican,0,0,3,1,Excellent,1,1,1,1,1,1
+Male,Black,64660,22,High School,0,Never Married,0,Democrat,0,0,5,0,Very Good,1,1,0,1,1,1
+Male,White,99778,22,High School,0,Never Married,0,Independent,0,0,4,1,Good,1,1,1,0,1,0
+Female,White,145257,32,College,0,Married,0,Democrat,1,0,1,1,Good,1,0,1,1,0,1
+Male,White,18805,57,High School,1,Was Married,0,Republican,0,0,3,1,Very Good,1,1,1,1,1,1
+Female,White,116111,36,College,3,Married,0,Democrat,1,0,5,0,Excellent,1,0,0,1,1,1
+Female,White,57419,68,Associates,2,Was Married,1,Democrat,1,1,3,1,Very Good,1,0,1,1,1,1
+Male,White,102049,30,High School,0,Never Married,0,Independent,1,0,6,1,Good,0,0,1,0,1,1
+Male,White,99934,61,High School,3,Was Married,0,Independent,1,1,3,1,Fair,1,0,0,1,1,1
+Male,White,75851,56,College,0,Never Married,1,Democrat,1,1,3,1,Very Good,1,0,0,0,0,0
+Male,White,134932,23,College,0,Never Married,0,Independent,0,1,5,0,Excellent,1,0,1,1,1,1
+Female,White,105139,36,High School,2,Married,0,Democrat,0,0,7,0,Excellent,0,0,1,1,0,1
+Female,White,149739,39,College,1,Married,0,Democrat,0,1,1,1,Good,0,0,1,0,1,1
+Female,White,94129,50,Graduate,3,Married,0,Independent,1,1,4,1,Good,1,1,1,0,0,0
+Female,White,111636,54,High School,2,Married,1,Republican,1,1,7,0,Very Good,0,0,1,0,1,0
+Male,White,28070,36,Graduate,2,Married,0,Republican,1,0,7,0,Fair,0,0,0,0,1,1
+Female,White,75883,38,College,1,Married,1,Republican,1,0,6,0,Very Good,1,1,1,0,1,1
+Male,White,109414,42,Associates,7,Married,0,Independent,1,0,3,1,Good,1,0,1,0,0,0
+Male,White,143754,38,Associates,2,Married,0,Independent,0,0,4,1,Very Good,1,0,0,0,1,1
+Female,White,113363,37,College,0,Never Married,0,Democrat,0,0,2,1,Fair,1,0,0,1,1,0
+Male,Black,20948,28,High School,0,Never Married,0,Democrat,1,0,3,1,Good,0,0,1,1,1,1
+Female,White,12702,32,High School,2,Never Married,1,Independent,1,0,3,1,Excellent,1,0,1,0,0,1
+Female,White,47816,58,College,2,Married,0,Independent,1,1,3,1,Good,1,0,1,1,1,1
+Female,White,67461,52,Associates,2,Was Married,0,Democrat,1,0,1,1,Very Good,1,0,1,1,1,0
+Female,Black,72137,50,Associates,1,Was Married,0,Independent,1,1,7,0,Fair,1,0,0,0,1,0
+Female,White,45511,24,College,0,Married,0,Independent,0,1,4,1,Very Good,0,0,0,1,1,0
+Male,White,107008,31,College,0,Never Married,0,Democrat,1,0,6,0,Very Good,0,0,1,0,1,1
+Female,Black,10359,55,High School,5,Was Married,0,Democrat,1,0,5,1,Fair,1,0,1,1,1,1
+Female,White,81710,37,No Degree,3,Was Married,0,Republican,0,0,7,1,Good,0,1,0,1,1,0
+Male,Black,133974,22,High School,0,Never Married,0,Independent,0,0,2,0,Good,0,0,0,0,1,0
+Female,Black,62326,57,Graduate,4,Married,0,Democrat,1,1,4,1,Good,1,0,1,1,1,1
+Female,White,115900,34,Associates,4,Married,0,Independent,0,1,1,1,Excellent,1,0,1,0,1,1
+Female,White,14873,54,High School,1,Was Married,0,Republican,0,0,3,1,Good,1,0,1,0,1,0
+Male,White,111080,58,No Degree,3,Married,0,Republican,1,0,5,0,Fair,1,0,1,0,1,1
+Female,White,7228,62,High School,2,Was Married,0,Independent,1,0,3,1,Fair,0,1,1,0,1,1
+Female,White,45411,22,No Degree,0,Married,0,9,0,0,1,1,Fair,0,0,1,1,0,1
+Female,White,28243,32,College,0,Married,0,Republican,1,0,6,0,Excellent,0,0,0,0,1,0
+Male,Black,54553,37,College,0,Never Married,0,Democrat,1,1,3,1,Excellent,1,0,1,1,1,1
+Female,Black,119268,51,High School,1,Married,0,Democrat,1,0,1,1,Good,1,0,1,1,1,1
+Male,White,94204,35,High School,1,Married,0,Republican,1,1,6,1,Poor,1,1,1,0,0,1
+Female,Black,92824,41,Graduate,2,Married,0,Democrat,1,0,1,1,Good,1,1,1,1,1,1
+Male,White,130269,30,College,0,Never Married,0,Independent,1,1,5,0,Very Good,1,0,1,0,1,1
+Female,White,71891,55,High School,0,Never Married,0,Democrat,0,0,1,1,Fair,1,0,1,0,0,1
+Male,White,19762,25,High School,0,Never Married,0,Independent,0,1,5,0,Very Good,0,1,0,0,1,0
+Female,White,92409,20,High School,0,Never Married,0,Democrat,0,1,3,1,Very Good,1,0,1,1,1,0
+Female,White,109546,56,High School,2,Married,0,Independent,0,0,5,1,Good,1,0,1,1,0,1
+Female,White,20241,26,High School,2,Never Married,0,Independent,0,0,4,0,Excellent,1,0,0,0,1,1
+Male,White,34055,44,High School,1,Was Married,0,Independent,0,1,5,1,Good,1,0,1,1,0,1
+Male,White,49242,37,Associates,3,Was Married,0,Independent,0,0,7,1,Good,1,1,1,0,0,1
+Female,Black,66619,43,Associates,2,Married,0,Republican,0,1,5,0,Very Good,0,0,0,0,1,0
+Male,White,103912,22,High School,0,Never Married,0,Democrat,0,0,3,1,Fair,1,1,1,1,1,1
+Male,White,112465,62,High School,2,Was Married,0,Independent,0,1,4,0,Very Good,1,0,1,1,0,1
+Male,White,129842,38,Graduate,4,Married,0,Independent,1,0,3,1,Good,1,0,1,1,1,1
+Male,White,24307,25,High School,1,Never Married,0,Independent,0,0,5,1,Fair,1,0,0,0,1,1
+Female,White,86684,45,Graduate,2,Married,0,Independent,1,1,3,1,Excellent,0,0,1,0,0,1
+Male,Other,84566,51,No Degree,0,Married,0,Democrat,1,0,1,0,Good,1,0,0,0,1,0
+Female,White,83053,54,High School,3,Married,0,Other,0,0,1,1,Good,1,0,1,1,0,0
+Male,White,91735,59,College,2,Married,0,Republican,1,1,7,0,Very Good,0,0,0,0,1,1
+Female,White,74763,47,Graduate,4,Married,0,Independent,1,1,4,1,Good,0,1,0,1,1,0
+Female,White,57171,63,College,2,Married,0,Independent,1,1,4,1,Good,1,0,1,0,1,1
+Male,Black,119998,53,College,5,Married,0,Independent,1,0,4,1,Excellent,1,1,1,1,1,1
+Female,White,66057,35,College,2,Married,0,Republican,1,1,4,0,Very Good,1,0,1,0,1,0
+Male,Black,14107,56,High School,1,Never Married,0,Democrat,0,0,4,0,Good,0,0,0,0,1,1
+Female,Black,17206,25,High School,0,Never Married,0,Independent,0,0,4,1,Excellent,0,0,1,0,1,1
+Female,Black,23505,23,High School,3,Never Married,0,Independent,0,0,3,0,Excellent,1,0,1,0,1,0
+Male,White,69169,27,High School,1,Never Married,0,Republican,0,0,4,0,Fair,1,0,1,0,0,1
+Female,White,132295,28,College,1,Never Married,0,Independent,0,0,3,1,Excellent,1,0,1,1,1,1
+Female,Other,94933,59,High School,2,Was Married,0,Independent,1,0,2,1,Very Good,1,0,1,0,1,1
+Male,Other,68152,43,High School,3,Was Married,0,Independent,0,0,1,1,Very Good,1,0,1,1,1,1
+Male,Other,111417,39,High School,2,Was Married,0,Democrat,0,0,6,0,Good,1,0,0,0,0,1
+Female,White,73388,34,High School,3,Never Married,0,Independent,0,0,3,1,Fair,1,0,1,1,0,1
+Female,White,80304,31,High School,1,Married,0,Democrat,1,0,5,1,Good,1,0,1,1,0,1
+Female,White,98543,38,Associates,2,Never Married,0,Democrat,1,0,1,1,Fair,1,0,1,1,1,1
+Female,White,135236,25,High School,0,Never Married,0,Independent,0,0,1,1,Poor,1,0,1,0,1,1
+Male,White,13979,41,College,4,Married,0,Democrat,0,1,5,1,Very Good,1,0,1,1,1,1
+Female,White,131383,26,College,0,Married,0,Democrat,1,0,3,1,Good,1,0,1,1,0,0
+Female,Other,56305,69,High School,4,Was Married,0,Republican,1,0,6,1,Good,0,0,1,0,1,0
+Female,White,21932,28,High School,5,Was Married,0,Independent,0,0,4,0,Poor,1,0,1,0,1,0
+Male,White,72923,59,High School,4,Married,0,Independent,0,1,4,0,Good,0,0,0,0,1,0
+Female,Other,110710,42,No Degree,3,Married,0,Independent,0,0,4,1,Fair,1,1,1,0,1,0
+Male,White,35847,44,Graduate,2,Married,0,Republican,1,1,7,0,Very Good,0,0,0,0,1,0
+Male,White,129805,36,No Degree,0,Was Married,0,Republican,0,0,3,1,Good,1,1,0,0,0,1
+Male,Other,102887,50,Associates,2,Was Married,0,Independent,0,0,6,1,Excellent,1,0,0,0,0,0
+Male,White,63268,44,High School,0,Married,0,Other,1,0,7,0,Very Good,0,0,0,0,1,1
+Male,Other,3377,37,High School,0,Never Married,1,Independent,0,0,4,0,Excellent,1,1,0,0,1,1
+Female,White,78847,52,Associates,2,Married,0,Independent,0,0,3,1,Good,1,0,1,0,1,1
+Female,White,47187,44,Associates,2,Was Married,0,Independent,1,0,6,0,Excellent,1,0,1,0,0,1
+Male,White,56659,27,High School,0,Never Married,0,Independent,0,0,4,0,Good,1,1,1,1,1,1
+Female,White,29593,56,College,2,Married,0,Republican,1,0,6,0,Excellent,1,0,1,0,1,0
+Female,White,21368,30,High School,0,Never Married,0,Republican,0,0,4,0,Fair,1,0,1,1,0,1
+Female,White,66622,37,High School,3,Married,0,Republican,1,0,7,0,Fair,1,0,1,0,1,0
+Male,White,148485,89,High School,2,Was Married,0,Other,1,0,6,0,Good,0,1,1,0,0,0
+Female,White,128243,47,High School,3,Never Married,0,Independent,0,0,2,1,Very Good,0,0,1,0,1,1
+Female,Other,76192,55,High School,3,Married,0,Independent,0,0,7,0,Good,0,0,0,0,1,1
+Male,White,128370,29,High School,1,Never Married,0,Republican,1,0,5,0,Very Good,0,1,0,0,1,1
+Female,White,16076,37,High School,2,Was Married,0,Democrat,0,0,3,1,Good,1,0,1,1,0,1
+Male,White,102809,39,Graduate,0,Never Married,0,Independent,1,0,1,1,Very Good,1,0,1,1,1,1
+Female,White,82971,33,Graduate,1,Married,0,Republican,1,0,6,1,Very Good,1,0,0,1,1,1
+Female,White,96600,50,Graduate,2,Married,0,Democrat,1,0,4,1,Excellent,0,0,1,0,0,1
+Male,White,142452,32,No Degree,1,Never Married,0,Independent,1,1,3,0,Very Good,1,1,1,0,0,1
+Male,White,227,51,No Degree,0,Never Married,1,Democrat,0,0,6,0,Fair,1,0,1,0,1,0
+Female,White,64348,53,No Degree,2,Married,0,Democrat,1,0,1,1,Fair,1,0,1,1,0,1
+Female,Black,110575,24,College,0,Never Married,0,Independent,0,0,1,1,Fair,1,0,0,1,1,1
+Male,Black,64187,46,High School,4,Was Married,0,Democrat,1,0,1,1,Good,0,0,1,1,1,0
+Female,Black,91198,34,Associates,3,Married,0,Democrat,1,0,3,1,Fair,1,0,1,0,1,0
+Male,Black,90783,56,Associates,2,Married,0,Independent,0,0,7,0,Fair,1,0,1,1,1,0
+Female,White,24198,68,Graduate,0,Never Married,0,Republican,1,1,5,0,Good,0,1,1,0,1,0
+Male,Black,66970,30,High School,1,Never Married,0,Independent,0,0,4,1,Good,0,0,0,0,1,1
