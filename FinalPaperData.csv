@@ -1,0 +1,237 @@
+"","SEX","RACE","INCOME","AGE","DEGREE","CHILDS","MARITAL","WRKSLF","PARTYID","VOTE12","TRUST","EQWLTH","INCGAP","HEALTH1","NATHEAL","NATSPAC","NATDRUG","NATRACE","RACLIVE","GRASS"
+"1","Male","White",42154,43,"High School",0,"Never Married",0,"Republican",0,0,1,0,"Very Good",1,1,1,0,0,1
+"2","Female","White",29119,40,"Graduate",2,"Was Married",0,"Democrat",1,0,2,1,"Excellent",1,0,1,1,1,0
+"3","Male","White",40894,20,"High School",0,"Never Married",0,"Independent",0,0,4,0,"Excellent",0,0,1,1,0,0
+"4","Male","White",38100,65,"Graduate",5,"Married",0,"Republican",1,1,7,0,"Very Good",0,0,1,0,1,0
+"5","Male","White",72593,22,"High School",0,"Never Married",1,"Independent",0,0,4,1,"Excellent",1,1,1,1,1,1
+"6","Female","White",100242,42,"Graduate",2,"Married",0,"Democrat",1,1,2,1,"Good",1,0,1,1,1,1
+"7","Female","White",65647,37,"College",2,"Married",0,"Independent",1,1,3,1,"Excellent",0,0,0,0,0,0
+"8","Male","White",87573,46,"High School",2,"Married",0,"Democrat",1,1,3,1,"Very Good",1,1,1,1,1,1
+"9","Female","White",69404,54,"College",5,"Married",0,"Independent",1,0,1,1,"Very Good",0,0,1,1,0,0
+"10","Female","White",45685,59,"College",2,"Married",0,"Independent",1,1,2,1,"Very Good",1,0,1,0,1,1
+"11","Female","White",84,39,"College",0,"Never Married",0,"Democrat",0,1,1,1,"Excellent",1,0,1,1,0,1
+"12","Female","White",37423,39,"Graduate",1,"Never Married",1,"Democrat",1,0,1,1,"Very Good",1,0,1,1,1,1
+"13","Male","White",30537,69,"High School",2,"Married",1,"Democrat",1,0,4,1,"Fair",1,1,1,1,1,0
+"14","Female","Other",28703,35,"College",0,"Married",0,"Independent",0,0,6,1,"Good",0,0,1,1,0,1
+"15","Male","White",46062,55,"Associates",2,"Was Married",0,"Republican",1,0,7,0,"Good",0,1,0,0,1,0
+"16","Male","White",34593,43,"No Degree",0,"Never Married",0,"Democrat",0,0,5,1,"Fair",0,0,0,0,0,1
+"17","Male","White",38372,19,"High School",0,"Never Married",0,"Independent",0,0,2,1,"Fair",0,1,1,0,1,0
+"18","Male","White",63857,36,"Graduate",2,"Married",1,"Democrat",1,0,4,1,"Excellent",1,0,1,1,1,1
+"19","Male","Other",49468,53,"High School",3,"Was Married",1,"Republican",1,1,5,0,"Very Good",1,0,0,0,1,1
+"20","Female","White",34408,38,"College",3,"Married",0,"Democrat",1,1,4,1,"Very Good",1,0,1,1,0,1
+"21","Female","White",46819,34,"Graduate",2,"Married",0,"Republican",1,0,7,1,"Very Good",0,1,1,0,1,1
+"22","Male","Black",25024,28,"High School",0,"Never Married",0,"Democrat",1,1,1,1,"Fair",1,0,1,0,1,1
+"23","Female","White",36471,28,"College",0,"Never Married",0,"Independent",1,0,2,1,"Fair",1,1,0,1,1,1
+"24","Female","Other",33062,51,"High School",1,"Was Married",1,"Independent",0,1,7,0,"Excellent",0,0,0,1,1,1
+"25","Male","Black",102513,44,"College",3,"Married",0,"Independent",1,0,3,1,"Very Good",0,1,1,0,1,0
+"26","Male","White",48658,26,"High School",2,"Never Married",0,"Independent",0,0,3,1,"Very Good",0,0,1,1,0,1
+"27","Male","Other",45299,36,"High School",1,"Never Married",0,"Independent",1,0,4,0,"Good",1,0,1,1,1,1
+"28","Male","Other",29635,51,"High School",0,"Never Married",0,"Independent",0,0,2,1,"Very Good",0,0,0,1,1,0
+"29","Female","White",35786,36,"High School",1,"Was Married",0,"Democrat",1,0,1,1,"Excellent",1,0,1,0,1,1
+"30","Male","White",34411,34,"High School",3,"Married",0,"Independent",0,1,1,1,"Very Good",1,1,0,1,0,1
+"31","Male","White",33776,59,"College",1,"Was Married",0,"Republican",1,0,7,0,"Excellent",0,1,1,1,0,1
+"32","Male","White",58730,25,"College",0,"Never Married",0,"Independent",1,1,5,0,"Very Good",0,0,1,0,0,0
+"33","Male","White",56223,58,"Graduate",0,"Was Married",0,"Democrat",1,1,2,1,"Excellent",1,1,0,1,0,1
+"34","Female","White",48403,40,"College",2,"Married",0,"Independent",1,1,2,1,"Very Good",1,0,1,0,1,1
+"35","Female","Black",44532,35,"College",2,"Married",0,"Independent",1,0,4,0,"Excellent",1,0,1,1,1,0
+"36","Male","White",42131,70,"High School",0,"Was Married",0,"Independent",1,0,5,1,"Good",1,0,1,0,1,0
+"37","Female","Other",39896,55,"High School",2,"Was Married",0,"Independent",1,1,1,1,"Poor",1,0,1,1,1,0
+"38","Female","White",62264,77,"High School",3,"Married",1,"Republican",1,1,7,0,"Excellent",1,1,1,1,0,0
+"39","Female","White",38705,20,"High School",0,"Never Married",0,"Independent",0,0,7,0,"Excellent",0,0,1,0,1,1
+"40","Female","White",42014,59,"Associates",1,"Married",0,"Democrat",1,0,1,1,"Very Good",1,0,1,0,0,1
+"41","Female","White",43902,74,"Graduate",1,"Married",0,"Independent",1,1,5,1,"Excellent",1,0,1,0,0,1
+"42","Male","White",41690,36,"College",2,"Married",0,"Republican",1,1,3,1,"Excellent",1,0,1,1,1,1
+"43","Female","Black",41502,31,"High School",0,"Never Married",0,"Independent",0,0,1,1,"Very Good",1,0,1,1,1,1
+"44","Female","White",33016,35,"College",1,"Married",0,"Democrat",1,0,5,1,"Fair",1,0,1,1,1,0
+"45","Female","Other",37882,37,"High School",1,"Never Married",1,"Democrat",0,0,3,0,"Good",0,0,1,0,1,0
+"46","Female","Other",30705,24,"College",0,"Never Married",0,"Independent",0,0,3,1,"Very Good",1,1,0,1,1,1
+"47","Female","White",27876,21,"High School",0,"Never Married",0,"Independent",0,0,5,0,"Very Good",1,0,1,1,1,1
+"48","Female","Other",48035,37,"Graduate",1,"Was Married",0,"Democrat",0,1,3,1,"Very Good",1,0,1,1,1,0
+"49","Male","White",48928,31,"High School",0,"Never Married",0,"Independent",0,0,4,1,"Fair",0,0,1,1,1,1
+"50","Male","White",39142,27,"High School",0,"Never Married",0,"Independent",0,0,5,1,"Fair",0,0,1,0,1,1
+"51","Female","White",54499,50,"Graduate",2,"Was Married",0,"Democrat",1,1,3,1,"Excellent",1,1,1,1,0,1
+"52","Female","White",48506,35,"College",0,"Never Married",0,"Republican",1,0,7,0,"Excellent",1,0,0,0,0,1
+"53","Female","White",38064,30,"College",1,"Married",0,"Republican",1,1,7,1,"Good",0,0,1,1,1,1
+"54","Female","Other",25454,68,"Graduate",0,"Was Married",1,"Independent",1,0,6,0,"Good",1,0,1,0,0,0
+"55","Female","White",88254,48,"High School",1,"Married",1,"Republican",0,0,4,0,"Excellent",1,0,1,0,1,0
+"56","Female","White",49258,59,"College",1,"Was Married",0,"Democrat",1,1,4,1,"Very Good",0,0,0,1,1,1
+"57","Female","White",22063,33,"High School",0,"Married",0,"Other",1,1,3,1,"Very Good",1,0,1,1,1,0
+"58","Female","White",34951,49,"Graduate",2,"Was Married",0,"Independent",0,1,6,1,"Very Good",0,0,1,0,1,1
+"59","Male","White",41766,28,"High School",0,"Never Married",0,"Democrat",1,1,3,1,"Very Good",1,1,1,1,1,1
+"60","Female","White",26850,23,"College",0,"Never Married",0,"Republican",0,1,5,0,"Very Good",1,0,1,0,1,1
+"61","Female","Other",42170,44,"High School",1,"Was Married",0,"Independent",0,0,5,1,"Good",0,0,0,0,1,0
+"62","Female","White",30432,45,"High School",2,"Married",0,"Independent",1,0,4,0,"Good",1,0,1,0,1,1
+"63","Male","Black",21859,51,"College",1,"Never Married",1,"Independent",1,0,1,1,"Excellent",1,1,1,1,1,1
+"64","Female","Other",32948,40,"No Degree",5,"Was Married",0,"Independent",0,0,7,0,"Excellent",0,0,1,1,0,0
+"65","Female","Black",25163,31,"Graduate",1,"Never Married",0,"Independent",1,1,3,1,"Very Good",1,0,1,1,1,1
+"67","Female","Black",12657,48,"High School",4,"Was Married",0,"Independent",0,0,4,0,"Good",1,0,1,1,1,0
+"68","Male","Black",44378,40,"High School",4,"Was Married",0,"Independent",1,0,3,1,"Excellent",1,1,1,1,1,1
+"69","Female","Black",47364,36,"College",1,"Married",0,"Republican",1,0,4,1,"Very Good",1,0,1,1,1,0
+"70","Female","White",36364,28,"High School",0,"Never Married",0,"Republican",1,0,5,1,"Very Good",0,1,0,1,1,0
+"71","Male","White",33520,22,"High School",0,"Never Married",0,"Other",0,0,5,1,"Very Good",1,1,1,1,1,1
+"72","Female","White",35352,40,"College",4,"Was Married",1,"Independent",0,0,3,1,"Very Good",0,0,1,0,1,0
+"73","Female","Black",45728,38,"No Degree",1,"Married",0,"Democrat",1,0,1,1,"Good",0,0,1,1,1,1
+"74","Male","Black",46547,59,"High School",3,"Was Married",0,"Independent",1,0,2,0,"Good",1,0,0,1,1,1
+"75","Female","Black",102275,54,"High School",4,"Married",0,"Democrat",1,1,2,1,"Very Good",1,0,0,1,1,1
+"76","Female","White",47773,28,"High School",0,"Married",0,"Independent",1,0,3,1,"Very Good",1,0,1,1,1,1
+"77","Male","Black",38084,30,"High School",0,"Never Married",0,"Democrat",1,0,7,1,"Very Good",0,0,1,1,1,0
+"78","Male","Other",33382,23,"High School",0,"Never Married",0,"Democrat",0,0,2,1,"Fair",1,0,1,1,1,1
+"79","Female","Other",55171,44,"Associates",0,"Married",1,"Independent",0,0,2,0,"Very Good",1,0,1,1,1,0
+"80","Male","White",41482,36,"High School",2,"Was Married",0,"Independent",0,0,4,1,"Fair",1,0,1,1,1,1
+"81","Female","White",28104,51,"Associates",3,"Married",0,"Democrat",1,1,1,1,"Good",1,1,1,1,0,1
+"82","Female","White",47301,27,"Associates",0,"Never Married",0,"Democrat",1,1,1,1,"Very Good",1,0,1,1,1,1
+"83","Male","White",32715,28,"No Degree",0,"Never Married",1,"Independent",1,0,2,1,"Excellent",1,0,0,0,1,0
+"84","Female","White",25084,35,"College",1,"Married",0,"Democrat",0,0,3,1,"Very Good",1,0,1,0,1,0
+"85","Female","White",25131,33,"High School",3,"Married",0,"Republican",1,1,7,0,"Excellent",1,0,1,0,1,1
+"86","Male","White",45781,55,"Associates",2,"Was Married",0,"Independent",1,0,3,1,"Good",1,0,1,1,1,1
+"87","Female","Black",42899,24,"High School",2,"Married",0,"Independent",0,1,1,1,"Very Good",0,0,0,0,1,0
+"88","Female","Other",46957,45,"Associates",6,"Was Married",0,"Independent",1,1,2,1,"Good",1,0,0,1,1,1
+"89","Male","White",41042,39,"College",0,"Never Married",0,"Independent",1,0,1,1,"Good",0,1,1,1,1,1
+"90","Female","White",20528,46,"High School",6,"Was Married",0,"Democrat",1,0,1,0,"Poor",0,0,1,1,1,0
+"91","Female","White",35691,56,"College",2,"Was Married",0,"Independent",1,1,5,0,"Good",0,0,1,0,1,0
+"92","Male","White",31137,56,"High School",1,"Married",0,"Republican",1,0,7,0,"Fair",0,1,0,0,1,0
+"93","Female","White",38193,39,"Associates",2,"Married",0,"Democrat",1,0,1,1,"Very Good",1,0,1,1,1,1
+"94","Female","White",26233,53,"Associates",3,"Married",0,"Republican",1,1,3,1,"Very Good",1,0,1,0,1,1
+"95","Male","White",2750,31,"High School",0,"Never Married",0,"Other",1,0,7,1,"Fair",0,1,0,0,1,1
+"96","Female","Black",191,42,"No Degree",6,"Never Married",0,"Independent",1,1,5,0,"Good",1,0,0,1,1,1
+"97","Female","White",22752,53,"High School",3,"Was Married",0,"Republican",1,0,6,0,"Good",1,0,0,0,0,0
+"98","Male","White",43806,57,"High School",0,"Was Married",0,"Republican",0,1,1,1,"Good",0,0,1,1,1,1
+"99","Female","White",69270,59,"Graduate",2,"Married",0,"Republican",1,1,7,1,"Good",0,0,0,0,1,1
+"100","Female","White",56057,48,"Graduate",2,"Married",1,"Independent",1,0,7,0,"Good",0,0,0,0,1,1
+"101","Male","Black",60784,59,"High School",3,"Married",0,"Independent",1,0,4,0,"Fair",1,0,1,1,1,1
+"102","Male","White",67222,45,"College",0,"Was Married",0,"Democrat",1,1,5,1,"Very Good",1,0,0,0,1,1
+"103","Female","Black",14250,26,"High School",3,"Was Married",0,"Independent",0,0,1,1,"Very Good",1,0,1,1,0,1
+"104","Male","White",64668,42,"Graduate",2,"Married",0,"Independent",1,1,6,0,"Very Good",0,0,1,0,1,1
+"105","Female","White",68015,60,"High School",4,"Married",0,"Republican",1,0,2,1,"Poor",1,0,1,1,1,1
+"106","Female","White",19516,34,"High School",0,"Never Married",0,"Other",1,0,1,1,"Fair",1,1,1,0,1,1
+"107","Female","White",18931,23,"High School",0,"Never Married",0,"Independent",0,0,1,1,"Good",0,1,0,1,1,1
+"108","Male","Black",62106,61,"College",3,"Was Married",0,"Independent",1,0,3,1,"Excellent",1,0,1,1,1,1
+"109","Female","White",63874,37,"College",2,"Married",0,"Democrat",1,0,5,1,"Excellent",1,1,1,0,1,1
+"110","Male","White",70729,61,"Associates",2,"Married",0,"Independent",0,1,4,1,"Good",1,0,1,1,1,1
+"111","Female","White",63215,31,"College",2,"Was Married",1,"Independent",0,0,3,1,"Fair",1,0,0,0,1,1
+"112","Male","White",19937,45,"College",3,"Was Married",0,"Republican",0,0,5,0,"Fair",0,1,0,1,1,1
+"113","Male","White",73583,21,"No Degree",0,"Never Married",0,"Independent",0,0,6,0,"Very Good",0,0,1,1,1,0
+"114","Male","White",6412,53,"No Degree",1,"Was Married",1,"Independent",0,0,4,0,"Fair",0,0,1,0,1,1
+"115","Female","White",67946,44,"High School",6,"Was Married",0,"Republican",1,1,6,0,"Fair",0,0,0,0,1,1
+"116","Female","White",56919,37,"High School",4,"Married",0,"Independent",0,0,3,1,"Good",1,1,1,1,1,1
+"117","Male","White",991,41,"No Degree",2,"Never Married",0,"Independent",1,0,7,1,"Excellent",1,0,0,0,1,1
+"118","Female","White",73640,69,"High School",3,"Was Married",0,"Democrat",1,0,3,1,"Good",1,0,1,1,1,0
+"119","Female","White",22167,60,"High School",0,"Married",0,"Republican",1,1,6,0,"Very Good",1,0,1,1,1,1
+"120","Male","White",56832,33,"High School",0,"Married",0,"Democrat",1,1,3,1,"Very Good",1,0,0,1,1,1
+"121","Male","White",72428,40,"No Degree",4,"Married",0,"Republican",0,0,2,1,"Good",1,1,1,1,0,0
+"122","Male","White",32272,23,"No Degree",0,"Was Married",0,"Independent",0,0,4,0,"Fair",0,0,0,1,1,1
+"123","Female","Black",59668,33,"College",2,"Married",0,"Democrat",1,0,3,0,"Fair",1,0,0,1,1,1
+"124","Female","White",31549,51,"High School",2,"Married",0,"Republican",1,1,4,0,"Very Good",1,0,1,1,1,0
+"125","Female","White",67931,51,"Associates",2,"Married",0,"Republican",1,1,4,0,"Very Good",1,0,1,0,1,1
+"126","Male","White",73261,49,"College",0,"Was Married",0,"Independent",1,0,2,1,"Fair",1,1,1,1,0,1
+"127","Male","White",69507,22,"High School",1,"Married",0,"Independent",0,0,5,1,"Good",1,1,1,1,0,1
+"128","Female","Other",56881,38,"College",0,"Never Married",0,"Democrat",1,1,3,1,"Excellent",0,0,0,0,1,1
+"129","Female","White",50957,25,"High School",1,"Never Married",0,"Independent",0,1,5,0,"Excellent",1,0,1,1,1,1
+"130","Female","White",66980,63,"High School",2,"Married",0,"Democrat",0,0,4,1,"Fair",1,0,1,1,1,1
+"131","Female","White",54138,27,"College",0,"Never Married",0,"Republican",0,0,3,1,"Excellent",1,1,1,1,1,1
+"132","Male","Black",64660,22,"High School",0,"Never Married",0,"Democrat",0,0,5,0,"Very Good",1,1,0,1,1,1
+"133","Male","White",99778,22,"High School",0,"Never Married",0,"Independent",0,0,4,1,"Good",1,1,1,0,1,0
+"134","Female","White",145257,32,"College",0,"Married",0,"Democrat",1,0,1,1,"Good",1,0,1,1,0,1
+"135","Male","White",18805,57,"High School",1,"Was Married",0,"Republican",0,0,3,1,"Very Good",1,1,1,1,1,1
+"136","Female","White",116111,36,"College",3,"Married",0,"Democrat",1,0,5,0,"Excellent",1,0,0,1,1,1
+"137","Female","White",57419,68,"Associates",2,"Was Married",1,"Democrat",1,1,3,1,"Very Good",1,0,1,1,1,1
+"138","Male","White",102049,30,"High School",0,"Never Married",0,"Independent",1,0,6,1,"Good",0,0,1,0,1,1
+"139","Male","White",99934,61,"High School",3,"Was Married",0,"Independent",1,1,3,1,"Fair",1,0,0,1,1,1
+"140","Male","White",75851,56,"College",0,"Never Married",1,"Democrat",1,1,3,1,"Very Good",1,0,0,0,0,0
+"141","Male","White",134932,23,"College",0,"Never Married",0,"Independent",0,1,5,0,"Excellent",1,0,1,1,1,1
+"142","Female","White",105139,36,"High School",2,"Married",0,"Democrat",0,0,7,0,"Excellent",0,0,1,1,0,1
+"143","Female","White",149739,39,"College",1,"Married",0,"Democrat",0,1,1,1,"Good",0,0,1,0,1,1
+"144","Female","White",94129,50,"Graduate",3,"Married",0,"Independent",1,1,4,1,"Good",1,1,1,0,0,0
+"145","Female","White",111636,54,"High School",2,"Married",1,"Republican",1,1,7,0,"Very Good",0,0,1,0,1,0
+"146","Male","White",28070,36,"Graduate",2,"Married",0,"Republican",1,0,7,0,"Fair",0,0,0,0,1,1
+"147","Female","White",75883,38,"College",1,"Married",1,"Republican",1,0,6,0,"Very Good",1,1,1,0,1,1
+"148","Male","White",109414,42,"Associates",7,"Married",0,"Independent",1,0,3,1,"Good",1,0,1,0,0,0
+"149","Male","White",143754,38,"Associates",2,"Married",0,"Independent",0,0,4,1,"Very Good",1,0,0,0,1,1
+"150","Female","White",113363,37,"College",0,"Never Married",0,"Democrat",0,0,2,1,"Fair",1,0,0,1,1,0
+"151","Male","Black",20948,28,"High School",0,"Never Married",0,"Democrat",1,0,3,1,"Good",0,0,1,1,1,1
+"152","Female","White",12702,32,"High School",2,"Never Married",1,"Independent",1,0,3,1,"Excellent",1,0,1,0,0,1
+"153","Female","White",47816,58,"College",2,"Married",0,"Independent",1,1,3,1,"Good",1,0,1,1,1,1
+"154","Female","White",67461,52,"Associates",2,"Was Married",0,"Democrat",1,0,1,1,"Very Good",1,0,1,1,1,0
+"155","Female","Black",72137,50,"Associates",1,"Was Married",0,"Independent",1,1,7,0,"Fair",1,0,0,0,1,0
+"156","Female","White",45511,24,"College",0,"Married",0,"Independent",0,1,4,1,"Very Good",0,0,0,1,1,0
+"157","Male","White",107008,31,"College",0,"Never Married",0,"Democrat",1,0,6,0,"Very Good",0,0,1,0,1,1
+"158","Female","Black",10359,55,"High School",5,"Was Married",0,"Democrat",1,0,5,1,"Fair",1,0,1,1,1,1
+"159","Female","White",81710,37,"No Degree",3,"Was Married",0,"Republican",0,0,7,1,"Good",0,1,0,1,1,0
+"160","Male","Black",133974,22,"High School",0,"Never Married",0,"Independent",0,0,2,0,"Good",0,0,0,0,1,0
+"161","Female","Black",62326,57,"Graduate",4,"Married",0,"Democrat",1,1,4,1,"Good",1,0,1,1,1,1
+"162","Female","White",115900,34,"Associates",4,"Married",0,"Independent",0,1,1,1,"Excellent",1,0,1,0,1,1
+"163","Female","White",14873,54,"High School",1,"Was Married",0,"Republican",0,0,3,1,"Good",1,0,1,0,1,0
+"164","Male","White",111080,58,"No Degree",3,"Married",0,"Republican",1,0,5,0,"Fair",1,0,1,0,1,1
+"165","Female","White",7228,62,"High School",2,"Was Married",0,"Independent",1,0,3,1,"Fair",0,1,1,0,1,1
+"167","Female","White",28243,32,"College",0,"Married",0,"Republican",1,0,6,0,"Excellent",0,0,0,0,1,0
+"168","Male","Black",54553,37,"College",0,"Never Married",0,"Democrat",1,1,3,1,"Excellent",1,0,1,1,1,1
+"169","Female","Black",119268,51,"High School",1,"Married",0,"Democrat",1,0,1,1,"Good",1,0,1,1,1,1
+"170","Male","White",94204,35,"High School",1,"Married",0,"Republican",1,1,6,1,"Poor",1,1,1,0,0,1
+"171","Female","Black",92824,41,"Graduate",2,"Married",0,"Democrat",1,0,1,1,"Good",1,1,1,1,1,1
+"172","Male","White",130269,30,"College",0,"Never Married",0,"Independent",1,1,5,0,"Very Good",1,0,1,0,1,1
+"173","Female","White",71891,55,"High School",0,"Never Married",0,"Democrat",0,0,1,1,"Fair",1,0,1,0,0,1
+"174","Male","White",19762,25,"High School",0,"Never Married",0,"Independent",0,1,5,0,"Very Good",0,1,0,0,1,0
+"175","Female","White",92409,20,"High School",0,"Never Married",0,"Democrat",0,1,3,1,"Very Good",1,0,1,1,1,0
+"176","Female","White",109546,56,"High School",2,"Married",0,"Independent",0,0,5,1,"Good",1,0,1,1,0,1
+"177","Female","White",20241,26,"High School",2,"Never Married",0,"Independent",0,0,4,0,"Excellent",1,0,0,0,1,1
+"178","Male","White",34055,44,"High School",1,"Was Married",0,"Independent",0,1,5,1,"Good",1,0,1,1,0,1
+"179","Male","White",49242,37,"Associates",3,"Was Married",0,"Independent",0,0,7,1,"Good",1,1,1,0,0,1
+"180","Female","Black",66619,43,"Associates",2,"Married",0,"Republican",0,1,5,0,"Very Good",0,0,0,0,1,0
+"181","Male","White",103912,22,"High School",0,"Never Married",0,"Democrat",0,0,3,1,"Fair",1,1,1,1,1,1
+"182","Male","White",112465,62,"High School",2,"Was Married",0,"Independent",0,1,4,0,"Very Good",1,0,1,1,0,1
+"183","Male","White",129842,38,"Graduate",4,"Married",0,"Independent",1,0,3,1,"Good",1,0,1,1,1,1
+"184","Male","White",24307,25,"High School",1,"Never Married",0,"Independent",0,0,5,1,"Fair",1,0,0,0,1,1
+"185","Female","White",86684,45,"Graduate",2,"Married",0,"Independent",1,1,3,1,"Excellent",0,0,1,0,0,1
+"186","Male","Other",84566,51,"No Degree",0,"Married",0,"Democrat",1,0,1,0,"Good",1,0,0,0,1,0
+"187","Female","White",83053,54,"High School",3,"Married",0,"Other",0,0,1,1,"Good",1,0,1,1,0,0
+"188","Male","White",91735,59,"College",2,"Married",0,"Republican",1,1,7,0,"Very Good",0,0,0,0,1,1
+"189","Female","White",74763,47,"Graduate",4,"Married",0,"Independent",1,1,4,1,"Good",0,1,0,1,1,0
+"190","Female","White",57171,63,"College",2,"Married",0,"Independent",1,1,4,1,"Good",1,0,1,0,1,1
+"191","Male","Black",119998,53,"College",5,"Married",0,"Independent",1,0,4,1,"Excellent",1,1,1,1,1,1
+"192","Female","White",66057,35,"College",2,"Married",0,"Republican",1,1,4,0,"Very Good",1,0,1,0,1,0
+"193","Male","Black",14107,56,"High School",1,"Never Married",0,"Democrat",0,0,4,0,"Good",0,0,0,0,1,1
+"194","Female","Black",17206,25,"High School",0,"Never Married",0,"Independent",0,0,4,1,"Excellent",0,0,1,0,1,1
+"195","Female","Black",23505,23,"High School",3,"Never Married",0,"Independent",0,0,3,0,"Excellent",1,0,1,0,1,0
+"196","Male","White",69169,27,"High School",1,"Never Married",0,"Republican",0,0,4,0,"Fair",1,0,1,0,0,1
+"197","Female","White",132295,28,"College",1,"Never Married",0,"Independent",0,0,3,1,"Excellent",1,0,1,1,1,1
+"198","Female","Other",94933,59,"High School",2,"Was Married",0,"Independent",1,0,2,1,"Very Good",1,0,1,0,1,1
+"199","Male","Other",68152,43,"High School",3,"Was Married",0,"Independent",0,0,1,1,"Very Good",1,0,1,1,1,1
+"200","Male","Other",111417,39,"High School",2,"Was Married",0,"Democrat",0,0,6,0,"Good",1,0,0,0,0,1
+"201","Female","White",73388,34,"High School",3,"Never Married",0,"Independent",0,0,3,1,"Fair",1,0,1,1,0,1
+"202","Female","White",80304,31,"High School",1,"Married",0,"Democrat",1,0,5,1,"Good",1,0,1,1,0,1
+"203","Female","White",98543,38,"Associates",2,"Never Married",0,"Democrat",1,0,1,1,"Fair",1,0,1,1,1,1
+"204","Female","White",135236,25,"High School",0,"Never Married",0,"Independent",0,0,1,1,"Poor",1,0,1,0,1,1
+"205","Male","White",13979,41,"College",4,"Married",0,"Democrat",0,1,5,1,"Very Good",1,0,1,1,1,1
+"206","Female","White",131383,26,"College",0,"Married",0,"Democrat",1,0,3,1,"Good",1,0,1,1,0,0
+"207","Female","Other",56305,69,"High School",4,"Was Married",0,"Republican",1,0,6,1,"Good",0,0,1,0,1,0
+"208","Female","White",21932,28,"High School",5,"Was Married",0,"Independent",0,0,4,0,"Poor",1,0,1,0,1,0
+"209","Male","White",72923,59,"High School",4,"Married",0,"Independent",0,1,4,0,"Good",0,0,0,0,1,0
+"210","Female","Other",110710,42,"No Degree",3,"Married",0,"Independent",0,0,4,1,"Fair",1,1,1,0,1,0
+"211","Male","White",35847,44,"Graduate",2,"Married",0,"Republican",1,1,7,0,"Very Good",0,0,0,0,1,0
+"212","Male","White",129805,36,"No Degree",0,"Was Married",0,"Republican",0,0,3,1,"Good",1,1,0,0,0,1
+"213","Male","Other",102887,50,"Associates",2,"Was Married",0,"Independent",0,0,6,1,"Excellent",1,0,0,0,0,0
+"214","Male","White",63268,44,"High School",0,"Married",0,"Other",1,0,7,0,"Very Good",0,0,0,0,1,1
+"215","Male","Other",3377,37,"High School",0,"Never Married",1,"Independent",0,0,4,0,"Excellent",1,1,0,0,1,1
+"216","Female","White",78847,52,"Associates",2,"Married",0,"Independent",0,0,3,1,"Good",1,0,1,0,1,1
+"217","Female","White",47187,44,"Associates",2,"Was Married",0,"Independent",1,0,6,0,"Excellent",1,0,1,0,0,1
+"218","Male","White",56659,27,"High School",0,"Never Married",0,"Independent",0,0,4,0,"Good",1,1,1,1,1,1
+"219","Female","White",29593,56,"College",2,"Married",0,"Republican",1,0,6,0,"Excellent",1,0,1,0,1,0
+"220","Female","White",21368,30,"High School",0,"Never Married",0,"Republican",0,0,4,0,"Fair",1,0,1,1,0,1
+"221","Female","White",66622,37,"High School",3,"Married",0,"Republican",1,0,7,0,"Fair",1,0,1,0,1,0
+"222","Male","White",148485,89,"High School",2,"Was Married",0,"Other",1,0,6,0,"Good",0,1,1,0,0,0
+"223","Female","White",128243,47,"High School",3,"Never Married",0,"Independent",0,0,2,1,"Very Good",0,0,1,0,1,1
+"224","Female","Other",76192,55,"High School",3,"Married",0,"Independent",0,0,7,0,"Good",0,0,0,0,1,1
+"225","Male","White",128370,29,"High School",1,"Never Married",0,"Republican",1,0,5,0,"Very Good",0,1,0,0,1,1
+"226","Female","White",16076,37,"High School",2,"Was Married",0,"Democrat",0,0,3,1,"Good",1,0,1,1,0,1
+"227","Male","White",102809,39,"Graduate",0,"Never Married",0,"Independent",1,0,1,1,"Very Good",1,0,1,1,1,1
+"228","Female","White",82971,33,"Graduate",1,"Married",0,"Republican",1,0,6,1,"Very Good",1,0,0,1,1,1
+"229","Female","White",96600,50,"Graduate",2,"Married",0,"Democrat",1,0,4,1,"Excellent",0,0,1,0,0,1
+"230","Male","White",142452,32,"No Degree",1,"Never Married",0,"Independent",1,1,3,0,"Very Good",1,1,1,0,0,1
+"231","Male","White",227,51,"No Degree",0,"Never Married",1,"Democrat",0,0,6,0,"Fair",1,0,1,0,1,0
+"232","Female","White",64348,53,"No Degree",2,"Married",0,"Democrat",1,0,1,1,"Fair",1,0,1,1,0,1
+"233","Female","Black",110575,24,"College",0,"Never Married",0,"Independent",0,0,1,1,"Fair",1,0,0,1,1,1
+"234","Male","Black",64187,46,"High School",4,"Was Married",0,"Democrat",1,0,1,1,"Good",0,0,1,1,1,0
+"235","Female","Black",91198,34,"Associates",3,"Married",0,"Democrat",1,0,3,1,"Fair",1,0,1,0,1,0
+"236","Male","Black",90783,56,"Associates",2,"Married",0,"Independent",0,0,7,0,"Fair",1,0,1,1,1,0
+"237","Female","White",24198,68,"Graduate",0,"Never Married",0,"Republican",1,1,5,0,"Good",0,1,1,0,1,0
+"238","Male","Black",66970,30,"High School",1,"Never Married",0,"Independent",0,0,4,1,"Good",0,0,0,0,1,1
