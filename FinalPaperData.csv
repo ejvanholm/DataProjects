@@ -1,0 +1,1416 @@
+"","SEX","RACE","INCOME","AGE","DEGREE","CHILDS","MARITAL","WRKSLF","PARTYID","VOTE12","TRUST","EQWLTH","INCGAP","HEALTH1","NATHEAL","NATSPAC","NATDRUG","NATRACE","RACLIVE","GRASS"
+"1","Male","White",31227,43,2,0,"Never Married",0,"Republican",1,NA,NA,NA,3,1,0,1,1,0,NA
+"3","Male","White",33531,42,3,2,"Married",0,"Independent/Other",1,0,3,NA,2,1,1,1,1,0,1
+"4","Female","White",21177,63,3,2,"Married",0,"Independent/Other",1,1,5,1,1,NA,NA,NA,NA,0,0
+"7","Female","Black",16610,59,1,6,"Was Married",0,"Democrat",1,0,5,1,3,NA,NA,NA,NA,1,1
+"8","Male","White",42154,43,1,0,"Never Married",0,"Republican",0,0,1,0,2,1,1,1,0,0,1
+"9","Female","White",5099,62,0,4,"Was Married",1,"Independent/Other",1,0,3,NA,5,1,0,1,1,1,1
+"10","Male","White",47207,55,1,2,"Married",0,"Democrat",0,0,3,0,2,NA,NA,NA,NA,1,1
+"11","Male","White",37754,59,4,2,"Was Married",0,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"12","Female","Other",24921,34,1,3,"Was Married",0,"Democrat",1,0,3,1,3,NA,NA,NA,NA,1,0
+"14","Male","Black",32077,44,3,2,"Married",0,"Democrat",0,1,1,1,1,NA,NA,NA,NA,0,1
+"16","Female","White",41716,75,1,4,"Was Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"19","Female","White",29119,40,4,2,"Was Married",0,"Democrat",1,0,2,1,1,1,0,1,1,1,0
+"20","Male","White",66849,30,4,0,"Never Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,1,1
+"21","Female","White",35604,34,1,1,"Married",0,"Republican",0,NA,NA,NA,1,1,0,1,0,1,NA
+"23","Female","White",33131,40,2,1,"Married",1,"Independent/Other",1,0,2,NA,3,1,0,0,1,1,1
+"24","Male","White",42612,37,1,0,"Never Married",1,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"25","Female","White",43621,56,3,3,"Married",0,"Republican",1,NA,NA,NA,3,1,0,1,1,1,NA
+"27","Female","White",32218,68,1,3,"Was Married",0,"Democrat",1,NA,NA,NA,2,1,0,1,0,1,NA
+"30","Male","White",40894,20,1,0,"Never Married",0,"Independent/Other",0,0,4,0,1,0,0,1,1,0,0
+"34","Female","White",35513,56,3,0,"Was Married",0,"Democrat",1,NA,NA,NA,3,1,0,0,1,0,NA
+"35","Female","White",48067,55,0,3,"Was Married",1,"Independent/Other",1,0,1,NA,1,1,0,1,1,0,0
+"36","Male","White",38100,65,4,5,"Married",0,"Republican",1,1,7,0,2,0,0,1,0,1,0
+"37","Female","White",42148,71,4,1,"Was Married",0,"Democrat",1,NA,NA,NA,4,1,0,1,1,1,NA
+"38","Male","White",36315,34,4,0,"Never Married",0,"Democrat",1,0,1,1,2,NA,NA,NA,NA,1,1
+"39","Male","White",49233,45,4,1,"Married",0,"Independent/Other",0,0,3,NA,2,0,0,1,1,1,1
+"41","Female","White",10075,65,1,2,"Was Married",0,"Democrat",1,1,3,1,2,NA,NA,NA,NA,1,1
+"42","Male","White",46423,52,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,4,1,0,0,1,1,NA
+"46","Female","White",30562,46,1,3,"Was Married",0,"Democrat",0,0,7,0,4,NA,NA,NA,NA,0,0
+"47","Male","White",27759,40,4,2,"Married",1,"Democrat",0,1,3,NA,2,1,0,0,1,1,1
+"51","Male","White",72593,22,1,0,"Never Married",1,"Independent/Other",0,0,4,1,1,1,1,1,1,1,1
+"52","Female","White",26870,42,1,3,"Was Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,1,1,NA
+"53","Female","White",47917,59,4,2,"Was Married",0,"Independent/Other",0,1,5,NA,3,0,0,1,0,1,0
+"55","Male","White",17587,46,3,2,"Married",0,"Independent/Other",1,1,3,0,1,NA,NA,NA,NA,0,1
+"56","Male","White",25653,55,3,1,"Was Married",0,"Republican",1,1,6,1,1,NA,NA,NA,NA,1,1
+"59","Male","White",37769,23,0,0,"Never Married",0,"Democrat",0,0,1,1,4,NA,NA,NA,NA,1,1
+"60","Female","Black",7905,28,1,2,"Was Married",0,"Democrat",1,1,2,1,5,NA,NA,NA,NA,0,1
+"62","Female","Black",49308,42,0,3,"Married",0,"Democrat",1,1,1,NA,5,1,0,1,1,1,1
+"63","Female","Black",40782,41,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,4,1,1,1,1,1,NA
+"67","Male","White",31025,34,1,3,"Married",0,"Democrat",0,NA,NA,NA,5,NA,NA,NA,NA,1,NA
+"69","Female","Black",26700,32,4,0,"Never Married",0,"Democrat",1,NA,NA,NA,1,0,0,0,1,1,NA
+"72","Male","Black",29034,37,2,0,"Married",0,"Democrat",1,0,3,1,4,NA,NA,NA,NA,1,0
+"74","Female","White",100242,42,4,2,"Married",0,"Democrat",1,1,2,1,3,1,0,1,1,1,1
+"75","Male","White",44028,21,1,0,"Never Married",0,"Independent/Other",0,0,4,1,4,NA,NA,NA,NA,1,1
+"76","Female","Black",69847,33,2,2,"Never Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"77","Female","White",65647,37,3,2,"Married",0,"Independent/Other",1,1,3,1,1,0,0,0,0,0,0
+"82","Female","Black",38890,42,1,1,"Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,1,1,NA
+"83","Female","Other",32190,37,1,1,"Was Married",0,"Democrat",0,0,1,NA,2,1,1,1,1,1,1
+"84","Female","White",29347,40,1,4,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"85","Male","White",49834,70,1,4,"Was Married",0,"Republican",1,0,1,1,2,NA,NA,NA,NA,1,1
+"86","Male","Black",39712,28,3,0,"Never Married",0,"Democrat",0,1,2,NA,3,1,0,1,1,1,0
+"87","Female","Other",47069,53,1,2,"Never Married",0,"Democrat",1,0,7,1,2,NA,NA,NA,NA,1,0
+"88","Male","White",87573,46,1,2,"Married",0,"Democrat",1,1,3,1,2,1,1,1,1,1,1
+"89","Male","White",29382,55,4,0,"Married",0,"Democrat",1,1,2,1,3,NA,NA,NA,NA,1,1
+"90","Male","Other",9670,28,4,0,"Never Married",1,"Democrat",1,1,1,NA,1,1,1,1,1,1,1
+"91","Male","White",27267,42,4,0,"Never Married",0,"Independent/Other",1,0,4,1,2,NA,NA,NA,NA,1,1
+"92","Female","White",34411,77,4,0,"Married",1,"Democrat",1,NA,NA,NA,1,0,1,1,0,1,NA
+"93","Male","Other",12216,29,4,0,"Never Married",0,"Independent/Other",0,0,6,0,1,NA,NA,NA,NA,1,1
+"95","Female","Black",35777,30,3,2,"Never Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"96","Male","Black",40225,22,1,0,"Never Married",0,"Democrat",0,0,5,1,3,NA,NA,NA,NA,1,0
+"98","Male","Black",32053,45,3,0,"Was Married",0,"Democrat",1,NA,NA,NA,2,1,1,1,1,1,NA
+"101","Male","Other",33122,48,0,1,"Was Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"103","Male","Other",63718,50,4,0,"Married",0,"Independent/Other",1,1,2,1,1,NA,NA,NA,NA,1,1
+"105","Male","White",37071,56,4,0,"Never Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,1
+"106","Male","White",42146,60,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,0,1,NA
+"107","Male","White",37888,23,1,0,"Never Married",0,"Republican",0,0,4,1,1,NA,NA,NA,NA,0,0
+"108","Female","White",58997,67,1,0,"Never Married",0,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,1,1
+"109","Female","White",69404,54,3,5,"Married",0,"Independent/Other",1,0,1,1,2,0,0,1,1,0,0
+"111","Female","White",32412,55,2,2,"Was Married",0,"Democrat",1,0,5,0,2,NA,NA,NA,NA,0,1
+"112","Female","White",49521,56,1,1,"Married",0,"Democrat",0,0,2,NA,1,1,0,0,1,0,0
+"115","Male","White",27430,70,3,3,"Married",0,"Democrat",1,1,2,1,2,NA,NA,NA,NA,1,1
+"116","Male","White",20814,35,3,2,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,1,1,1,1,NA
+"119","Female","White",40232,48,1,2,"Married",1,"Republican",0,0,3,0,2,NA,NA,NA,NA,0,1
+"120","Male","White",40992,32,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"122","Female","White",28478,61,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,0,0,1,NA
+"123","Female","White",28922,76,3,2,"Was Married",0,"Democrat",1,0,1,1,2,NA,NA,NA,NA,1,1
+"124","Female","White",45685,59,3,2,"Married",0,"Independent/Other",1,1,2,1,2,1,0,1,0,1,1
+"125","Male","White",42387,69,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,3,1,1,1,1,0,NA
+"126","Male","Other",41349,48,4,0,"Never Married",0,"Democrat",1,1,3,NA,1,0,0,0,1,1,0
+"127","Female","White",37334,68,4,2,"Married",1,"Republican",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"128","Female","White",84,39,3,0,"Never Married",0,"Democrat",0,1,1,1,1,1,0,1,1,0,1
+"129","Male","White",25878,38,4,2,"Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"130","Female","White",37423,39,4,1,"Never Married",1,"Democrat",1,0,1,1,2,1,0,1,1,1,1
+"133","Male","White",87554,60,3,3,"Married",0,"Democrat",1,1,4,NA,2,1,1,1,1,1,1
+"134","Male","White",30537,69,1,2,"Married",1,"Democrat",1,0,4,1,4,1,1,1,1,1,0
+"135","Male","White",37217,60,1,0,"Married",0,"Democrat",0,0,1,1,3,NA,NA,NA,NA,1,1
+"136","Female","Other",39238,22,1,0,"Never Married",0,"Independent/Other",0,1,1,NA,3,1,0,1,0,1,1
+"138","Female","Other",28703,35,3,0,"Married",0,"Independent/Other",0,0,6,1,3,0,0,1,1,0,1
+"139","Female","White",46574,38,0,2,"Married",0,"Independent/Other",0,0,1,0,2,NA,NA,NA,NA,0,0
+"140","Female","White",28309,25,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,0,1,NA
+"141","Male","White",46062,55,2,2,"Was Married",0,"Republican",1,0,7,0,3,0,1,0,0,1,0
+"142","Male","White",22927,34,1,0,"Married",0,"Democrat",1,1,1,1,5,NA,NA,NA,NA,1,1
+"145","Male","Other",37753,56,1,3,"Was Married",0,"Democrat",1,0,3,0,4,NA,NA,NA,NA,1,1
+"146","Male","Black",32976,19,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,4,1,0,1,0,1,NA
+"148","Female","Black",14744,26,3,0,"Never Married",0,"Independent/Other",0,0,2,1,4,NA,NA,NA,NA,1,1
+"150","Female","White",39695,59,4,2,"Was Married",0,"Democrat",1,1,2,1,2,NA,NA,NA,NA,1,1
+"151","Female","Black",40991,39,4,0,"Never Married",0,"Independent/Other",1,0,3,1,2,NA,NA,NA,NA,1,1
+"154","Female","Other",49381,46,3,4,"Was Married",0,"Independent/Other",0,0,4,0,3,NA,NA,NA,NA,1,0
+"155","Male","Other",1942,57,0,0,"Never Married",0,"Republican",0,0,5,1,3,NA,NA,NA,NA,1,1
+"156","Female","Other",11059,35,0,4,"Married",0,"Democrat",0,0,1,1,3,NA,NA,NA,NA,1,0
+"157","Female","White",25172,58,1,4,"Was Married",0,"Republican",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"158","Female","Other",49379,20,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,1,1,1,NA
+"159","Female","Other",16303,48,0,5,"Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,1,0
+"160","Female","White",12802,51,0,3,"Was Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,0,1,1,NA
+"163","Female","Other",45043,41,1,2,"Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"167","Male","White",34593,43,0,0,"Never Married",0,"Democrat",0,0,5,1,4,0,0,0,0,0,1
+"169","Male","White",29008,46,2,0,"Never Married",0,"Democrat",1,1,5,1,5,NA,NA,NA,NA,1,0
+"170","Male","White",27397,36,1,3,"Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"171","Male","White",38372,19,1,0,"Never Married",0,"Independent/Other",0,0,2,1,4,0,1,1,0,1,0
+"172","Male","Other",30379,65,1,1,"Married",0,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,1,0
+"173","Female","White",33045,60,1,0,"Was Married",0,"Republican",1,1,4,1,2,NA,NA,NA,NA,1,0
+"175","Male","White",63857,36,4,2,"Married",1,"Democrat",1,0,4,1,1,1,0,1,1,1,1
+"177","Female","White",99427,42,4,3,"Married",1,"Democrat",1,NA,NA,NA,2,1,0,1,1,1,NA
+"178","Male","White",31001,61,1,0,"Was Married",1,"Independent/Other",1,0,7,0,2,NA,NA,NA,NA,1,1
+"179","Male","Other",36513,27,3,0,"Never Married",0,"Democrat",1,1,2,NA,2,1,1,0,1,1,1
+"183","Male","White",49966,36,4,0,"Never Married",1,"Democrat",1,NA,NA,NA,3,1,1,1,1,1,NA
+"184","Male","White",48036,34,4,0,"Never Married",0,"Democrat",1,1,3,NA,2,0,1,0,1,1,1
+"185","Male","Other",33683,46,3,1,"Was Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"188","Male","Other",47958,46,3,2,"Married",0,"Democrat",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"190","Male","Other",36695,46,1,1,"Never Married",0,"Independent/Other",0,0,1,NA,4,0,0,1,0,0,1
+"191","Male","Other",49468,53,1,3,"Was Married",1,"Republican",1,1,5,0,2,1,0,0,0,1,1
+"194","Female","Other",49170,36,3,1,"Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"196","Male","White",42234,60,3,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,0,0,1,1,1,NA
+"197","Female","Other",36969,53,0,3,"Was Married",0,"Republican",1,0,5,NA,3,1,0,1,0,0,0
+"198","Male","White",49773,69,1,4,"Married",1,"Democrat",1,NA,NA,NA,4,NA,NA,NA,NA,0,NA
+"199","Female","White",34408,38,3,3,"Married",0,"Democrat",1,1,4,1,2,1,0,1,1,0,1
+"200","Female","White",14809,48,1,3,"Married",1,"Republican",1,NA,NA,NA,2,1,0,0,1,1,NA
+"201","Male","Other",44982,30,3,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,0,1,0,1,0,NA
+"207","Male","White",28938,47,1,3,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"209","Male","White",42684,50,4,0,"Married",0,"Democrat",1,1,2,1,2,NA,NA,NA,NA,1,1
+"212","Male","White",74898,46,1,2,"Married",0,"Republican",1,0,6,0,2,NA,NA,NA,NA,1,0
+"216","Female","White",26958,30,2,2,"Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,1,1,NA
+"218","Male","White",3130,50,0,1,"Married",0,"Independent/Other",0,0,1,NA,4,0,0,0,0,0,0
+"220","Female","White",31063,33,1,1,"Married",0,"Independent/Other",0,0,5,0,2,NA,NA,NA,NA,1,0
+"221","Female","White",46819,34,4,2,"Married",0,"Republican",1,0,7,1,2,0,1,1,0,1,1
+"222","Female","White",50150,46,3,2,"Married",0,"Democrat",1,1,1,1,3,NA,NA,NA,NA,1,1
+"223","Male","White",36521,51,1,3,"Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"224","Male","Black",25024,28,1,0,"Never Married",0,"Democrat",1,1,1,1,4,1,0,1,0,1,1
+"225","Male","Other",36256,74,3,5,"Was Married",0,"Independent/Other",0,NA,NA,NA,3,0,0,0,0,1,NA
+"226","Female","White",29341,29,1,2,"Never Married",0,"Independent/Other",1,0,4,NA,3,1,0,1,0,1,1
+"228","Female","White",36471,28,3,0,"Never Married",0,"Independent/Other",1,0,2,1,4,1,1,0,1,1,1
+"230","Female","White",32019,24,1,1,"Never Married",0,"Independent/Other",0,0,1,NA,2,1,0,1,1,0,1
+"231","Female","Other",33062,51,1,1,"Was Married",1,"Independent/Other",0,1,7,0,1,0,0,0,1,1,1
+"232","Female","White",47314,42,3,2,"Was Married",0,"Republican",1,1,5,NA,1,1,1,0,1,0,0
+"233","Male","Black",102513,44,3,3,"Married",0,"Independent/Other",1,0,3,1,2,0,1,1,0,1,0
+"235","Male","White",25231,29,1,0,"Married",0,"Republican",0,0,6,1,4,NA,NA,NA,NA,1,0
+"236","Female","White",26107,48,3,0,"Married",0,"Independent/Other",1,1,3,NA,3,1,1,0,1,1,1
+"237","Female","White",33888,62,0,4,"Was Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"239","Male","White",44124,65,4,4,"Married",0,"Independent/Other",1,1,7,0,2,NA,NA,NA,NA,1,1
+"241","Female","White",45314,58,2,3,"Married",0,"Republican",1,1,5,0,2,NA,NA,NA,NA,1,0
+"242","Male","White",48658,26,1,2,"Never Married",0,"Independent/Other",0,0,3,1,2,0,0,1,1,0,1
+"243","Female","White",47806,61,1,3,"Married",0,"Republican",1,0,5,0,2,NA,NA,NA,NA,1,1
+"244","Female","White",39359,30,1,3,"Married",0,"Independent/Other",1,NA,NA,NA,3,0,0,1,0,1,NA
+"245","Female","White",6624,22,1,0,"Never Married",0,"Democrat",0,0,1,NA,4,1,0,0,1,1,1
+"246","Female","Other",15729,24,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,3,1,0,0,1,1,NA
+"247","Male","Other",29436,29,1,2,"Never Married",1,"Independent/Other",1,0,4,1,2,NA,NA,NA,NA,1,1
+"252","Male","White",46855,37,3,2,"Married",0,"Independent/Other",1,0,6,1,2,NA,NA,NA,NA,1,1
+"257","Male","Other",45299,36,1,1,"Never Married",0,"Independent/Other",1,0,4,0,3,1,0,1,1,1,1
+"258","Female","White",25145,33,3,0,"Never Married",0,"Democrat",0,NA,NA,NA,2,0,0,0,1,1,NA
+"260","Male","Other",47857,31,1,3,"Married",0,"Democrat",1,0,4,NA,4,1,0,0,0,1,1
+"262","Male","White",37971,26,3,0,"Never Married",0,"Democrat",1,0,1,1,1,NA,NA,NA,NA,0,1
+"263","Male","White",35998,45,3,0,"Married",0,"Independent/Other",1,0,5,NA,1,0,0,0,0,1,1
+"264","Female","White",49773,54,3,1,"Married",1,"Independent/Other",1,1,6,1,3,NA,NA,NA,NA,1,1
+"267","Male","White",25791,58,3,2,"Was Married",0,"Independent/Other",0,0,1,1,2,NA,NA,NA,NA,1,1
+"268","Female","White",38173,50,2,1,"Was Married",0,"Independent/Other",1,0,4,1,1,NA,NA,NA,NA,1,1
+"269","Male","Black",42327,36,3,0,"Never Married",0,"Democrat",1,1,2,1,3,NA,NA,NA,NA,1,1
+"270","Female","White",44809,27,1,1,"Never Married",0,"Democrat",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"271","Male","Other",29635,51,1,0,"Never Married",0,"Independent/Other",0,0,2,1,2,0,0,0,1,1,0
+"272","Male","White",14861,48,3,2,"Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"273","Female","White",46681,29,1,2,"Never Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,1
+"274","Female","White",46212,65,4,3,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"276","Male","White",32686,53,3,1,"Married",0,"Democrat",1,0,4,0,1,NA,NA,NA,NA,0,1
+"277","Male","White",84618,45,4,2,"Married",0,"Democrat",1,1,3,1,2,NA,NA,NA,NA,1,1
+"278","Female","White",35786,36,1,1,"Was Married",0,"Democrat",1,0,1,1,1,1,0,1,0,1,1
+"279","Male","White",37632,60,1,1,"Married",0,"Independent/Other",1,0,7,0,1,NA,NA,NA,NA,1,1
+"280","Female","Black",42280,63,3,3,"Married",0,"Democrat",1,1,3,NA,3,1,0,1,1,1,1
+"281","Female","White",33728,52,1,1,"Was Married",0,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"282","Male","White",34411,34,1,3,"Married",0,"Independent/Other",0,1,1,1,2,1,1,0,1,0,1
+"283","Male","White",79156,58,1,0,"Married",0,"Republican",1,1,4,1,2,NA,NA,NA,NA,1,1
+"288","Female","White",25822,39,1,1,"Never Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"289","Female","White",34948,46,1,3,"Was Married",0,"Independent/Other",0,0,7,0,3,NA,NA,NA,NA,0,0
+"291","Male","White",33776,59,3,1,"Was Married",0,"Republican",1,0,7,0,1,0,1,1,1,0,1
+"292","Female","White",94276,63,4,1,"Married",0,NA,1,1,1,1,2,NA,NA,NA,NA,0,1
+"293","Female","White",40797,38,1,2,"Never Married",0,"Democrat",0,0,7,NA,4,0,1,0,0,1,1
+"294","Male","White",31262,50,1,2,"Was Married",0,"Republican",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"296","Female","White",29518,45,3,3,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,1,1,1,NA
+"299","Female","White",40058,31,4,0,"Never Married",0,"Democrat",1,NA,NA,NA,1,1,0,1,1,0,NA
+"300","Female","Black",34425,44,3,1,"Never Married",0,"Independent/Other",1,0,5,1,2,NA,NA,NA,NA,1,1
+"301","Female","Black",40666,46,3,1,"Married",0,"Democrat",1,0,1,NA,2,0,0,0,1,1,0
+"303","Male","White",18230,37,1,2,"Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"304","Female","White",43670,52,4,1,"Was Married",0,"Independent/Other",1,0,3,1,2,NA,NA,NA,NA,1,1
+"305","Male","White",41837,69,1,3,"Married",0,"Independent/Other",1,1,4,0,3,NA,NA,NA,NA,1,1
+"306","Male","Other",36205,34,1,2,"Was Married",1,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,0,NA
+"307","Male","White",58730,25,3,0,"Never Married",0,"Independent/Other",1,1,5,0,2,0,0,1,0,0,0
+"308","Male","Other",34873,33,0,0,"Never Married",0,"Independent/Other",0,0,1,1,2,NA,NA,NA,NA,1,0
+"309","Female","White",24906,45,1,2,"Was Married",0,"Republican",1,0,2,NA,2,1,0,1,0,0,1
+"312","Male","Other",42359,29,3,3,"Never Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"313","Male","White",56223,58,4,0,"Was Married",0,"Democrat",1,1,2,1,1,1,1,0,1,0,1
+"314","Male","White",45566,42,4,2,"Married",0,"Independent/Other",1,1,3,1,2,NA,NA,NA,NA,1,1
+"315","Male","White",27532,65,1,0,"Was Married",0,"Democrat",1,NA,NA,NA,1,1,0,0,0,1,NA
+"316","Female","Black",48986,25,3,0,"Never Married",0,"Independent/Other",1,1,6,1,4,NA,NA,NA,NA,1,1
+"319","Female","White",31677,34,4,5,"Married",0,"Republican",1,0,7,NA,3,1,0,1,0,1,0
+"320","Male","Black",44564,51,1,2,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"322","Male","Black",30000,53,1,3,"Married",0,"Independent/Other",1,NA,NA,NA,1,1,0,1,1,1,NA
+"331","Male","White",43056,42,2,0,"Never Married",1,"Democrat",1,1,1,1,3,NA,NA,NA,NA,1,1
+"332","Female","White",73729,34,4,0,"Married",0,"Democrat",1,0,1,1,2,NA,NA,NA,NA,1,1
+"337","Female","White",36526,26,4,0,"Never Married",0,"Republican",0,1,6,0,2,NA,NA,NA,NA,1,0
+"338","Male","White",24636,54,4,4,"Married",0,"Democrat",1,1,2,1,1,NA,NA,NA,NA,1,0
+"339","Female","White",48403,40,3,2,"Married",0,"Independent/Other",1,1,2,1,2,1,0,1,0,1,1
+"340","Female","White",65959,56,3,0,"Was Married",0,"Independent/Other",1,1,5,1,1,NA,NA,NA,NA,1,1
+"341","Male","White",38147,60,4,3,"Was Married",0,"Republican",1,1,5,0,4,NA,NA,NA,NA,1,0
+"343","Female","Black",44532,35,3,2,"Married",0,"Independent/Other",1,0,4,0,1,1,0,1,1,1,0
+"344","Male","White",48618,55,4,4,"Married",1,"Republican",1,1,6,1,1,NA,NA,NA,NA,1,0
+"347","Female","Black",66449,30,1,2,"Never Married",0,"Democrat",1,0,5,NA,4,1,0,1,1,1,0
+"351","Female","Black",97726,51,4,1,"Married",0,"Independent/Other",0,0,4,NA,2,1,0,1,1,1,0
+"355","Male","White",47380,43,4,2,"Married",0,"Democrat",1,NA,NA,NA,1,0,1,1,1,1,NA
+"357","Female","Black",10939,34,0,2,"Never Married",0,"Democrat",1,0,3,1,3,NA,NA,NA,NA,1,1
+"358","Male","Black",44430,39,4,3,"Married",0,"Independent/Other",0,1,1,1,2,NA,NA,NA,NA,1,0
+"359","Male","White",39686,52,2,1,"Never Married",1,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"360","Male","White",42131,70,1,0,"Was Married",0,"Independent/Other",1,0,5,1,3,1,0,1,0,1,0
+"363","Female","White",40397,32,1,2,"Married",1,"Republican",1,0,7,NA,2,0,0,1,0,1,1
+"364","Female","White",29832,40,3,3,"Was Married",0,"Republican",1,NA,NA,NA,1,1,0,1,0,0,NA
+"365","Male","White",15586,44,2,2,"Was Married",0,"Republican",1,0,7,0,3,NA,NA,NA,NA,1,1
+"367","Female","White",34377,70,4,0,"Never Married",0,"Democrat",1,NA,NA,NA,1,1,0,1,0,1,NA
+"368","Female","White",40076,27,3,0,"Never Married",0,"Independent/Other",1,0,5,0,3,NA,NA,NA,NA,1,1
+"369","Female","White",18789,30,4,0,"Married",0,"Independent/Other",1,0,6,NA,2,1,0,0,1,1,1
+"371","Male","White",79892,30,3,0,"Never Married",0,"Republican",0,NA,NA,NA,3,1,0,0,0,1,NA
+"372","Male","White",68476,38,3,0,"Married",0,"Democrat",1,1,1,1,2,NA,NA,NA,NA,1,1
+"373","Female","White",57390,27,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,1,1,1,0,1,1,NA
+"375","Male","White",27552,45,3,2,"Was Married",0,"Republican",1,NA,NA,NA,1,0,1,1,1,0,NA
+"377","Female","White",43071,18,1,0,"Never Married",0,"Independent/Other",0,0,2,NA,2,1,0,1,1,0,1
+"381","Male","White",33025,72,1,2,"Married",1,"Independent/Other",0,0,4,NA,2,0,0,1,1,1,1
+"384","Male","Other",49526,48,3,1,"Married",1,"Democrat",0,0,6,0,3,NA,NA,NA,NA,0,0
+"385","Female","White",81908,48,4,3,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"386","Female","White",31673,41,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"387","Female","White",40258,30,3,0,"Never Married",0,"Independent/Other",1,1,3,1,2,NA,NA,NA,NA,1,1
+"388","Female","White",48873,29,4,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,2,1,1,1,0,1,NA
+"389","Male","Black",38616,38,2,0,"Married",0,"Democrat",1,0,3,0,1,NA,NA,NA,NA,1,0
+"391","Female","Other",39896,55,1,2,"Was Married",0,"Independent/Other",1,1,1,1,5,1,0,1,1,1,0
+"392","Male","White",11754,28,4,0,"Never Married",0,"Democrat",1,1,1,1,2,NA,NA,NA,NA,1,1
+"394","Female","Other",7965,24,4,0,"Never Married",0,"Independent/Other",0,1,4,0,4,NA,NA,NA,NA,1,1
+"395","Male","White",32082,34,0,0,"Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"396","Female","White",62264,77,1,3,"Married",1,"Republican",1,1,7,0,1,1,1,1,1,0,0
+"398","Male","White",32238,69,4,2,"Married",1,"Democrat",1,1,1,NA,1,1,0,1,1,0,1
+"401","Male","White",47633,34,3,0,"Never Married",1,"Independent/Other",1,0,4,NA,2,1,0,0,1,0,1
+"403","Female","White",38705,20,1,0,"Never Married",0,"Independent/Other",0,0,7,0,1,0,0,1,0,1,1
+"404","Female","White",4817,38,0,2,"Married",0,"Republican",0,0,1,1,1,NA,NA,NA,NA,0,0
+"408","Female","Other",84378,43,1,3,"Married",0,NA,0,1,9,1,3,NA,NA,NA,NA,1,0
+"410","Male","White",41656,53,1,3,"Married",0,"Independent/Other",1,NA,NA,NA,4,1,1,0,0,1,NA
+"412","Female","White",23832,39,1,3,"Was Married",0,"Democrat",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"413","Male","White",11169,57,1,2,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,0,0,0,NA
+"414","Female","White",47176,63,2,1,"Married",0,"Republican",1,0,6,NA,2,1,0,1,0,0,0
+"416","Male","White",24085,32,3,2,"Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,0,1,1,NA
+"417","Male","White",27972,46,1,2,"Was Married",0,"Independent/Other",1,0,1,1,1,NA,NA,NA,NA,1,1
+"419","Female","Other",40455,99,2,3,"Married",0,"Democrat",1,1,2,1,1,NA,NA,NA,NA,1,0
+"420","Female","White",26897,49,3,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,1,0,1,NA
+"422","Female","White",42014,59,2,1,"Married",0,"Democrat",1,0,1,1,2,1,0,1,0,0,1
+"423","Male","White",41491,47,1,2,"Was Married",0,"Independent/Other",1,0,4,1,4,NA,NA,NA,NA,0,1
+"424","Female","Other",89272,27,1,1,"Never Married",0,"Democrat",1,0,1,1,2,NA,NA,NA,NA,1,1
+"425","Female","White",27496,57,1,2,"Married",0,"Independent/Other",0,0,1,NA,3,0,0,1,0,1,1
+"426","Female","White",43902,74,4,1,"Married",0,"Independent/Other",1,1,5,1,1,1,0,1,0,0,1
+"427","Female","White",654,51,4,2,"Married",1,"Republican",1,1,5,NA,3,1,1,1,1,0,0
+"428","Male","Other",71924,44,4,2,"Married",1,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"429","Female","White",54106,46,3,0,"Was Married",0,"Democrat",1,1,1,1,2,NA,NA,NA,NA,1,1
+"430","Female","Other",27828,42,1,3,"Married",1,"Democrat",0,NA,NA,NA,4,1,0,1,1,1,NA
+"431","Female","White",30087,65,3,2,"Was Married",0,"Democrat",1,1,1,1,1,NA,NA,NA,NA,1,0
+"432","Male","White",41690,36,3,2,"Married",0,"Republican",1,1,3,1,1,1,0,1,1,1,1
+"434","Female","Other",39342,32,3,0,"Married",1,"Independent/Other",0,1,3,1,2,NA,NA,NA,NA,1,0
+"439","Female","White",94546,55,4,2,"Married",0,"Independent/Other",1,1,7,NA,3,1,0,1,0,0,0
+"440","Female","Black",41502,31,1,0,"Never Married",0,"Independent/Other",0,0,1,1,2,1,0,1,1,1,1
+"441","Male","Other",23573,31,4,0,"Married",1,"Independent/Other",0,0,4,1,3,NA,NA,NA,NA,1,0
+"442","Female","White",33016,35,3,1,"Married",0,"Democrat",1,0,5,1,4,1,0,1,1,1,0
+"446","Male","Other",40786,22,1,0,"Never Married",0,"Independent/Other",0,0,1,NA,2,0,0,1,0,0,1
+"447","Female","Other",37882,37,1,1,"Never Married",1,"Democrat",0,0,3,0,3,0,0,1,0,1,0
+"448","Female","Black",45382,34,3,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,1,1,1,NA
+"451","Male","Black",27319,46,1,4,"Never Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"454","Female","White",64241,33,3,0,"Never Married",0,"Democrat",1,0,2,1,1,NA,NA,NA,NA,1,1
+"455","Female","Black",41534,46,4,3,"Was Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"460","Female","White",41690,22,2,0,"Married",0,"Democrat",0,0,3,0,1,NA,NA,NA,NA,1,0
+"461","Male","White",36464,28,3,0,"Married",0,"Democrat",1,1,1,1,1,NA,NA,NA,NA,1,1
+"462","Female","Other",30705,24,3,0,"Never Married",0,"Independent/Other",0,0,3,1,2,1,1,0,1,1,1
+"463","Male","White",39918,43,2,0,"Married",0,"Independent/Other",0,1,2,1,3,NA,NA,NA,NA,1,1
+"464","Male","White",38568,32,3,1,"Never Married",0,"Independent/Other",1,0,2,NA,3,1,0,1,1,1,1
+"466","Female","White",27876,21,1,0,"Never Married",0,"Independent/Other",0,0,5,0,2,1,0,1,1,1,1
+"467","Female","Other",39264,48,2,2,"Married",0,"Democrat",1,1,4,1,2,NA,NA,NA,NA,1,0
+"469","Female","White",99372,55,3,0,"Married",0,"Independent/Other",1,NA,NA,NA,1,1,0,1,0,1,NA
+"470","Female","White",43880,70,1,1,"Was Married",0,"Independent/Other",1,0,6,NA,2,0,0,0,1,0,1
+"472","Female","Other",48035,37,4,1,"Was Married",0,"Democrat",0,1,3,1,2,1,0,1,1,1,0
+"474","Male","White",38988,43,4,0,"Married",0,"Democrat",0,1,3,0,2,NA,NA,NA,NA,0,0
+"477","Female","White",40805,40,4,0,"Married",0,"Independent/Other",0,0,2,1,4,NA,NA,NA,NA,0,1
+"478","Male","Other",39480,59,3,2,"Married",1,"Democrat",0,1,3,NA,3,1,0,1,0,1,0
+"480","Male","White",48928,31,1,0,"Never Married",0,"Independent/Other",0,0,4,1,4,0,0,1,1,1,1
+"481","Female","Other",41997,51,4,0,"Never Married",0,"Republican",1,0,4,1,2,NA,NA,NA,NA,1,0
+"482","Female","Black",32442,32,1,0,"Married",1,"Independent/Other",1,0,2,NA,1,1,1,1,1,1,1
+"484","Male","White",39142,27,1,0,"Never Married",0,"Independent/Other",0,0,5,1,4,0,0,1,0,1,1
+"487","Female","Black",36417,44,3,6,"Never Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"489","Male","White",42021,33,0,3,"Married",0,"Independent/Other",0,0,1,NA,2,1,0,0,0,1,1
+"491","Female","White",47201,46,3,2,"Married",0,"Republican",1,1,7,0,1,NA,NA,NA,NA,1,0
+"492","Male","White",52499,72,4,3,"Married",0,"Democrat",1,1,1,1,1,NA,NA,NA,NA,0,0
+"493","Female","White",54499,50,4,2,"Was Married",0,"Democrat",1,1,3,1,1,1,1,1,1,0,1
+"495","Female","White",48506,35,3,0,"Never Married",0,"Republican",1,0,7,0,1,1,0,0,0,0,1
+"496","Female","Black",18075,35,0,2,"Never Married",0,"Democrat",1,NA,NA,NA,3,0,0,1,0,1,NA
+"497","Female","Black",46281,33,1,1,"Never Married",0,"Independent/Other",1,0,5,1,1,NA,NA,NA,NA,1,1
+"499","Male","White",23920,53,0,5,"Married",1,"Independent/Other",0,0,3,NA,1,1,0,1,0,1,1
+"501","Male","White",41230,33,1,0,"Married",0,"Independent/Other",0,0,3,NA,2,1,1,0,0,1,1
+"502","Male","Black",48169,28,3,2,"Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"503","Female","White",38064,30,3,1,"Married",0,"Republican",1,1,7,1,3,0,0,1,1,1,1
+"504","Male","White",42219,37,1,1,"Married",0,"Independent/Other",0,0,5,0,2,NA,NA,NA,NA,1,1
+"505","Male","Other",43844,38,1,0,"Married",0,"Democrat",1,1,1,NA,1,1,1,1,1,1,1
+"507","Male","White",44071,66,4,2,"Married",0,"Independent/Other",1,0,3,0,3,NA,NA,NA,NA,1,0
+"508","Female","Other",34547,29,3,0,"Married",0,"Democrat",0,NA,NA,NA,3,1,0,1,1,1,NA
+"509","Male","White",47110,39,4,1,"Married",0,"Independent/Other",0,1,2,1,2,NA,NA,NA,NA,1,1
+"510","Female","Black",46334,33,3,2,"Married",0,"Independent/Other",1,1,1,NA,1,1,0,1,1,1,0
+"511","Female","Other",25454,68,4,0,"Was Married",1,"Independent/Other",1,0,6,0,3,1,0,1,0,0,0
+"512","Female","White",38491,70,3,2,"Married",1,"Independent/Other",1,NA,NA,NA,2,1,0,0,0,1,NA
+"514","Male","White",35615,54,3,2,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,0,0,1,NA
+"516","Female","White",88254,48,1,1,"Married",1,"Republican",0,0,4,0,1,1,0,1,0,1,0
+"519","Female","White",49258,59,3,1,"Was Married",0,"Democrat",1,1,4,1,2,0,0,0,1,1,1
+"522","Female","White",29236,60,1,1,"Married",0,"Republican",1,1,1,NA,3,0,1,0,0,0,0
+"523","Male","White",39174,63,1,3,"Married",1,"Independent/Other",1,0,6,1,2,NA,NA,NA,NA,0,0
+"524","Male","White",16502,45,1,0,"Never Married",0,NA,0,NA,NA,NA,4,1,0,1,1,0,NA
+"525","Female","White",19607,35,1,4,"Married",1,"Republican",1,1,6,0,2,NA,NA,NA,NA,0,1
+"527","Female","White",62858,36,1,3,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"528","Female","White",9244,76,1,4,"Was Married",0,"Republican",0,1,8,1,2,NA,NA,NA,NA,0,1
+"530","Female","White",39685,56,1,1,"Was Married",0,"Independent/Other",0,0,5,1,4,NA,NA,NA,NA,1,1
+"531","Female","Black",3308,26,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"533","Male","Black",33799,55,1,1,"Never Married",0,"Independent/Other",1,0,5,1,2,NA,NA,NA,NA,1,0
+"534","Male","White",27653,57,4,2,"Married",0,"Republican",1,1,5,1,2,NA,NA,NA,NA,1,1
+"536","Female","White",22063,33,1,0,"Married",0,"Independent/Other",1,1,3,1,2,1,0,1,1,1,0
+"538","Male","White",58098,61,3,2,"Married",0,"Republican",1,NA,NA,NA,2,1,0,0,0,0,NA
+"539","Female","White",39453,39,1,3,"Married",0,"Independent/Other",0,1,3,1,3,NA,NA,NA,NA,1,0
+"540","Female","White",36370,38,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"541","Female","White",34951,49,4,2,"Was Married",0,"Independent/Other",0,1,6,1,2,0,0,1,0,1,1
+"543","Male","Black",25056,47,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,2,1,0,0,1,1,NA
+"544","Male","Other",25356,52,1,4,"Married",0,"Independent/Other",0,0,5,1,2,NA,NA,NA,NA,1,1
+"545","Female","White",43861,35,2,2,"Was Married",0,"Independent/Other",0,0,6,NA,2,1,0,1,0,1,0
+"551","Male","White",37859,65,3,2,"Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"552","Male","White",48795,61,1,1,"Was Married",1,"Democrat",1,1,3,NA,1,1,0,0,0,1,1
+"553","Female","White",37796,53,3,2,"Married",0,"Republican",1,NA,NA,NA,3,1,1,1,1,1,NA
+"554","Female","Other",30366,21,1,0,"Never Married",0,"Democrat",0,0,4,0,1,NA,NA,NA,NA,0,1
+"555","Female","White",35102,41,3,2,"Married",0,"Independent/Other",1,1,3,NA,1,1,0,1,1,1,0
+"556","Female","White",47497,62,2,4,"Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"559","Male","White",48764,66,3,3,"Married",1,"Democrat",1,1,5,1,1,NA,NA,NA,NA,1,1
+"560","Male","White",25725,28,4,0,"Never Married",0,"Democrat",1,1,2,1,1,NA,NA,NA,NA,0,1
+"562","Male","White",41337,70,1,2,"Married",0,"Democrat",1,0,5,NA,2,1,0,1,1,0,0
+"563","Female","Other",46596,29,3,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,0,0,0,0,0,NA
+"564","Male","Other",35187,39,3,2,"Married",0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"565","Male","White",41766,28,1,0,"Never Married",0,"Democrat",1,1,3,1,2,1,1,1,1,1,1
+"567","Female","White",30678,53,3,2,"Married",0,"Democrat",1,0,5,NA,1,1,0,0,0,1,0
+"569","Male","White",26978,67,3,3,"Married",0,"Independent/Other",1,0,3,1,3,NA,NA,NA,NA,0,1
+"570","Female","Other",27280,99,3,0,"Married",0,"Independent/Other",1,0,3,NA,1,1,0,0,1,1,0
+"571","Female","White",46678,28,4,0,"Never Married",0,"Democrat",0,1,1,NA,2,1,0,1,1,1,1
+"572","Female","White",26850,23,3,0,"Never Married",0,"Republican",0,1,5,0,2,1,0,1,0,1,1
+"573","Male","White",35410,37,4,0,"Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,1
+"574","Male","Black",43391,27,1,0,"Never Married",0,"Democrat",1,0,7,1,2,NA,NA,NA,NA,1,1
+"576","Female","Black",15229,40,1,6,"Was Married",0,"Democrat",0,NA,NA,NA,4,NA,NA,NA,NA,0,NA
+"578","Male","Black",19814,38,1,1,"Was Married",0,"Democrat",1,1,4,0,2,NA,NA,NA,NA,1,1
+"579","Female","Black",26735,45,1,3,"Never Married",0,"Democrat",1,0,4,NA,2,1,1,0,1,1,0
+"581","Female","White",49355,30,4,0,"Never Married",0,"Democrat",1,0,2,1,3,NA,NA,NA,NA,1,1
+"582","Male","White",11032,25,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,0,1,NA
+"583","Female","Other",42170,44,1,1,"Was Married",0,"Independent/Other",0,0,5,1,3,0,0,0,0,1,0
+"584","Male","White",13891,56,1,1,"Never Married",0,"Independent/Other",0,0,3,NA,2,0,1,0,1,0,1
+"585","Female","White",30432,45,1,2,"Married",0,"Independent/Other",1,0,4,0,3,1,0,1,0,1,1
+"586","Female","Other",8960,27,0,3,"Never Married",0,"Independent/Other",0,0,5,0,3,NA,NA,NA,NA,1,1
+"587","Male","Other",27694,53,3,2,"Married",0,"Democrat",0,0,7,0,3,NA,NA,NA,NA,0,1
+"588","Female","Black",26781,66,2,1,"Was Married",0,"Democrat",1,0,4,NA,3,1,0,1,1,1,1
+"589","Female","Black",25289,48,3,3,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"590","Female","Black",30846,50,1,2,"Married",0,"Democrat",1,0,4,1,1,NA,NA,NA,NA,1,0
+"591","Female","Other",26688,18,0,0,"Never Married",0,"Independent/Other",0,0,4,NA,3,1,0,0,1,1,1
+"592","Male","Black",21859,51,3,1,"Never Married",1,"Independent/Other",1,0,1,1,1,1,1,1,1,1,1
+"593","Female","Black",47446,63,1,4,"Was Married",0,"Democrat",1,1,1,1,3,NA,NA,NA,NA,1,1
+"594","Female","Black",39732,57,1,3,"Married",0,"Democrat",1,0,1,0,1,NA,NA,NA,NA,0,0
+"596","Male","White",26120,64,1,1,"Married",0,"Republican",1,0,5,0,1,NA,NA,NA,NA,0,0
+"597","Male","Other",32772,26,1,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,0,0,1,0,1,NA
+"599","Female","Black",77036,53,4,1,"Married",0,"Democrat",1,0,5,NA,2,1,0,1,0,1,1
+"600","Male","Other",18511,28,1,0,"Never Married",0,"Independent/Other",0,0,3,0,3,NA,NA,NA,NA,1,0
+"603","Male","White",44531,56,1,3,"Married",1,"Republican",1,0,7,0,3,NA,NA,NA,NA,1,0
+"608","Female","White",29895,39,1,3,"Married",0,"Democrat",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"610","Male","Other",104113,22,0,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,0,0,1,0,1,NA
+"611","Male","Other",19320,51,0,6,"Married",0,"Republican",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"612","Female","Other",32948,40,0,5,"Was Married",0,"Independent/Other",0,0,7,0,1,0,0,1,1,0,0
+"613","Male","Other",36265,40,0,2,"Was Married",0,"Independent/Other",0,NA,NA,NA,3,0,0,1,1,1,NA
+"622","Female","Black",40752,39,1,3,"Was Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"623","Female","White",32085,41,4,1,"Never Married",0,"Independent/Other",1,0,4,1,2,NA,NA,NA,NA,1,0
+"624","Male","Other",44007,34,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"626","Female","White",49489,49,1,3,"Was Married",0,"Independent/Other",1,0,1,1,2,NA,NA,NA,NA,1,1
+"628","Female","Black",25163,31,4,1,"Never Married",0,"Independent/Other",1,1,3,1,2,1,0,1,1,1,1
+"630","Female","White",72847,40,3,3,"Was Married",1,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"631","Female","Black",27311,53,4,1,"Married",0,NA,1,0,1,0,3,1,0,1,1,0,0
+"633","Female","Black",34069,39,1,1,"Never Married",0,"Democrat",1,0,4,0,1,NA,NA,NA,NA,1,1
+"634","Female","Black",31240,27,1,1,"Never Married",0,"Democrat",1,1,3,NA,2,1,0,0,1,1,1
+"635","Male","Black",37588,62,4,3,"Was Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"636","Female","Black",12657,48,1,4,"Was Married",0,"Independent/Other",0,0,4,0,3,1,0,1,1,1,0
+"637","Female","Other",49246,28,1,1,"Married",0,"Independent/Other",0,0,1,0,3,NA,NA,NA,NA,1,1
+"639","Female","Black",31079,42,1,1,"Never Married",0,"Democrat",1,0,1,NA,3,1,0,0,1,1,1
+"640","Female","White",38303,38,1,3,"Married",0,"Republican",0,1,7,0,2,NA,NA,NA,NA,1,1
+"641","Male","White",28596,53,3,1,"Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"642","Male","Black",44378,40,1,4,"Was Married",0,"Independent/Other",1,0,3,1,1,1,1,1,1,1,1
+"643","Male","White",97998,57,2,2,"Married",0,"Republican",1,0,7,0,2,NA,NA,NA,NA,0,0
+"644","Male","White",36001,51,1,1,"Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,1,0,NA
+"646","Female","White",43557,55,4,0,"Was Married",0,"Republican",0,1,7,NA,1,0,0,0,0,1,1
+"647","Female","White",45593,40,1,3,"Married",1,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"648","Male","White",59962,25,0,2,"Married",0,"Independent/Other",0,0,1,0,2,NA,NA,NA,NA,1,0
+"652","Female","Other",4829,22,1,2,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,1,0,1,1,NA
+"653","Female","Black",40431,29,4,0,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"654","Male","Black",42055,28,3,0,"Never Married",0,"Independent/Other",1,0,1,1,2,NA,NA,NA,NA,1,1
+"655","Female","Black",11209,36,1,2,"Never Married",0,"Democrat",1,0,5,NA,2,1,0,1,1,1,1
+"657","Male","Black",48129,40,1,2,"Married",0,"Democrat",1,0,3,1,3,NA,NA,NA,NA,1,1
+"658","Male","White",31658,47,1,0,"Married",0,"Independent/Other",0,1,7,1,1,NA,NA,NA,NA,1,1
+"660","Male","Black",46921,51,1,2,"Was Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"662","Male","Black",47330,33,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,1,1,0,1,1,1,NA
+"664","Female","Other",26093,26,1,1,"Married",0,"Independent/Other",0,NA,NA,NA,2,0,0,1,0,1,NA
+"665","Male","Black",38835,68,3,2,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"666","Female","Black",47364,36,3,1,"Married",0,"Republican",1,0,4,1,2,1,0,1,1,1,0
+"667","Male","White",46133,34,2,0,"Never Married",0,"Independent/Other",1,1,7,0,1,NA,NA,NA,NA,1,0
+"668","Female","Black",90014,30,3,0,"Never Married",0,"Democrat",1,0,1,1,4,NA,NA,NA,NA,0,1
+"670","Female","White",36364,28,1,0,"Never Married",0,"Republican",1,0,5,1,2,0,1,0,1,1,0
+"671","Male","Black",31923,65,3,2,"Married",0,"Democrat",1,1,1,1,2,NA,NA,NA,NA,1,1
+"672","Male","White",92604,49,1,4,"Married",1,"Independent/Other",1,1,7,0,2,NA,NA,NA,NA,0,1
+"673","Male","White",22660,32,1,1,"Was Married",0,"Independent/Other",0,1,3,NA,3,1,1,0,0,1,1
+"675","Female","White",25446,38,2,2,"Married",0,"Republican",1,NA,NA,NA,2,1,0,0,0,1,NA
+"676","Male","White",33520,22,1,0,"Never Married",0,"Independent/Other",0,0,5,1,2,1,1,1,1,1,1
+"677","Male","Black",46202,50,1,3,"Was Married",0,"Democrat",1,NA,NA,NA,3,1,0,0,1,1,NA
+"679","Female","Other",44963,59,1,4,"Married",1,NA,0,0,3,1,2,NA,NA,NA,NA,0,0
+"681","Male","Black",27476,54,1,2,"Married",0,"Democrat",1,0,1,1,2,NA,NA,NA,NA,1,1
+"682","Female","Black",30615,71,3,0,"Married",0,"Democrat",1,0,4,NA,3,1,0,1,1,1,0
+"683","Female","Black",34421,58,2,2,"Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"685","Male","White",29826,34,1,2,"Married",0,"Independent/Other",0,0,4,0,3,NA,NA,NA,NA,0,0
+"688","Female","Other",14145,21,1,1,"Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,0,0,0,NA
+"689","Male","Black",8580,23,1,2,"Never Married",0,"Independent/Other",0,0,5,1,1,NA,NA,NA,NA,1,1
+"691","Male","Black",44310,34,1,3,"Married",0,"Democrat",1,0,2,1,1,NA,NA,NA,NA,1,1
+"692","Female","Black",24463,32,1,3,"Was Married",0,"Democrat",1,0,1,NA,4,1,0,1,1,1,1
+"693","Female","Black",45506,43,4,0,"Was Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"695","Male","White",25773,46,1,1,"Married",0,"Independent/Other",0,0,1,NA,4,1,0,1,1,1,0
+"696","Male","Other",37434,33,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"698","Female","White",15374,50,1,2,"Was Married",0,"Independent/Other",0,0,3,0,1,NA,NA,NA,NA,1,0
+"699","Female","White",35352,40,3,4,"Was Married",1,"Independent/Other",0,0,3,1,2,0,0,1,0,1,0
+"701","Male","Other",32551,65,1,3,"Married",0,"Independent/Other",0,0,2,NA,3,1,0,1,1,1,0
+"704","Female","White",53175,53,0,2,"Never Married",1,"Democrat",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"706","Female","White",41250,56,1,1,"Was Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"707","Male","White",33556,71,1,5,"Married",1,"Republican",1,0,4,1,1,NA,NA,NA,NA,1,0
+"708","Male","White",49273,33,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"711","Male","White",12648,19,0,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,1,0,1,NA
+"713","Female","White",37688,28,4,0,"Was Married",0,"Republican",0,NA,NA,NA,1,1,0,1,1,1,NA
+"715","Female","Black",45728,38,0,1,"Married",0,"Democrat",1,0,1,1,3,0,0,1,1,1,1
+"716","Male","White",103542,39,4,4,"Married",0,"Republican",1,1,6,0,1,NA,NA,NA,NA,1,0
+"718","Male","White",101761,45,4,1,"Married",0,"Independent/Other",1,1,3,1,4,NA,NA,NA,NA,1,1
+"719","Female","White",15006,47,4,1,"Married",0,"Democrat",1,NA,NA,NA,1,1,1,1,1,1,NA
+"720","Male","White",48299,46,4,2,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"722","Female","Black",36120,48,3,2,"Was Married",0,"Democrat",1,0,3,0,3,NA,NA,NA,NA,1,0
+"726","Male","Black",20045,50,2,3,"Was Married",1,"Democrat",1,1,5,NA,1,1,0,1,1,1,1
+"727","Male","Black",42330,48,1,2,"Was Married",0,"Democrat",1,0,4,0,2,NA,NA,NA,NA,1,0
+"728","Male","Black",24812,25,1,0,"Never Married",0,"Democrat",1,NA,NA,NA,2,1,0,1,1,1,NA
+"729","Male","Black",46547,59,1,3,"Was Married",0,"Independent/Other",1,0,2,0,3,1,0,0,1,1,1
+"730","Male","Black",32219,25,1,0,"Never Married",0,"Independent/Other",0,0,1,0,4,NA,NA,NA,NA,1,1
+"731","Female","Black",48161,28,2,1,"Married",0,"Democrat",0,NA,NA,NA,1,1,1,1,1,1,NA
+"732","Female","Black",19028,40,1,2,"Never Married",0,"Democrat",1,0,2,1,3,NA,NA,NA,NA,1,1
+"734","Male","White",33542,50,0,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"735","Female","White",35935,20,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,2,0,0,1,1,1,NA
+"736","Male","White",38451,43,1,2,"Married",0,"Independent/Other",1,1,5,1,3,NA,NA,NA,NA,1,1
+"738","Male","White",32546,18,1,0,"Never Married",0,"Republican",0,1,4,1,1,NA,NA,NA,NA,1,0
+"739","Female","Black",102275,54,1,4,"Married",0,"Democrat",1,1,2,1,2,1,0,0,1,1,1
+"740","Female","White",23059,71,4,1,"Was Married",0,"Independent/Other",0,1,4,NA,3,1,0,0,0,1,0
+"741","Female","White",47773,28,1,0,"Married",0,"Independent/Other",1,0,3,1,2,1,0,1,1,1,1
+"742","Male","Black",43598,46,3,0,"Never Married",0,"Democrat",1,0,1,0,4,NA,NA,NA,NA,1,1
+"743","Male","White",37689,47,0,4,"Married",0,"Independent/Other",0,0,2,NA,2,1,0,0,1,1,1
+"744","Female","White",33745,65,1,0,"Was Married",0,"Independent/Other",1,NA,NA,NA,4,1,0,1,1,1,NA
+"745","Male","White",44270,18,1,0,"Never Married",0,"Republican",0,0,5,0,2,NA,NA,NA,NA,1,0
+"746","Female","Black",29684,57,1,3,"Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"747","Female","White",19640,65,3,1,"Was Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,1
+"748","Female","Black",18866,25,1,1,"Never Married",0,"Democrat",0,0,4,1,1,NA,NA,NA,NA,1,0
+"749","Male","Black",38084,30,1,0,"Never Married",0,"Democrat",1,0,7,1,2,0,0,1,1,1,0
+"750","Female","Black",40322,37,1,2,"Never Married",0,"Democrat",1,NA,NA,NA,5,1,0,1,1,1,NA
+"752","Male","White",44407,47,1,3,"Was Married",0,"Democrat",1,1,2,1,2,NA,NA,NA,NA,1,1
+"754","Male","Other",33382,23,1,0,"Never Married",0,"Democrat",0,0,2,1,4,1,0,1,1,1,1
+"755","Male","White",33673,27,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,1,1,0,0,0,1,NA
+"756","Male","White",31400,19,1,0,"Never Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,1,1
+"757","Male","White",35174,54,3,0,"Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"762","Female","White",42825,36,3,2,"Married",0,"Independent/Other",1,NA,NA,NA,1,0,0,0,0,0,NA
+"764","Female","Other",55171,44,2,0,"Married",1,"Independent/Other",0,0,2,0,2,1,0,1,1,1,0
+"765","Male","White",45542,44,1,2,"Was Married",1,"Republican",0,NA,NA,NA,2,1,1,1,1,0,NA
+"766","Male","White",78396,43,3,0,"Never Married",0,"Independent/Other",1,1,3,1,4,NA,NA,NA,NA,1,1
+"768","Male","White",54686,43,1,2,"Was Married",0,NA,0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"769","Male","White",41482,36,1,2,"Was Married",0,"Independent/Other",0,0,4,1,4,1,0,1,1,1,1
+"770","Male","White",48198,30,3,0,"Never Married",0,"Democrat",0,1,2,1,2,NA,NA,NA,NA,1,1
+"771","Male","White",46458,58,3,3,"Was Married",0,"Independent/Other",1,1,2,NA,2,1,0,0,0,1,0
+"774","Female","White",10566,76,1,1,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"775","Female","White",28104,51,2,3,"Married",0,"Democrat",1,1,1,1,3,1,1,1,1,0,1
+"776","Female","White",47301,27,2,0,"Never Married",0,"Democrat",1,1,1,1,2,1,0,1,1,1,1
+"778","Male","White",32715,28,0,0,"Never Married",1,"Independent/Other",1,0,2,1,1,1,0,0,0,1,0
+"779","Male","White",47844,34,3,0,"Married",0,"Democrat",1,1,3,1,2,NA,NA,NA,NA,1,1
+"781","Female","White",25084,35,3,1,"Married",0,"Democrat",0,0,3,1,2,1,0,1,0,1,0
+"782","Male","White",31636,70,1,0,"Was Married",0,"Republican",0,1,5,0,2,NA,NA,NA,NA,1,0
+"784","Female","White",18677,52,2,4,"Was Married",1,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"785","Male","White",29789,56,1,1,"Was Married",0,"Independent/Other",0,1,4,1,3,NA,NA,NA,NA,1,1
+"786","Female","White",33161,46,1,0,"Married",0,"Republican",1,NA,NA,NA,1,1,0,1,1,1,NA
+"787","Female","White",25131,33,1,3,"Married",0,"Republican",1,1,7,0,1,1,0,1,0,1,1
+"788","Female","Other",27849,23,0,0,"Never Married",0,"Republican",0,NA,NA,NA,1,1,0,0,1,1,NA
+"789","Male","White",35937,48,1,2,"Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"790","Male","White",45781,55,2,2,"Was Married",0,"Independent/Other",1,0,3,1,3,1,0,1,1,1,1
+"793","Female","White",49274,28,1,3,"Never Married",0,"Republican",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"794","Female","Black",42899,24,1,2,"Married",0,"Independent/Other",0,1,1,1,2,0,0,0,0,1,0
+"796","Female","Black",23818,74,2,2,"Was Married",1,"Democrat",1,0,5,1,3,NA,NA,NA,NA,1,1
+"797","Female","Other",39345,24,1,1,"Never Married",0,"Republican",0,0,5,NA,3,1,0,1,0,1,1
+"798","Female","Black",39715,29,1,0,"Married",1,"Democrat",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"799","Female","White",29074,59,1,3,"Was Married",0,"Democrat",1,0,3,1,3,NA,NA,NA,NA,1,0
+"801","Male","Other",24116,65,0,6,"Married",1,"Democrat",0,0,8,1,2,NA,NA,NA,NA,1,0
+"802","Female","White",85385,19,1,0,"Married",0,"Independent/Other",0,0,4,NA,1,1,0,0,0,1,0
+"803","Female","Other",20382,22,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"804","Male","White",47035,40,3,3,"Married",1,"Independent/Other",1,1,4,1,1,NA,NA,NA,NA,1,1
+"805","Male","Other",30404,48,0,0,"Married",1,"Democrat",0,NA,NA,NA,5,NA,NA,NA,NA,1,NA
+"807","Female","White",20799,49,4,3,"Married",0,"Independent/Other",1,NA,NA,NA,1,1,0,0,1,0,NA
+"808","Male","Other",45028,39,1,3,"Married",0,"Independent/Other",1,1,5,0,2,NA,NA,NA,NA,1,1
+"809","Female","Other",46957,45,2,6,"Was Married",0,"Independent/Other",1,1,2,1,3,1,0,0,1,1,1
+"811","Male","White",41454,32,3,0,"Never Married",0,"Independent/Other",1,1,2,1,2,NA,NA,NA,NA,1,1
+"812","Male","White",41042,39,3,0,"Never Married",0,"Independent/Other",1,0,1,1,3,0,1,1,1,1,1
+"813","Female","Black",27340,52,3,3,"Married",1,"Independent/Other",1,0,3,NA,3,1,0,1,1,1,1
+"814","Female","Other",34531,44,1,2,"Married",0,"Independent/Other",0,0,1,NA,4,1,1,1,1,0,1
+"815","Female","Black",7132,59,1,2,"Was Married",1,"Democrat",1,0,4,NA,1,1,0,1,1,1,1
+"816","Female","White",20528,46,1,6,"Was Married",0,"Democrat",1,0,1,0,5,0,0,1,1,1,0
+"821","Female","White",47758,40,4,0,"Never Married",0,"Independent/Other",1,1,1,1,2,NA,NA,NA,NA,1,1
+"827","Male","White",66866,40,1,2,"Was Married",0,"Republican",1,NA,NA,NA,2,1,0,1,1,0,NA
+"828","Male","White",18332,64,3,2,"Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"829","Female","White",35691,56,3,2,"Was Married",0,"Independent/Other",1,1,5,0,3,0,0,1,0,1,0
+"831","Male","White",34949,50,3,0,"Married",1,"Democrat",1,0,5,1,3,NA,NA,NA,NA,1,1
+"833","Male","White",48790,49,1,0,"Never Married",0,"Independent/Other",1,1,5,NA,3,1,1,1,1,1,0
+"834","Male","White",42199,61,1,2,"Married",1,"Republican",1,0,5,0,2,NA,NA,NA,NA,0,1
+"836","Male","White",33709,74,3,5,"Married",1,"Democrat",1,1,4,0,3,NA,NA,NA,NA,0,0
+"839","Male","Other",40136,41,2,0,"Was Married",0,"Independent/Other",0,0,1,NA,5,1,1,1,1,1,1
+"840","Male","White",37321,78,0,0,"Married",1,"Republican",1,0,4,1,4,NA,NA,NA,NA,0,1
+"841","Female","Other",37413,47,0,4,"Married",0,"Independent/Other",0,NA,NA,NA,4,1,0,1,0,0,NA
+"842","Female","White",25284,50,1,3,"Never Married",0,"Democrat",1,0,4,1,3,NA,NA,NA,NA,1,1
+"843","Female","White",23794,41,1,3,"Was Married",0,"Independent/Other",1,0,4,NA,2,1,0,1,1,1,1
+"845","Male","White",31137,56,1,1,"Married",0,"Republican",1,0,7,0,4,0,1,0,0,1,0
+"847","Male","Other",43594,25,1,3,"Married",0,"Independent/Other",0,0,1,1,3,NA,NA,NA,NA,1,1
+"848","Female","White",28313,55,2,2,"Married",0,"Democrat",1,0,7,NA,2,1,0,1,1,1,1
+"849","Male","White",20640,58,1,2,"Was Married",1,"Democrat",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"850","Female","White",38193,39,2,2,"Married",0,"Democrat",1,0,1,1,2,1,0,1,1,1,1
+"854","Female","Other",26323,53,3,4,"Was Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"855","Male","White",47373,57,1,0,"Never Married",0,"Democrat",1,NA,NA,NA,2,1,0,1,0,1,NA
+"856","Female","White",26233,53,2,3,"Married",0,"Republican",1,1,3,1,2,1,0,1,0,1,1
+"859","Female","Black",65241,56,3,2,"Married",0,"Democrat",1,0,3,1,2,NA,NA,NA,NA,1,1
+"861","Male","Black",18109,35,3,0,"Never Married",0,"Independent/Other",1,0,1,1,1,NA,NA,NA,NA,1,1
+"862","Female","White",626,64,3,2,"Married",0,"Independent/Other",1,NA,NA,NA,1,1,1,0,1,1,NA
+"863","Male","White",35131,32,1,3,"Married",0,"Independent/Other",1,0,1,1,2,NA,NA,NA,NA,1,1
+"865","Male","Black",35473,67,1,4,"Married",1,"Republican",1,0,5,1,2,NA,NA,NA,NA,1,0
+"867","Male","White",2750,31,1,0,"Never Married",0,"Independent/Other",1,0,7,1,4,0,1,0,0,1,1
+"869","Female","White",39579,41,1,2,"Was Married",1,"Independent/Other",1,0,4,NA,1,1,1,1,0,0,1
+"871","Female","Black",191,42,0,6,"Never Married",0,"Independent/Other",1,1,5,0,3,1,0,0,1,1,1
+"873","Female","White",99739,52,3,4,"Married",0,"Republican",1,NA,NA,NA,5,1,0,1,0,1,NA
+"876","Female","White",87624,42,3,0,"Was Married",0,"Democrat",1,1,3,NA,2,1,0,1,1,1,1
+"877","Male","White",30838,45,3,2,"Married",0,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"880","Female","White",47351,49,4,0,"Married",0,"Democrat",1,NA,NA,NA,1,1,0,1,1,0,NA
+"882","Female","White",25307,42,3,2,"Married",0,"Republican",1,0,2,NA,1,0,0,1,1,0,0
+"883","Female","White",22849,25,1,1,"Never Married",0,"Independent/Other",1,NA,NA,NA,5,1,0,1,0,0,NA
+"884","Male","White",26404,47,3,4,"Married",0,"Republican",1,1,5,NA,2,0,0,1,0,1,0
+"885","Female","White",25403,48,2,3,"Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"886","Female","White",22752,53,1,3,"Was Married",0,"Republican",1,0,6,0,3,1,0,0,0,0,0
+"887","Male","White",32433,57,3,2,"Was Married",1,"Democrat",1,1,3,1,1,NA,NA,NA,NA,1,1
+"890","Female","White",36165,68,3,1,"Was Married",0,"Independent/Other",1,0,3,1,3,NA,NA,NA,NA,0,1
+"892","Female","White",28114,63,3,0,"Was Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"894","Male","Black",26264,21,1,0,"Never Married",0,"Independent/Other",0,1,3,1,3,NA,NA,NA,NA,1,1
+"895","Male","Black",32271,29,1,0,"Never Married",0,"Independent/Other",1,0,4,0,2,NA,NA,NA,NA,1,0
+"896","Male","Black",28265,56,0,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,0,0,1,NA
+"900","Male","White",46165,44,1,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,0,0,0,0,1,NA
+"902","Male","White",45968,39,1,2,"Never Married",0,"Democrat",1,0,1,1,5,NA,NA,NA,NA,1,1
+"903","Male","White",43806,57,1,0,"Was Married",0,"Republican",0,1,1,1,3,0,0,1,1,1,1
+"904","Male","Black",35793,25,1,0,"Never Married",0,"Independent/Other",1,0,1,0,1,NA,NA,NA,NA,1,1
+"907","Female","Black",5133,19,1,0,"Never Married",0,"Independent/Other",0,0,4,NA,3,1,0,1,1,1,1
+"913","Female","White",30224,27,1,0,"Married",0,"Democrat",0,0,1,NA,1,1,0,1,0,1,1
+"914","Male","White",41438,53,1,0,"Never Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,1,1
+"915","Male","White",48199,35,1,3,"Was Married",0,"Independent/Other",0,0,5,0,3,NA,NA,NA,NA,1,1
+"916","Female","White",47760,32,1,1,"Married",0,"Democrat",1,NA,NA,NA,2,1,0,0,1,1,NA
+"917","Female","White",48018,19,1,0,"Never Married",0,"Independent/Other",0,0,3,1,5,NA,NA,NA,NA,1,1
+"918","Male","White",47584,56,1,4,"Married",0,"Republican",1,0,5,NA,3,0,0,1,0,1,0
+"922","Male","White",28512,43,1,2,"Never Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"923","Female","White",45013,43,1,6,"Was Married",0,"Republican",1,0,4,0,4,NA,NA,NA,NA,1,0
+"924","Female","White",55833,44,3,2,"Married",0,"Republican",1,NA,NA,NA,3,0,1,0,0,0,NA
+"925","Male","White",35042,58,3,2,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"926","Male","White",80056,38,1,2,"Married",0,"Independent/Other",1,1,7,0,3,NA,NA,NA,NA,0,0
+"927","Female","White",42851,49,3,4,"Married",1,"Independent/Other",0,NA,NA,NA,3,1,0,0,0,1,NA
+"928","Male","White",26078,51,1,2,"Married",0,"Republican",1,1,7,NA,2,0,0,0,0,1,0
+"929","Female","White",69270,59,4,2,"Married",0,"Republican",1,1,7,1,3,0,0,0,0,1,1
+"934","Female","White",68324,61,3,4,"Married",0,"Republican",1,0,6,0,1,NA,NA,NA,NA,1,1
+"935","Female","White",70123,50,2,2,"Married",0,"Independent/Other",1,0,5,NA,2,1,1,1,1,0,1
+"937","Male","White",56577,39,4,2,"Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"938","Female","White",56057,48,4,2,"Married",1,"Independent/Other",1,0,7,0,3,0,0,0,0,1,1
+"939","Female","White",50988,19,1,0,"Never Married",0,"Republican",0,NA,NA,NA,1,0,0,1,0,1,NA
+"941","Female","Black",56506,54,2,3,"Was Married",0,"Independent/Other",1,1,3,1,3,NA,NA,NA,NA,1,1
+"945","Male","Black",60784,59,1,3,"Married",0,"Independent/Other",1,0,4,0,4,1,0,1,1,1,1
+"948","Male","Other",56684,55,1,2,"Married",0,"Independent/Other",0,1,7,0,3,NA,NA,NA,NA,1,1
+"949","Male","Black",73357,65,1,5,"Married",0,"Republican",1,0,3,NA,4,1,0,0,0,1,1
+"950","Female","White",90562,23,2,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,1,0,0,1,1,NA
+"952","Female","White",65045,76,3,0,"Was Married",1,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"953","Male","White",67222,45,3,0,"Was Married",0,"Democrat",1,1,5,1,2,1,0,0,0,1,1
+"954","Female","White",18087,40,0,2,"Never Married",0,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,1,0
+"960","Male","Other",50125,49,0,5,"Married",1,"Independent/Other",0,0,2,NA,3,0,0,0,0,0,0
+"961","Male","White",68843,38,3,2,"Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,1,1,1,NA
+"962","Female","White",54684,25,3,0,"Never Married",0,"Republican",0,0,6,0,2,NA,NA,NA,NA,1,1
+"963","Male","Black",53975,36,1,3,"Married",0,"Democrat",0,0,6,NA,3,1,0,1,1,1,1
+"965","Male","White",55784,22,1,0,"Married",0,"Independent/Other",0,0,5,0,1,NA,NA,NA,NA,0,1
+"966","Male","White",52073,45,1,1,"Married",0,"Republican",1,NA,NA,NA,3,1,0,1,1,0,NA
+"967","Female","Other",16082,26,1,2,"Never Married",0,"Republican",0,0,2,0,3,NA,NA,NA,NA,0,1
+"968","Male","Black",57484,40,1,0,"Never Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"969","Female","Black",14250,26,1,3,"Was Married",0,"Independent/Other",0,0,1,1,2,1,0,1,1,0,1
+"970","Female","Other",62457,60,0,3,"Was Married",0,"Democrat",1,1,4,1,3,NA,NA,NA,NA,0,1
+"971","Male","White",66420,32,1,4,"Married",1,"Independent/Other",1,0,5,1,3,NA,NA,NA,NA,0,1
+"972","Female","White",67812,54,1,3,"Was Married",0,"Democrat",1,0,4,NA,3,1,0,0,0,1,0
+"973","Male","White",60304,27,0,0,"Never Married",0,"Independent/Other",0,0,7,1,3,NA,NA,NA,NA,1,1
+"974","Female","Black",20325,27,2,1,"Never Married",0,"Independent/Other",1,0,1,1,3,NA,NA,NA,NA,1,1
+"975","Male","White",52284,34,1,2,"Never Married",0,"Democrat",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"977","Male","White",71612,41,3,5,"Married",0,"Independent/Other",0,0,5,1,2,NA,NA,NA,NA,1,0
+"978","Female","White",10370,32,1,2,"Was Married",0,"Independent/Other",0,1,5,NA,3,1,0,1,0,1,1
+"980","Male","White",64668,42,4,2,"Married",0,"Independent/Other",1,1,6,0,2,0,0,1,0,1,1
+"981","Male","White",64671,57,3,2,"Married",0,"Independent/Other",0,0,1,1,2,NA,NA,NA,NA,1,0
+"982","Female","White",65178,43,3,2,"Married",0,"Democrat",1,NA,NA,NA,2,0,0,0,0,1,NA
+"985","Male","White",57604,46,3,2,"Married",1,"Democrat",1,0,3,NA,3,0,0,1,0,1,1
+"986","Female","White",64011,50,4,0,"Never Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"987","Male","White",74908,25,3,0,"Never Married",0,"Republican",0,NA,NA,NA,1,1,1,1,1,1,NA
+"988","Female","White",51053,37,3,0,"Married",0,"Republican",1,1,6,NA,1,1,1,1,1,0,1
+"989","Female","White",68015,60,1,4,"Married",0,"Republican",1,0,2,1,5,1,0,1,1,1,1
+"990","Male","White",65877,57,1,2,"Married",0,"Republican",1,0,7,0,4,NA,NA,NA,NA,1,0
+"992","Male","White",68157,25,1,0,"Never Married",0,"Independent/Other",0,0,3,NA,3,1,0,0,1,1,1
+"995","Female","White",58213,34,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"996","Female","White",19516,34,1,0,"Never Married",0,"Independent/Other",1,0,1,1,4,1,1,1,0,1,1
+"998","Female","White",53419,26,1,1,"Never Married",0,"Democrat",0,0,1,NA,3,0,1,0,0,1,1
+"999","Female","White",18931,23,1,0,"Never Married",0,"Independent/Other",0,0,1,1,3,0,1,0,1,1,1
+"1000","Female","White",73489,24,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,1,1,NA
+"1001","Female","White",67458,28,2,0,"Married",0,"Independent/Other",0,0,3,NA,2,0,1,0,0,0,1
+"1004","Female","White",21470,42,3,3,"Was Married",1,"Independent/Other",1,0,1,1,2,NA,NA,NA,NA,1,0
+"1005","Male","Other",63987,44,3,0,"Never Married",0,"Independent/Other",1,1,4,NA,2,1,1,1,1,1,1
+"1006","Male","Other",81754,51,4,3,"Was Married",0,NA,0,1,2,NA,1,1,0,1,1,1,0
+"1007","Male","Black",62106,61,3,3,"Was Married",0,"Independent/Other",1,0,3,1,1,1,0,1,1,1,1
+"1008","Female","White",63874,37,3,2,"Married",0,"Democrat",1,0,5,1,1,1,1,1,0,1,1
+"1009","Male","White",52974,39,3,2,"Was Married",0,"Republican",1,1,3,1,1,NA,NA,NA,NA,1,1
+"1010","Male","Other",69826,65,4,2,"Was Married",1,"Independent/Other",1,1,7,NA,2,0,1,0,0,0,1
+"1011","Female","White",73750,39,1,2,"Was Married",0,"Democrat",1,NA,NA,NA,4,1,0,1,0,1,NA
+"1012","Female","Black",63919,26,1,0,"Never Married",0,"Republican",0,0,2,1,1,NA,NA,NA,NA,1,1
+"1013","Female","White",50062,55,3,5,"Married",0,"Republican",1,1,7,NA,3,1,0,0,0,0,1
+"1014","Female","White",70943,51,4,2,"Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1015","Female","White",55911,50,3,0,"Never Married",0,"Democrat",1,0,5,NA,2,1,0,1,0,0,1
+"1016","Male","White",70729,61,2,2,"Married",0,"Independent/Other",0,1,4,1,3,1,0,1,1,1,1
+"1018","Female","Black",58492,42,1,3,"Never Married",0,"Democrat",1,0,1,NA,1,1,0,1,1,1,0
+"1019","Male","Other",56539,30,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1021","Female","Black",73305,46,2,3,"Never Married",0,"Democrat",1,1,3,1,4,NA,NA,NA,NA,1,1
+"1022","Female","White",74251,35,1,2,"Never Married",0,"Democrat",1,0,4,0,3,NA,NA,NA,NA,1,0
+"1025","Male","White",15224,34,3,4,"Married",1,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1026","Male","White",65080,58,2,4,"Was Married",0,"Republican",1,0,7,0,3,NA,NA,NA,NA,0,1
+"1027","Male","White",87481,55,1,2,"Was Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1029","Male","White",66902,54,1,0,"Never Married",0,"Republican",1,NA,NA,NA,1,0,0,0,0,1,NA
+"1030","Female","White",69469,44,3,0,"Was Married",0,"Republican",1,1,6,NA,3,1,0,1,0,1,0
+"1031","Male","White",36902,55,1,1,"Never Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1033","Male","White",57571,54,1,1,"Was Married",0,"Republican",1,0,1,1,3,NA,NA,NA,NA,1,0
+"1034","Female","White",63215,31,3,2,"Was Married",1,"Independent/Other",0,0,3,1,4,1,0,0,0,1,1
+"1035","Male","White",14926,51,2,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,1,0,1,0,1,NA
+"1036","Male","White",55739,39,0,2,"Never Married",0,"Independent/Other",0,0,3,NA,2,1,0,1,1,0,1
+"1038","Male","White",65342,54,3,2,"Was Married",0,"Republican",1,0,2,1,2,NA,NA,NA,NA,1,1
+"1040","Female","White",50401,37,4,2,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,1,0,1,NA
+"1041","Male","White",19937,45,3,3,"Was Married",0,"Republican",0,0,5,0,4,0,1,0,1,1,1
+"1043","Male","Other",71039,43,4,2,"Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1044","Male","White",22572,23,1,0,"Never Married",1,"Independent/Other",0,0,3,NA,1,1,0,1,1,1,1
+"1045","Female","Other",59381,42,3,3,"Never Married",0,"Democrat",1,NA,NA,NA,2,1,0,0,1,1,NA
+"1052","Female","White",63228,45,1,0,"Never Married",1,"Republican",1,1,6,0,2,NA,NA,NA,NA,1,0
+"1054","Male","White",13204,22,1,0,"Never Married",0,"Democrat",0,0,1,NA,3,1,0,0,1,1,1
+"1057","Male","White",73583,21,0,0,"Never Married",0,"Independent/Other",0,0,6,0,2,0,0,1,1,1,0
+"1058","Male","White",66562,65,1,4,"Married",0,"Republican",1,0,5,1,3,NA,NA,NA,NA,1,1
+"1059","Male","White",20879,29,1,0,"Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,0,0,1,NA
+"1060","Female","White",68175,50,1,4,"Married",1,"Independent/Other",1,0,1,NA,4,1,0,1,1,1,1
+"1061","Male","White",57671,65,1,0,"Was Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1062","Male","White",6412,53,0,1,"Was Married",1,"Independent/Other",0,0,4,0,4,0,0,1,0,1,1
+"1064","Female","White",72336,47,1,2,"Was Married",0,"Republican",1,1,7,NA,1,1,0,1,0,1,1
+"1065","Male","Other",23576,58,1,7,"Married",0,"Democrat",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1066","Female","White",67946,44,1,6,"Was Married",0,"Republican",1,1,6,0,4,0,0,0,0,1,1
+"1068","Male","White",54278,51,2,2,"Was Married",0,"Independent/Other",1,0,2,1,1,NA,NA,NA,NA,1,1
+"1069","Female","Other",69437,53,1,3,"Was Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1070","Female","Black",56743,44,2,5,"Never Married",0,"Democrat",1,0,1,1,2,NA,NA,NA,NA,1,1
+"1074","Female","Black",19200,65,1,1,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1075","Female","White",56919,37,1,4,"Married",0,"Independent/Other",0,0,3,1,3,1,1,1,1,1,1
+"1076","Male","White",68365,50,3,2,"Married",0,"Independent/Other",1,1,5,1,3,NA,NA,NA,NA,1,1
+"1078","Female","White",67529,49,3,2,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1079","Male","White",991,41,0,2,"Never Married",0,"Independent/Other",1,0,7,1,1,1,0,0,0,1,1
+"1081","Male","White",65738,42,1,0,"Was Married",0,"Independent/Other",0,1,2,0,1,NA,NA,NA,NA,1,0
+"1082","Male","White",71645,24,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1083","Male","Other",67047,31,0,2,"Never Married",1,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,1,1
+"1084","Female","White",69761,33,1,4,"Married",0,"Independent/Other",0,0,4,0,1,NA,NA,NA,NA,1,1
+"1085","Female","White",73640,69,1,3,"Was Married",0,"Democrat",1,0,3,1,3,1,0,1,1,1,0
+"1086","Female","White",63700,46,3,3,"Was Married",0,"Independent/Other",1,0,3,1,2,NA,NA,NA,NA,1,1
+"1089","Male","White",69990,53,1,3,"Married",1,"Republican",1,0,7,NA,3,0,0,1,0,0,1
+"1090","Male","White",51702,30,4,0,"Married",0,"Republican",0,0,5,0,1,NA,NA,NA,NA,1,1
+"1091","Male","White",67894,61,3,2,"Married",0,"Republican",1,NA,NA,NA,3,0,0,0,0,1,NA
+"1092","Male","Other",67820,39,4,2,"Married",0,"Republican",0,1,4,0,3,NA,NA,NA,NA,1,0
+"1093","Male","White",49141,27,3,0,"Married",0,"Independent/Other",1,1,3,NA,2,1,0,1,1,1,1
+"1095","Female","White",22167,60,1,0,"Married",0,"Republican",1,1,6,0,2,1,0,1,1,1,1
+"1096","Male","White",53579,47,3,2,"Was Married",1,"Independent/Other",1,0,2,1,2,NA,NA,NA,NA,0,1
+"1097","Male","White",56832,33,1,0,"Married",0,"Democrat",1,1,3,1,2,1,0,0,1,1,1
+"1098","Male","White",62923,29,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,3,1,1,1,1,1,NA
+"1099","Female","Black",61071,60,1,0,"Was Married",0,NA,1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1102","Female","White",23423,24,0,0,"Never Married",0,"Independent/Other",0,0,1,1,5,NA,NA,NA,NA,1,1
+"1103","Male","White",83421,57,1,0,"Never Married",1,"Independent/Other",0,0,2,1,1,NA,NA,NA,NA,1,1
+"1104","Male","White",20223,19,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,5,0,0,1,0,1,NA
+"1105","Male","White",55430,55,1,0,"Never Married",0,"Independent/Other",0,0,3,0,4,NA,NA,NA,NA,0,1
+"1106","Female","Black",60174,75,1,3,"Was Married",0,"Democrat",1,0,4,1,4,NA,NA,NA,NA,1,1
+"1107","Male","Black",51005,50,1,1,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,0,0,1,NA
+"1108","Male","White",60704,70,2,3,"Married",0,"Republican",1,0,5,0,3,NA,NA,NA,NA,1,1
+"1110","Female","White",21291,28,3,1,"Married",0,"Independent/Other",1,1,1,1,2,NA,NA,NA,NA,1,1
+"1111","Female","White",52610,57,1,5,"Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1113","Female","White",10769,18,1,0,"Never Married",0,"Independent/Other",0,1,5,0,2,NA,NA,NA,NA,1,1
+"1114","Male","White",54456,27,1,0,"Married",0,"Independent/Other",1,1,7,NA,3,0,0,0,0,0,1
+"1115","Male","White",52055,41,1,0,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1117","Female","Black",59413,32,1,1,"Never Married",0,"Democrat",1,NA,NA,NA,2,1,0,0,1,1,NA
+"1119","Female","Black",65320,30,1,1,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1121","Female","Other",74548,59,1,2,"Was Married",1,"Independent/Other",1,1,4,1,2,NA,NA,NA,NA,1,1
+"1122","Female","Other",71453,22,1,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,1,0,0,1,1,NA
+"1123","Male","White",65064,31,2,0,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1125","Male","White",17120,21,1,0,"Never Married",0,"Republican",0,NA,NA,NA,2,0,0,1,0,1,NA
+"1126","Male","White",61505,29,3,0,"Married",0,"Democrat",1,1,2,1,3,NA,NA,NA,NA,1,0
+"1127","Female","White",4083,21,1,0,"Never Married",0,"Independent/Other",0,0,3,NA,2,1,0,1,0,1,1
+"1129","Male","White",24776,25,3,0,"Never Married",0,"Democrat",1,1,2,1,2,NA,NA,NA,NA,1,1
+"1131","Male","Black",70595,23,1,1,"Never Married",0,"Independent/Other",0,0,4,1,4,NA,NA,NA,NA,1,1
+"1134","Male","White",37400,55,3,2,"Married",0,"Independent/Other",1,0,5,0,1,NA,NA,NA,NA,0,1
+"1135","Male","White",62205,63,4,8,"Married",1,"Republican",1,1,5,0,1,NA,NA,NA,NA,1,0
+"1137","Male","White",72428,40,0,4,"Married",0,"Republican",0,0,2,1,3,1,1,1,1,0,0
+"1138","Male","Other",71709,42,1,3,"Married",0,"Independent/Other",0,0,3,NA,3,0,0,0,0,0,0
+"1142","Female","Black",72103,30,2,2,"Never Married",0,"Independent/Other",1,0,4,NA,3,1,0,0,1,1,1
+"1143","Male","White",24169,33,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1145","Male","Other",51143,28,4,0,"Never Married",0,"Independent/Other",0,0,3,1,2,NA,NA,NA,NA,1,0
+"1148","Female","Other",22658,29,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1149","Male","White",32272,23,0,0,"Was Married",0,"Independent/Other",0,0,4,0,4,0,0,0,1,1,1
+"1150","Male","White",11986,85,3,0,"Never Married",1,"Democrat",1,0,4,0,2,NA,NA,NA,NA,1,1
+"1154","Male","Black",20473,50,1,8,"Married",0,"Democrat",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1155","Male","Black",57800,55,1,1,"Never Married",0,"Independent/Other",1,0,3,0,3,NA,NA,NA,NA,1,0
+"1156","Female","Other",74874,41,3,3,"Was Married",1,"Independent/Other",1,NA,NA,NA,2,1,0,1,1,1,NA
+"1157","Male","Other",58530,22,1,0,"Never Married",0,"Independent/Other",0,0,4,1,1,NA,NA,NA,NA,1,1
+"1158","Male","White",50609,28,2,3,"Married",0,"Republican",1,1,6,NA,2,1,0,1,0,1,0
+"1160","Male","Other",57102,64,3,3,"Married",0,"Republican",1,0,6,NA,2,0,1,0,0,1,0
+"1164","Female","White",76090,51,4,3,"Married",0,"Republican",1,NA,NA,NA,3,0,1,0,0,1,NA
+"1165","Male","White",73812,67,3,2,"Married",1,"Independent/Other",1,1,5,1,2,NA,NA,NA,NA,1,1
+"1170","Male","White",16796,34,3,2,"Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1171","Male","White",50114,86,3,3,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,0,0,1,0,1,NA
+"1172","Female","White",66568,39,1,0,"Never Married",0,"Democrat",1,0,3,NA,3,1,0,1,0,1,0
+"1174","Female","Black",59668,33,3,2,"Married",0,"Democrat",1,0,3,0,4,1,0,0,1,1,1
+"1175","Male","Other",60801,31,3,0,"Was Married",0,"Independent/Other",0,0,1,1,2,NA,NA,NA,NA,0,1
+"1177","Male","White",52304,35,1,1,"Married",0,"Independent/Other",1,1,1,NA,3,1,0,0,1,0,1
+"1181","Male","White",58001,35,1,2,"Married",0,"Democrat",1,1,3,1,3,NA,NA,NA,NA,1,1
+"1182","Male","White",56193,37,1,0,"Never Married",0,"Republican",1,NA,NA,NA,5,NA,NA,NA,NA,0,NA
+"1183","Female","White",31549,51,1,2,"Married",0,"Republican",1,1,4,0,2,1,0,1,1,1,0
+"1189","Female","White",68970,68,1,3,"Married",0,"Republican",1,0,5,NA,2,1,0,1,1,1,0
+"1190","Female","White",68935,46,3,2,"Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1191","Female","White",67931,51,2,2,"Married",0,"Republican",1,1,4,0,2,1,0,1,0,1,1
+"1193","Male","White",14603,43,1,1,"Never Married",1,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1197","Male","White",73261,49,3,0,"Was Married",0,"Independent/Other",1,0,2,1,4,1,1,1,1,0,1
+"1200","Female","White",18825,41,0,6,"Was Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1201","Male","White",69507,22,1,1,"Married",0,"Independent/Other",0,0,5,1,3,1,1,1,1,0,1
+"1202","Female","White",72953,43,4,1,"Married",0,"Independent/Other",0,0,5,1,2,NA,NA,NA,NA,0,0
+"1204","Female","White",58299,34,3,1,"Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1207","Female","White",62385,31,1,1,"Was Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,1,1
+"1212","Male","White",67410,37,1,0,"Was Married",0,"Democrat",1,1,1,NA,3,1,1,1,1,0,1
+"1213","Male","White",65044,52,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1214","Female","Other",56881,38,3,0,"Never Married",0,"Democrat",1,1,3,1,1,0,0,0,0,1,1
+"1215","Male","Other",3222,55,1,4,"Was Married",0,"Independent/Other",0,0,7,1,5,NA,NA,NA,NA,1,1
+"1217","Female","White",70092,50,1,1,"Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1218","Female","White",50957,25,1,1,"Never Married",0,"Independent/Other",0,1,5,0,1,1,0,1,1,1,1
+"1219","Male","White",52973,28,1,2,"Married",0,"Independent/Other",0,0,7,0,3,NA,NA,NA,NA,0,1
+"1221","Male","White",27082,52,3,6,"Married",1,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1222","Male","White",52950,22,1,0,"Never Married",0,"Republican",0,0,5,0,3,NA,NA,NA,NA,1,0
+"1223","Male","White",54164,57,0,1,"Was Married",1,"Democrat",1,0,1,NA,3,1,0,1,0,0,1
+"1225","Female","White",66980,63,1,2,"Married",0,"Democrat",0,0,4,1,4,1,0,1,1,1,1
+"1226","Female","Black",56780,58,4,3,"Was Married",0,"Democrat",1,0,5,NA,2,0,0,1,0,1,0
+"1228","Female","White",62449,25,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,1,0,0,0,1,NA
+"1229","Male","White",50301,39,0,0,"Married",0,"Independent/Other",0,0,3,1,4,NA,NA,NA,NA,0,1
+"1230","Female","White",67711,31,2,3,"Never Married",0,"Independent/Other",0,1,3,NA,3,1,0,1,1,1,1
+"1231","Female","White",58072,39,1,2,"Was Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1232","Female","Black",74903,34,1,3,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,0,1,NA
+"1233","Male","White",56950,27,2,0,"Married",0,"Independent/Other",0,0,6,1,1,NA,NA,NA,NA,1,1
+"1234","Male","White",51906,35,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,4,1,0,0,0,1,NA
+"1235","Female","White",60761,24,1,0,"Never Married",0,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,1,0
+"1236","Male","White",69742,48,3,2,"Never Married",0,"Republican",1,0,5,NA,2,1,0,1,1,1,1
+"1238","Male","White",64414,30,1,0,"Never Married",0,"Republican",0,0,3,0,2,NA,NA,NA,NA,1,1
+"1239","Male","Other",52708,36,1,1,"Never Married",0,"Republican",0,0,4,1,3,NA,NA,NA,NA,1,0
+"1241","Male","White",71698,36,4,2,"Married",0,"Independent/Other",0,1,3,NA,2,0,0,1,0,1,0
+"1243","Female","White",54138,27,3,0,"Never Married",0,"Republican",0,0,3,1,1,1,1,1,1,1,1
+"1244","Female","White",21639,24,3,0,"Never Married",0,"Republican",1,0,4,1,3,NA,NA,NA,NA,1,1
+"1245","Female","White",62511,44,1,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1247","Male","Black",64660,22,1,0,"Never Married",0,"Democrat",0,0,5,0,2,1,1,0,1,1,1
+"1249","Female","White",21244,33,0,3,"Never Married",0,"Democrat",1,0,4,0,2,NA,NA,NA,NA,1,0
+"1251","Male","Other",55042,43,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1254","Female","White",51975,53,1,2,"Married",1,"Independent/Other",0,NA,NA,NA,2,1,0,1,0,1,NA
+"1255","Female","White",54956,59,1,2,"Married",0,"Independent/Other",1,1,7,NA,1,0,1,0,0,0,1
+"1256","Male","White",61976,47,1,3,"Married",0,"Republican",0,0,3,0,3,NA,NA,NA,NA,1,0
+"1258","Male","White",113202,64,1,2,"Was Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1259","Male","White",99778,22,1,0,"Never Married",0,"Independent/Other",0,0,4,1,3,1,1,1,0,1,0
+"1260","Female","White",53983,37,3,0,"Married",0,"Democrat",1,1,2,1,1,NA,NA,NA,NA,0,1
+"1261","Female","White",75416,31,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,1,1,1,1,1,0,NA
+"1263","Female","White",145257,32,3,0,"Married",0,"Democrat",1,0,1,1,3,1,0,1,1,0,1
+"1265","Female","White",136769,32,3,0,"Never Married",0,"Independent/Other",1,0,2,NA,2,1,0,1,1,1,1
+"1266","Male","White",45982,32,3,0,"Never Married",0,"Independent/Other",1,1,3,1,3,NA,NA,NA,NA,1,1
+"1267","Female","White",59495,60,2,4,"Was Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,1,1,NA
+"1269","Female","Other",27725,41,2,1,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1272","Male","White",18805,57,1,1,"Was Married",0,"Republican",0,0,3,1,2,1,1,1,1,1,1
+"1273","Male","White",13906,26,1,0,"Never Married",1,"Independent/Other",0,0,1,0,3,NA,NA,NA,NA,1,1
+"1274","Male","White",20843,56,1,4,"Was Married",0,"Independent/Other",1,0,4,NA,3,1,0,1,0,1,1
+"1275","Male","White",73711,24,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1277","Female","Other",23325,39,0,3,"Was Married",0,"Democrat",0,NA,NA,NA,2,0,0,0,1,1,NA
+"1279","Female","White",15625,26,3,0,"Never Married",0,"Democrat",0,0,1,NA,2,1,1,1,1,1,1
+"1280","Female","White",4048,31,1,4,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1281","Female","White",116111,36,3,3,"Married",0,"Democrat",1,0,5,0,1,1,0,0,1,1,1
+"1282","Male","White",68476,69,2,4,"Married",0,"Republican",1,0,1,1,3,NA,NA,NA,NA,0,0
+"1283","Female","White",41058,39,3,2,"Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1284","Male","White",141884,53,1,2,"Married",0,"Republican",1,1,5,0,3,NA,NA,NA,NA,1,1
+"1285","Male","White",116139,55,1,2,"Was Married",0,"Independent/Other",1,0,7,0,3,NA,NA,NA,NA,1,0
+"1287","Male","White",32609,31,4,0,"Married",0,"Democrat",1,1,1,1,2,NA,NA,NA,NA,1,1
+"1289","Female","White",57419,68,2,2,"Was Married",1,"Democrat",1,1,3,1,2,1,0,1,1,1,1
+"1290","Male","White",38126,73,1,2,"Married",0,"Independent/Other",1,1,1,1,1,NA,NA,NA,NA,1,1
+"1292","Male","White",102049,30,1,0,"Never Married",0,"Independent/Other",1,0,6,1,3,0,0,1,0,1,1
+"1293","Female","White",41794,60,1,2,"Married",0,"Democrat",1,1,2,NA,2,1,0,1,1,1,1
+"1294","Male","White",99934,61,1,3,"Was Married",0,"Independent/Other",1,1,3,1,4,1,0,0,1,1,1
+"1295","Female","White",11042,69,0,3,"Was Married",0,"Democrat",0,0,1,0,3,NA,NA,NA,NA,1,0
+"1299","Male","Black",3504,22,0,1,"Never Married",0,"Independent/Other",0,0,5,1,3,NA,NA,NA,NA,1,0
+"1301","Male","White",75851,56,3,0,"Never Married",1,"Democrat",1,1,3,1,2,1,0,0,0,0,0
+"1304","Female","White",30383,61,3,1,"Was Married",0,"Republican",1,0,2,0,1,NA,NA,NA,NA,0,0
+"1305","Male","White",134217,55,1,2,"Was Married",0,"Independent/Other",0,1,1,1,2,NA,NA,NA,NA,1,1
+"1309","Male","Black",136060,30,3,0,"Never Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,1
+"1311","Male","Black",81128,41,1,3,"Was Married",0,"Democrat",0,NA,NA,NA,1,1,1,1,1,1,NA
+"1312","Female","Black",19917,67,0,3,"Never Married",0,"Independent/Other",1,NA,NA,NA,5,NA,NA,NA,NA,1,NA
+"1314","Female","Black",125965,36,1,3,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1315","Female","White",102338,51,2,2,"Married",0,"Republican",1,1,2,NA,2,1,0,1,1,0,0
+"1316","Female","White",135112,65,3,0,"Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1317","Male","Black",94511,63,1,7,"Was Married",0,"Democrat",1,0,1,NA,3,1,1,1,1,1,1
+"1318","Male","White",134932,23,3,0,"Never Married",0,"Independent/Other",0,1,5,0,1,1,0,1,1,1,1
+"1320","Female","White",105385,47,2,0,"Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1322","Male","White",112488,24,1,0,"Married",0,"Republican",0,1,3,1,3,NA,NA,NA,NA,0,0
+"1325","Female","White",22510,26,2,0,"Never Married",0,"Independent/Other",0,1,2,NA,3,1,0,0,0,1,1
+"1328","Female","White",105139,36,1,2,"Married",0,"Democrat",0,0,7,0,1,0,0,1,1,0,1
+"1330","Male","White",53230,32,1,2,"Married",0,"Republican",1,1,3,NA,2,1,1,1,1,1,0
+"1332","Female","White",149739,39,3,1,"Married",0,"Democrat",0,1,1,1,3,0,0,1,0,1,1
+"1334","Male","White",88858,31,4,3,"Was Married",0,"Republican",0,0,5,0,3,NA,NA,NA,NA,1,1
+"1336","Male","Other",16752,35,0,2,"Married",0,"Independent/Other",0,0,1,1,1,NA,NA,NA,NA,1,0
+"1338","Male","White",137616,49,3,3,"Was Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1339","Male","White",57119,42,1,3,"Married",0,"Democrat",0,0,4,1,2,NA,NA,NA,NA,1,0
+"1343","Male","White",23324,57,2,1,"Was Married",1,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1345","Female","White",30806,47,1,1,"Was Married",0,"Republican",0,NA,NA,NA,4,0,0,0,0,1,NA
+"1346","Male","White",92923,23,1,0,"Never Married",0,"Republican",0,0,3,1,1,NA,NA,NA,NA,0,0
+"1347","Male","White",59465,46,2,2,"Was Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1348","Male","White",63741,57,0,2,"Was Married",0,"Independent/Other",0,0,1,1,1,NA,NA,NA,NA,1,0
+"1349","Female","White",94129,50,4,3,"Married",0,"Independent/Other",1,1,4,1,3,1,1,1,0,0,0
+"1352","Female","White",107982,49,1,2,"Married",0,"Republican",0,NA,NA,NA,3,0,0,0,0,1,NA
+"1354","Male","White",89618,29,1,2,"Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1355","Female","White",69799,61,1,3,"Was Married",0,"Democrat",1,1,1,1,1,NA,NA,NA,NA,0,1
+"1360","Female","White",94670,25,1,0,"Never Married",0,"Democrat",1,0,2,NA,3,1,1,1,1,1,1
+"1369","Female","White",11877,39,1,3,"Married",0,"Democrat",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1370","Female","White",111636,54,1,2,"Married",1,"Republican",1,1,7,0,2,0,0,1,0,1,0
+"1371","Male","White",42886,60,1,2,"Married",0,"Republican",0,1,6,1,2,NA,NA,NA,NA,1,0
+"1372","Male","White",105308,60,1,1,"Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1373","Male","White",28070,36,4,2,"Married",0,"Republican",1,0,7,0,4,0,0,0,0,1,1
+"1374","Female","White",30294,31,1,1,"Married",0,"Republican",0,NA,NA,NA,1,1,0,0,0,0,NA
+"1375","Female","Black",147091,41,3,3,"Married",0,"Democrat",1,0,2,1,2,NA,NA,NA,NA,1,0
+"1376","Female","White",54359,29,1,1,"Was Married",0,"Republican",1,0,3,NA,2,1,0,1,0,1,1
+"1377","Female","White",75883,38,3,1,"Married",1,"Republican",1,0,6,0,2,1,1,1,0,1,1
+"1378","Female","White",148537,42,1,1,"Was Married",0,"Republican",1,NA,NA,NA,4,NA,NA,NA,NA,0,NA
+"1380","Female","Black",54477,29,4,1,"Married",0,"Democrat",1,NA,NA,NA,1,0,0,0,1,1,NA
+"1382","Male","White",30810,27,1,1,"Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1383","Male","White",109414,42,2,7,"Married",0,"Independent/Other",1,0,3,1,3,1,0,1,0,0,0
+"1384","Male","White",60523,57,3,4,"Married",0,"Republican",1,1,5,0,1,NA,NA,NA,NA,1,0
+"1385","Female","White",138771,41,3,1,"Was Married",0,"Democrat",1,1,3,1,2,NA,NA,NA,NA,1,1
+"1387","Male","White",15398,31,0,2,"Married",0,"Republican",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1389","Female","White",62953,38,4,1,"Married",1,"Independent/Other",1,NA,NA,NA,2,1,0,1,0,1,NA
+"1391","Male","White",143754,38,2,2,"Married",0,"Independent/Other",0,0,4,1,2,1,0,0,0,1,1
+"1392","Female","White",114455,30,4,0,"Never Married",0,"Republican",1,NA,NA,NA,3,1,0,1,1,0,NA
+"1393","Male","White",82298,68,0,2,"Married",0,"Independent/Other",1,0,5,1,3,NA,NA,NA,NA,0,0
+"1395","Male","White",89937,82,1,2,"Married",1,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1397","Male","White",130796,44,1,3,"Married",0,"Republican",1,0,8,1,3,NA,NA,NA,NA,1,1
+"1400","Male","Black",49697,40,3,0,"Never Married",0,"Independent/Other",1,1,6,1,2,NA,NA,NA,NA,1,1
+"1401","Female","Black",284,61,0,2,"Was Married",0,"Democrat",1,NA,NA,NA,3,0,0,1,1,1,NA
+"1403","Female","White",29344,57,1,2,"Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1404","Female","White",113363,37,3,0,"Never Married",0,"Democrat",0,0,2,1,4,1,0,0,1,1,0
+"1410","Female","White",76957,52,1,2,"Married",0,"Republican",1,NA,NA,NA,4,1,0,1,0,1,NA
+"1413","Male","Black",20948,28,1,0,"Never Married",0,"Democrat",1,0,3,1,3,0,0,1,1,1,1
+"1414","Female","White",52483,60,1,2,"Was Married",0,"Republican",1,NA,NA,NA,1,1,0,1,0,1,NA
+"1415","Female","Black",13038,31,1,0,"Never Married",0,"Democrat",1,0,1,NA,4,1,0,1,1,1,0
+"1416","Male","Black",89952,45,1,5,"Was Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1417","Male","Black",57957,49,1,0,"Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,1
+"1418","Female","White",3373,32,0,5,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,1,1,NA
+"1419","Female","Black",8608,43,0,5,"Was Married",0,"Democrat",1,0,7,1,3,NA,NA,NA,NA,1,1
+"1420","Female","Black",74415,45,1,3,"Was Married",0,"Democrat",1,0,1,NA,3,1,0,0,0,1,1
+"1422","Female","White",12702,32,1,2,"Never Married",1,"Independent/Other",1,0,3,1,1,1,0,1,0,0,1
+"1424","Male","White",90759,52,4,2,"Married",1,"Republican",1,NA,NA,NA,2,1,0,1,0,1,NA
+"1425","Female","White",47816,58,3,2,"Married",0,"Independent/Other",1,1,3,1,3,1,0,1,1,1,1
+"1426","Female","White",45089,21,1,0,"Never Married",0,"Republican",0,1,4,0,1,NA,NA,NA,NA,1,0
+"1429","Female","White",67461,52,2,2,"Was Married",0,"Democrat",1,0,1,1,2,1,0,1,1,1,0
+"1432","Female","White",89992,47,1,1,"Was Married",0,"Republican",0,NA,NA,NA,3,1,1,1,0,1,NA
+"1433","Male","White",88140,58,3,0,"Never Married",0,"Republican",1,0,7,NA,4,1,1,1,0,1,0
+"1434","Female","Black",134290,35,4,0,"Was Married",0,"Democrat",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1435","Female","Black",72137,50,2,1,"Was Married",0,"Independent/Other",1,1,7,0,4,1,0,0,0,1,0
+"1438","Female","Black",70877,29,3,3,"Never Married",0,"Independent/Other",1,0,4,NA,1,1,0,1,1,1,0
+"1439","Male","Black",20307,26,1,1,"Was Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1440","Female","White",45511,24,3,0,"Married",0,"Independent/Other",0,1,4,1,2,0,0,0,1,1,0
+"1441","Female","White",20611,99,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,1,1,0,0,0,1,NA
+"1443","Male","White",107008,31,3,0,"Never Married",0,"Democrat",1,0,6,0,2,0,0,1,0,1,1
+"1446","Male","White",34283,46,4,2,"Married",1,"Republican",1,1,6,1,2,NA,NA,NA,NA,1,1
+"1447","Male","Black",11306,49,3,2,"Never Married",1,"Democrat",1,0,7,0,4,NA,NA,NA,NA,1,1
+"1448","Male","White",112287,29,1,0,"Married",0,"Independent/Other",0,NA,NA,NA,2,1,0,0,0,1,NA
+"1451","Female","White",141474,34,1,1,"Married",0,"Republican",0,1,4,0,1,NA,NA,NA,NA,1,0
+"1453","Male","Other",85080,44,1,2,"Married",0,"Independent/Other",1,0,5,0,2,NA,NA,NA,NA,1,1
+"1454","Female","White",60637,48,4,3,"Married",0,"Independent/Other",1,0,1,1,3,NA,NA,NA,NA,1,0
+"1457","Male","White",64535,65,1,3,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,0,0,1,NA
+"1458","Female","Black",93327,48,1,1,"Never Married",0,"Independent/Other",1,1,1,1,2,NA,NA,NA,NA,1,1
+"1460","Female","Black",87133,55,4,3,"Married",0,"Independent/Other",1,NA,NA,NA,1,1,0,1,1,1,NA
+"1462","Female","Black",10359,55,1,5,"Was Married",0,"Democrat",1,0,5,1,4,1,0,1,1,1,1
+"1464","Male","White",21874,26,1,2,"Never Married",1,"Independent/Other",0,0,7,NA,2,1,0,1,1,1,1
+"1465","Female","White",129602,59,1,4,"Married",0,"Republican",1,0,3,1,3,NA,NA,NA,NA,1,0
+"1466","Female","White",76758,56,1,1,"Was Married",0,"Independent/Other",1,1,4,1,2,NA,NA,NA,NA,1,1
+"1468","Female","Black",72527,27,2,1,"Never Married",0,"Democrat",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1469","Female","Black",85709,69,1,2,"Married",0,"Independent/Other",1,0,3,0,1,NA,NA,NA,NA,1,0
+"1470","Female","White",7378,30,1,1,"Never Married",0,"Independent/Other",0,0,3,NA,3,1,0,1,0,1,1
+"1471","Female","White",74751,71,3,0,"Was Married",1,"Republican",1,1,6,0,1,NA,NA,NA,NA,1,1
+"1472","Female","Black",73601,53,0,5,"Married",0,"Democrat",0,NA,NA,NA,4,1,0,1,1,1,NA
+"1473","Male","Black",46018,99,2,2,"Was Married",0,"Democrat",1,0,1,NA,3,1,0,1,1,1,1
+"1474","Female","Black",48041,34,0,4,"Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1475","Female","White",81710,37,0,3,"Was Married",0,"Republican",0,0,7,1,3,0,1,0,1,1,0
+"1476","Female","Black",12462,29,2,3,"Married",0,"Democrat",1,0,1,1,4,NA,NA,NA,NA,1,1
+"1477","Female","White",23977,63,1,2,"Was Married",0,NA,0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1478","Female","Black",19258,32,2,2,"Never Married",0,"Democrat",1,0,8,0,4,1,0,1,1,1,0
+"1479","Male","Black",57664,33,3,0,"Never Married",0,"Republican",1,1,5,0,1,NA,NA,NA,NA,1,1
+"1481","Male","Black",133974,22,1,0,"Never Married",0,"Independent/Other",0,0,2,0,3,0,0,0,0,1,0
+"1482","Female","White",110872,24,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,0,1,1,0,1,NA
+"1485","Female","White",47454,56,3,0,"Was Married",1,"Republican",1,1,7,0,1,NA,NA,NA,NA,0,0
+"1487","Male","White",80158,47,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1490","Male","White",120853,34,4,2,"Married",0,"Republican",1,1,5,1,2,NA,NA,NA,NA,1,1
+"1491","Male","White",12662,38,3,2,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1496","Female","White",105438,65,2,1,"Married",0,"Independent/Other",1,NA,NA,NA,2,0,0,0,0,1,NA
+"1499","Female","Black",62326,57,4,4,"Married",0,"Democrat",1,1,4,1,3,1,0,1,1,1,1
+"1500","Male","Black",22494,63,1,5,"Married",0,"Independent/Other",0,1,2,1,3,NA,NA,NA,NA,1,1
+"1501","Male","White",22024,29,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,0,1,NA
+"1504","Female","White",122099,77,3,2,"Married",1,"Democrat",1,NA,NA,NA,3,1,0,1,1,1,NA
+"1505","Male","Other",57843,38,0,1,"Never Married",0,"Independent/Other",0,0,1,NA,2,1,0,1,1,1,0
+"1506","Female","White",115900,34,2,4,"Married",0,"Independent/Other",0,1,1,1,1,1,0,1,0,1,1
+"1507","Female","Black",142146,27,1,2,"Never Married",0,"Democrat",1,0,1,NA,3,0,0,0,0,1,1
+"1509","Female","White",138519,45,2,4,"Was Married",1,"Independent/Other",0,0,4,1,3,NA,NA,NA,NA,1,1
+"1510","Female","White",16133,23,2,1,"Married",0,"Democrat",0,NA,NA,NA,4,1,0,1,1,1,NA
+"1511","Female","Black",86019,25,2,0,"Never Married",0,"Independent/Other",0,0,2,0,2,NA,NA,NA,NA,1,1
+"1512","Female","Other",20309,23,1,0,"Never Married",0,"Independent/Other",0,0,5,NA,2,1,0,1,1,1,1
+"1514","Female","White",75423,58,2,2,"Married",1,"Independent/Other",0,NA,NA,NA,4,1,0,1,0,1,NA
+"1515","Female","White",89526,50,0,2,"Was Married",0,"Republican",1,0,4,1,4,NA,NA,NA,NA,1,0
+"1517","Female","White",24605,58,2,1,"Was Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1519","Female","White",132032,25,2,1,"Married",0,"Independent/Other",1,0,1,NA,2,1,0,0,0,1,1
+"1521","Female","White",14873,54,1,1,"Was Married",0,"Republican",0,0,3,1,3,1,0,1,0,1,0
+"1523","Female","White",66718,64,1,3,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1524","Male","White",111080,58,0,3,"Married",0,"Republican",1,0,5,0,4,1,0,1,0,1,1
+"1526","Female","White",74105,56,1,3,"Married",0,"Democrat",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1528","Male","White",74765,46,1,2,"Married",0,"Republican",0,0,6,NA,3,1,1,1,0,0,0
+"1529","Male","White",74470,34,0,3,"Was Married",0,"Republican",0,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1533","Female","Black",125863,32,2,1,"Never Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,1,1,NA
+"1534","Male","Black",122063,33,0,1,"Never Married",0,"Independent/Other",1,0,5,NA,3,1,0,1,1,1,0
+"1535","Male","Other",78147,35,0,2,"Married",1,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1538","Female","Black",265,32,0,1,"Never Married",0,"Republican",1,0,3,NA,1,1,1,0,1,1,1
+"1539","Male","Black",18938,53,1,8,"Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1541","Female","Black",70705,43,4,1,"Married",0,"Democrat",1,0,4,1,2,NA,NA,NA,NA,1,1
+"1542","Male","Black",67749,26,1,3,"Never Married",0,"Independent/Other",0,NA,NA,NA,4,1,0,0,0,1,NA
+"1544","Female","White",7228,62,1,2,"Was Married",0,"Independent/Other",1,0,3,1,4,0,1,1,0,1,1
+"1546","Female","White",85946,58,1,2,"Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1547","Female","White",45411,22,0,0,"Married",0,NA,0,0,1,1,4,0,0,1,1,0,1
+"1548","Male","Other",3945,60,0,0,"Married",1,"Republican",0,0,1,0,4,NA,NA,NA,NA,0,1
+"1549","Male","White",119320,42,1,0,"Married",0,"Republican",1,0,7,NA,3,0,1,1,0,0,0
+"1552","Female","White",113565,24,1,0,"Married",0,"Republican",0,NA,NA,NA,3,0,0,1,0,1,NA
+"1554","Female","White",132790,39,1,2,"Married",0,"Republican",1,0,7,NA,2,0,0,1,0,1,0
+"1555","Female","White",28243,32,3,0,"Married",0,"Republican",1,0,6,0,1,0,0,0,0,1,0
+"1556","Male","White",40501,85,4,2,"Married",1,"Republican",1,1,7,0,3,NA,NA,NA,NA,0,0
+"1558","Female","White",107196,44,3,1,"Married",0,"Independent/Other",1,1,6,NA,2,1,0,0,0,1,1
+"1560","Female","Black",18633,32,2,3,"Never Married",0,"Independent/Other",1,0,4,1,1,NA,NA,NA,NA,1,0
+"1561","Female","Black",116775,60,3,3,"Married",0,"Democrat",1,NA,NA,NA,2,1,0,1,1,1,NA
+"1562","Male","White",145617,99,1,0,"Married",0,"Republican",1,0,7,0,2,NA,NA,NA,NA,1,0
+"1564","Female","White",46825,61,4,1,"Was Married",0,"Independent/Other",1,0,7,0,4,NA,NA,NA,NA,1,0
+"1565","Female","Black",147350,27,1,2,"Married",0,"Democrat",0,NA,NA,NA,1,1,0,1,1,1,NA
+"1566","Male","Black",57757,42,0,6,"Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1567","Male","Black",147776,51,3,2,"Was Married",0,"Democrat",1,0,1,1,4,NA,NA,NA,NA,1,1
+"1568","Male","White",145379,38,1,1,"Married",0,"Republican",0,0,4,1,3,NA,NA,NA,NA,1,1
+"1569","Female","White",10412,44,1,1,"Was Married",0,"Independent/Other",1,0,3,NA,4,1,0,1,1,1,1
+"1570","Male","Black",54553,37,3,0,"Never Married",0,"Democrat",1,1,3,1,1,1,0,1,1,1,1
+"1574","Female","Black",22777,70,1,2,"Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,1,0,NA
+"1577","Female","Black",11649,35,0,2,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1578","Female","Black",119268,51,1,1,"Married",0,"Democrat",1,0,1,1,3,1,0,1,1,1,1
+"1579","Female","White",82018,37,1,1,"Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,0,1,NA
+"1581","Male","White",94204,35,1,1,"Married",0,"Republican",1,1,6,1,5,1,1,1,0,0,1
+"1583","Male","White",86280,32,1,1,"Never Married",0,"Republican",0,0,7,1,3,NA,NA,NA,NA,1,1
+"1584","Male","White",81005,62,1,5,"Was Married",0,"Republican",1,0,7,NA,3,0,1,0,0,0,0
+"1585","Female","Black",92824,41,4,2,"Married",0,"Democrat",1,0,1,1,3,1,1,1,1,1,1
+"1587","Male","Black",129956,20,1,0,"Never Married",0,"Democrat",0,0,3,NA,2,0,1,1,1,1,1
+"1588","Female","Black",4009,36,1,0,"Never Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1591","Male","White",130269,30,3,0,"Never Married",0,"Independent/Other",1,1,5,0,2,1,0,1,0,1,1
+"1599","Female","White",14936,55,1,3,"Was Married",0,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,0,1
+"1600","Female","White",71891,55,1,0,"Never Married",0,"Democrat",0,0,1,1,4,1,0,1,0,0,1
+"1602","Male","White",24596,38,2,7,"Married",0,"Independent/Other",1,0,1,1,4,NA,NA,NA,NA,1,1
+"1603","Female","Black",86252,50,3,1,"Was Married",0,"Democrat",1,1,3,NA,2,0,0,0,1,1,0
+"1604","Female","Black",8638,54,3,2,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1606","Female","Black",127187,33,3,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,1,1,NA
+"1607","Male","White",31490,25,1,1,"Never Married",0,"Independent/Other",0,0,4,1,2,NA,NA,NA,NA,1,1
+"1609","Female","White",138118,38,2,1,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1610","Male","White",19762,25,1,0,"Never Married",0,"Independent/Other",0,1,5,0,2,0,1,0,0,1,0
+"1611","Male","White",132932,63,1,2,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,0,0,0,0,1,NA
+"1612","Male","White",76920,22,1,0,"Never Married",0,"Independent/Other",0,1,4,1,1,NA,NA,NA,NA,1,1
+"1615","Female","White",92409,20,1,0,"Never Married",0,"Democrat",0,1,3,1,2,1,0,1,1,1,0
+"1616","Male","White",106439,54,1,2,"Married",0,"Republican",0,1,4,1,2,NA,NA,NA,NA,1,1
+"1618","Male","White",23725,34,2,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,1,1,0,NA
+"1620","Male","White",80839,59,3,3,"Married",1,"Independent/Other",1,1,4,0,1,NA,NA,NA,NA,1,1
+"1621","Female","White",90556,44,3,2,"Married",0,"Republican",1,NA,NA,NA,2,1,0,1,0,1,NA
+"1622","Male","White",146626,34,4,1,"Married",0,"Democrat",1,1,1,1,3,NA,NA,NA,NA,0,1
+"1623","Female","White",109723,35,3,1,"Married",0,"Democrat",1,1,1,NA,1,1,0,1,1,0,1
+"1628","Male","White",68405,19,1,0,"Never Married",0,"Republican",0,0,1,NA,3,1,0,1,0,1,0
+"1632","Male","White",38971,23,1,0,"Never Married",0,"Republican",0,0,5,0,2,NA,NA,NA,NA,1,0
+"1633","Female","White",109546,56,1,2,"Married",0,"Independent/Other",0,0,5,1,3,1,0,1,1,0,1
+"1634","Male","White",95904,47,1,5,"Was Married",0,"Independent/Other",0,0,6,1,1,NA,NA,NA,NA,0,1
+"1637","Female","White",49755,54,4,3,"Married",1,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1638","Male","White",118554,33,3,1,"Married",0,"Independent/Other",1,0,6,0,1,NA,NA,NA,NA,1,1
+"1639","Female","White",21389,53,1,2,"Was Married",0,"Democrat",1,NA,NA,NA,4,1,0,1,0,0,NA
+"1641","Female","White",46497,86,0,2,"Was Married",1,"Democrat",1,0,6,NA,4,0,0,1,0,0,0
+"1642","Male","White",121454,61,3,0,"Married",0,"Republican",1,0,5,0,3,NA,NA,NA,NA,0,0
+"1644","Male","White",63820,42,2,2,"Married",0,"Independent/Other",1,1,7,1,3,NA,NA,NA,NA,1,1
+"1649","Female","White",139971,30,1,0,"Never Married",0,"Democrat",0,0,3,1,1,NA,NA,NA,NA,1,1
+"1651","Female","White",24872,43,1,0,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1652","Female","White",20241,26,1,2,"Never Married",0,"Independent/Other",0,0,4,0,1,1,0,0,0,1,1
+"1654","Female","White",74893,42,2,1,"Married",0,"Democrat",1,0,4,NA,3,1,1,1,1,1,1
+"1655","Male","White",95347,42,3,4,"Married",0,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1657","Male","White",126168,47,1,0,"Married",0,"Independent/Other",0,0,5,1,2,NA,NA,NA,NA,1,1
+"1658","Male","White",75651,65,4,0,"Was Married",1,"Republican",1,0,6,0,2,NA,NA,NA,NA,0,1
+"1659","Male","White",101249,37,1,2,"Married",0,"Independent/Other",1,1,1,NA,4,1,1,1,1,0,1
+"1661","Male","White",34055,44,1,1,"Was Married",0,"Independent/Other",0,1,5,1,3,1,0,1,1,0,1
+"1662","Female","White",15756,77,1,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,0,0,NA
+"1663","Male","White",81816,23,1,0,"Never Married",0,"Democrat",0,0,2,1,3,NA,NA,NA,NA,1,1
+"1664","Female","White",58769,55,3,0,"Was Married",0,"Republican",1,0,7,NA,2,0,0,1,1,0,1
+"1665","Male","White",49242,37,2,3,"Was Married",0,"Independent/Other",0,0,7,1,3,1,1,1,0,0,1
+"1667","Female","White",87418,60,1,0,"Was Married",0,"Republican",1,NA,NA,NA,4,1,0,1,0,1,NA
+"1669","Male","White",94903,43,3,2,"Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1670","Female","Black",66619,43,2,2,"Married",0,"Republican",0,1,5,0,2,0,0,0,0,1,0
+"1671","Male","White",148007,21,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,4,1,0,0,1,1,NA
+"1672","Female","White",131557,51,3,4,"Was Married",0,"Independent/Other",1,0,5,0,2,NA,NA,NA,NA,1,1
+"1673","Male","White",100666,36,3,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1675","Male","White",76710,74,4,6,"Married",0,"Republican",1,1,5,0,1,NA,NA,NA,NA,1,0
+"1677","Female","White",127651,34,1,1,"Married",0,"Republican",1,0,1,1,1,NA,NA,NA,NA,1,0
+"1678","Female","White",86245,30,3,1,"Married",0,"Democrat",1,1,2,NA,2,1,0,1,1,1,1
+"1679","Male","White",139861,73,3,1,"Was Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1680","Male","White",100872,34,1,2,"Married",0,"Independent/Other",0,0,2,1,3,NA,NA,NA,NA,1,0
+"1681","Male","White",125346,34,3,0,"Married",0,"Democrat",1,1,3,1,1,NA,NA,NA,NA,1,1
+"1682","Male","White",59082,39,3,1,"Married",0,NA,0,0,3,NA,3,1,0,1,1,0,0
+"1685","Female","White",57545,46,1,0,"Was Married",0,"Independent/Other",0,0,4,1,3,NA,NA,NA,NA,1,1
+"1686","Male","White",45612,37,3,4,"Married",0,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1687","Male","White",103912,22,1,0,"Never Married",0,"Democrat",0,0,3,1,4,1,1,1,1,1,1
+"1688","Male","White",49503,55,1,0,"Was Married",0,"Republican",1,1,7,0,2,NA,NA,NA,NA,1,1
+"1689","Female","White",816,59,1,0,"Never Married",0,NA,1,0,2,1,4,NA,NA,NA,NA,1,0
+"1691","Female","White",17436,55,2,3,"Was Married",0,"Republican",1,0,1,NA,2,1,0,0,0,0,0
+"1692","Male","White",102142,78,1,0,"Married",0,"Democrat",1,NA,NA,NA,1,1,0,0,0,0,NA
+"1694","Female","White",76618,57,4,0,"Never Married",0,"Democrat",1,0,1,NA,3,1,0,1,0,0,0
+"1699","Female","White",14561,25,1,3,"Married",0,NA,0,0,1,1,3,NA,NA,NA,NA,1,1
+"1702","Male","White",94446,58,3,0,"Was Married",0,"Independent/Other",1,NA,NA,NA,2,0,0,1,0,1,NA
+"1703","Male","Black",138276,57,1,2,"Was Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,1
+"1704","Female","Black",3694,19,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1706","Male","White",90582,43,4,4,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,1,1,0,NA
+"1707","Male","White",9960,64,3,0,"Never Married",1,"Independent/Other",0,0,4,NA,2,0,0,1,1,0,1
+"1708","Male","White",101449,43,1,0,"Never Married",0,"Independent/Other",1,0,5,1,2,NA,NA,NA,NA,1,1
+"1711","Male","White",101764,51,1,2,"Was Married",0,"Independent/Other",0,0,1,NA,4,1,0,0,0,1,1
+"1714","Female","White",20131,44,4,1,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1719","Male","White",91208,23,1,2,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,0,0,0,0,1,NA
+"1720","Female","White",21317,40,1,2,"Married",1,"Independent/Other",1,0,1,1,2,NA,NA,NA,NA,1,1
+"1722","Male","White",112465,62,1,2,"Was Married",0,"Independent/Other",0,1,4,0,2,1,0,1,1,0,1
+"1723","Male","White",138341,55,2,2,"Married",0,"Democrat",1,0,2,1,2,NA,NA,NA,NA,0,1
+"1724","Male","White",66003,27,2,2,"Never Married",0,"Democrat",1,NA,NA,NA,2,1,0,1,0,0,NA
+"1725","Female","Other",69555,25,1,0,"Married",0,"Independent/Other",1,0,1,NA,1,0,0,1,0,1,1
+"1726","Male","White",116326,52,3,1,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1729","Male","White",12483,52,1,0,"Never Married",0,"Republican",0,0,5,0,4,NA,NA,NA,NA,0,1
+"1730","Male","Black",75567,41,3,1,"Never Married",0,"Democrat",0,1,4,0,3,NA,NA,NA,NA,1,1
+"1731","Female","White",110123,50,3,0,"Never Married",0,"Republican",1,1,2,1,1,NA,NA,NA,NA,1,0
+"1732","Female","White",56540,43,4,2,"Married",0,"Republican",1,0,5,NA,2,0,0,0,0,1,1
+"1733","Male","White",95198,69,1,0,"Married",0,"Independent/Other",1,0,4,1,2,NA,NA,NA,NA,0,0
+"1737","Female","White",123858,63,1,2,"Married",0,"Democrat",1,0,1,NA,2,1,0,0,1,1,1
+"1738","Female","White",49646,59,3,3,"Married",0,"Republican",1,NA,NA,NA,1,0,0,1,0,1,NA
+"1739","Male","White",99445,24,3,0,"Never Married",0,"Independent/Other",0,1,3,1,1,NA,NA,NA,NA,1,1
+"1742","Female","White",133225,39,3,0,"Was Married",0,"Republican",1,0,5,0,3,NA,NA,NA,NA,1,0
+"1744","Male","White",129842,38,4,4,"Married",0,"Independent/Other",1,0,3,1,3,1,0,1,1,1,1
+"1745","Female","White",70903,63,3,1,"Was Married",0,"Democrat",1,0,1,NA,2,1,0,0,0,1,1
+"1747","Male","Black",12022,63,0,6,"Never Married",0,"Democrat",1,0,3,0,4,NA,NA,NA,NA,1,1
+"1748","Male","White",63468,58,1,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,4,1,0,0,0,1,NA
+"1749","Male","White",24307,25,1,1,"Never Married",0,"Independent/Other",0,0,5,1,4,1,0,0,0,1,1
+"1750","Male","White",60915,51,1,3,"Married",1,"Republican",1,0,5,0,1,NA,NA,NA,NA,0,0
+"1751","Female","White",103479,69,1,1,"Was Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1752","Female","White",86684,45,4,2,"Married",0,"Independent/Other",1,1,3,1,1,0,0,1,0,0,1
+"1754","Female","White",54894,73,1,1,"Was Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1756","Female","White",65423,35,3,2,"Married",0,"Independent/Other",1,0,3,NA,3,1,0,1,0,0,1
+"1758","Female","White",149255,61,3,0,"Never Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,1,1
+"1760","Male","White",127932,54,1,2,"Married",0,"Republican",1,0,7,0,3,NA,NA,NA,NA,0,0
+"1761","Female","White",99935,47,3,3,"Married",0,"Democrat",1,1,1,NA,2,1,0,1,1,0,1
+"1763","Male","White",66715,63,3,5,"Married",0,"Independent/Other",1,1,6,0,3,NA,NA,NA,NA,0,0
+"1765","Male","White",137132,64,0,2,"Married",0,"Republican",1,0,5,0,3,NA,NA,NA,NA,1,1
+"1766","Female","White",81571,23,1,1,"Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1767","Male","Black",73937,27,1,0,"Married",0,"Independent/Other",0,0,4,1,2,NA,NA,NA,NA,1,1
+"1768","Female","White",115507,26,1,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,0,1,NA
+"1769","Male","White",67130,41,1,0,"Married",0,"Independent/Other",1,1,4,0,3,NA,NA,NA,NA,0,1
+"1770","Male","White",124985,20,1,0,"Never Married",0,"Democrat",0,0,6,NA,1,1,0,1,1,1,1
+"1771","Male","White",60134,54,1,0,"Was Married",0,"Independent/Other",1,1,3,1,4,NA,NA,NA,NA,1,1
+"1775","Male","Other",84566,51,0,0,"Married",0,"Democrat",1,0,1,0,3,1,0,0,0,1,0
+"1778","Female","White",83053,54,1,3,"Married",0,"Independent/Other",0,0,1,1,3,1,0,1,1,0,0
+"1781","Male","White",91735,59,3,2,"Married",0,"Republican",1,1,7,0,2,0,0,0,0,1,1
+"1782","Female","White",84144,31,1,1,"Never Married",0,"Republican",0,0,2,1,3,NA,NA,NA,NA,1,0
+"1783","Female","White",123621,23,1,1,"Never Married",0,"Independent/Other",0,1,5,1,2,NA,NA,NA,NA,1,1
+"1784","Female","White",20540,55,2,3,"Was Married",0,"Republican",1,0,1,NA,1,1,0,1,0,0,0
+"1785","Female","White",63835,34,3,3,"Married",0,"Independent/Other",1,NA,NA,NA,2,0,0,1,0,0,NA
+"1786","Female","White",74622,37,2,2,"Married",0,"Republican",1,1,5,0,2,NA,NA,NA,NA,0,1
+"1787","Female","White",109131,30,3,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1788","Female","White",126644,33,3,3,"Married",0,"Republican",1,NA,NA,NA,3,1,0,1,1,1,NA
+"1789","Male","White",87199,48,3,0,"Was Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1790","Female","White",99215,60,3,2,"Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1791","Female","White",74763,47,4,4,"Married",0,"Independent/Other",1,1,4,1,3,0,1,0,1,1,0
+"1792","Female","White",109671,52,1,0,"Was Married",0,"Republican",1,0,1,1,1,NA,NA,NA,NA,1,1
+"1794","Male","White",136420,29,1,2,"Never Married",0,"Independent/Other",0,0,1,NA,1,1,0,0,0,1,1
+"1796","Male","White",129952,36,3,3,"Married",0,"Republican",1,0,7,0,1,NA,NA,NA,NA,1,0
+"1797","Female","White",77865,64,2,0,"Never Married",0,"Democrat",1,1,2,1,3,NA,NA,NA,NA,0,1
+"1799","Female","White",57171,63,3,2,"Married",0,"Independent/Other",1,1,4,1,3,1,0,1,0,1,1
+"1800","Male","Black",139922,24,1,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,1,1,0,0,0,1,NA
+"1801","Female","White",109089,35,2,3,"Was Married",0,"Democrat",1,1,1,1,3,NA,NA,NA,NA,1,1
+"1803","Male","White",120835,66,3,5,"Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1804","Female","White",93968,47,3,1,"Married",0,"Republican",1,0,5,NA,1,0,0,1,0,1,0
+"1805","Male","Black",119998,53,3,5,"Married",0,"Independent/Other",1,0,4,1,1,1,1,1,1,1,1
+"1806","Female","White",145199,70,4,2,"Married",0,"Independent/Other",1,1,6,0,2,NA,NA,NA,NA,1,1
+"1807","Female","White",82738,32,3,3,"Married",0,"Democrat",1,1,3,0,2,NA,NA,NA,NA,0,0
+"1808","Female","White",20772,26,1,0,"Never Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1809","Female","White",66057,35,3,2,"Married",0,"Republican",1,1,4,0,2,1,0,1,0,1,0
+"1810","Male","White",56435,59,4,1,"Married",1,"Republican",1,NA,NA,NA,1,1,1,0,0,0,NA
+"1811","Male","White",135372,55,0,4,"Married",1,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1814","Female","Other",64811,50,3,2,"Was Married",0,"Independent/Other",1,0,3,NA,3,1,1,0,1,1,1
+"1817","Male","White",52883,49,1,0,"Was Married",0,"Democrat",1,0,4,0,3,NA,NA,NA,NA,1,1
+"1818","Male","White",50387,57,1,2,"Was Married",0,"Independent/Other",1,0,4,NA,2,0,0,1,1,1,1
+"1820","Male","Black",14107,56,1,1,"Never Married",0,"Democrat",0,0,4,0,3,0,0,0,0,1,1
+"1821","Male","White",18347,55,2,8,"Married",1,"Independent/Other",1,0,7,1,3,NA,NA,NA,NA,1,0
+"1822","Male","White",95029,45,3,1,"Was Married",0,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1824","Male","White",93633,60,1,0,"Married",0,NA,0,0,1,NA,3,1,0,0,0,0,1
+"1825","Female","White",115609,58,1,5,"Married",1,"Independent/Other",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"1827","Female","White",142367,45,4,2,"Married",0,"Independent/Other",1,0,6,1,1,NA,NA,NA,NA,0,1
+"1829","Female","White",52309,56,3,4,"Was Married",0,"Republican",1,0,6,0,2,NA,NA,NA,NA,0,0
+"1830","Male","White",138491,24,1,0,"Never Married",0,"Democrat",0,0,3,NA,2,1,1,0,0,1,1
+"1832","Female","Black",105441,49,3,2,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1833","Female","Black",17206,25,1,0,"Never Married",0,"Independent/Other",0,0,4,1,1,0,0,1,0,1,1
+"1835","Male","Black",23044,23,0,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1836","Female","Black",23505,23,1,3,"Never Married",0,"Independent/Other",0,0,3,0,1,1,0,1,0,1,0
+"1837","Female","White",55510,73,2,3,"Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1841","Male","White",18166,25,1,0,"Never Married",0,"Independent/Other",0,0,7,NA,1,0,0,0,0,1,1
+"1842","Female","White",52180,72,3,3,"Was Married",0,"Democrat",1,1,2,1,1,NA,NA,NA,NA,1,1
+"1844","Female","Black",24002,62,1,4,"Was Married",0,"Democrat",1,0,1,NA,5,1,0,1,1,0,1
+"1846","Female","White",13872,39,2,3,"Never Married",1,"Democrat",1,0,2,1,3,NA,NA,NA,NA,1,1
+"1848","Female","White",99110,64,1,2,"Was Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1851","Male","Black",149399,35,1,6,"Married",0,"Independent/Other",0,0,1,NA,2,0,0,1,0,1,0
+"1852","Female","White",2031,24,1,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,1,1,NA
+"1853","Male","White",69169,27,1,1,"Never Married",0,"Republican",0,0,4,0,4,1,0,1,0,0,1
+"1859","Female","Other",21861,33,1,0,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1860","Female","White",132295,28,3,1,"Never Married",0,"Independent/Other",0,0,3,1,1,1,0,1,1,1,1
+"1861","Female","White",7846,30,1,3,"Was Married",0,"Independent/Other",0,NA,NA,NA,4,1,0,1,0,1,NA
+"1863","Female","Other",113755,45,4,2,"Married",0,"Independent/Other",0,0,8,NA,1,1,0,0,0,1,0
+"1864","Male","White",60982,77,0,2,"Was Married",1,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1868","Male","White",86378,34,0,1,"Married",0,"Republican",0,0,5,0,1,NA,NA,NA,NA,1,1
+"1870","Female","Other",94933,59,1,2,"Was Married",0,"Independent/Other",1,0,2,1,2,1,0,1,0,1,1
+"1871","Male","Other",65531,49,3,4,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,1,1,NA
+"1873","Female","White",55355,24,0,0,"Never Married",0,"Independent/Other",0,0,3,NA,2,1,0,1,1,0,1
+"1874","Male","Other",111999,52,1,2,"Married",0,"Democrat",0,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1879","Female","Black",129083,53,1,1,"Never Married",0,"Independent/Other",0,0,4,0,3,NA,NA,NA,NA,1,0
+"1881","Female","Black",13818,24,1,3,"Never Married",1,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1884","Male","Other",6955,21,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,1,0,1,0,0,NA
+"1885","Male","Other",62172,34,1,4,"Married",0,"Independent/Other",0,0,1,NA,2,1,0,1,1,0,1
+"1886","Female","White",142451,60,1,2,"Was Married",0,"Democrat",0,NA,NA,NA,4,NA,NA,NA,NA,0,NA
+"1889","Male","White",106102,33,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,1,0,NA
+"1890","Female","Other",124905,30,1,8,"Married",0,"Independent/Other",1,0,1,1,1,NA,NA,NA,NA,1,1
+"1891","Male","Other",68152,43,1,3,"Was Married",0,"Independent/Other",0,0,1,1,2,1,0,1,1,1,1
+"1892","Male","Other",99894,27,0,1,"Never Married",0,"Independent/Other",0,0,3,0,4,NA,NA,NA,NA,1,1
+"1895","Female","Other",10201,49,1,2,"Was Married",0,"Democrat",0,NA,NA,NA,3,1,0,1,0,1,NA
+"1896","Female","White",24948,61,0,6,"Was Married",0,"Independent/Other",0,0,2,0,3,NA,NA,NA,NA,1,1
+"1897","Male","Other",111417,39,1,2,"Was Married",0,"Democrat",0,0,6,0,3,1,0,0,0,0,1
+"1898","Female","White",64137,54,1,2,"Was Married",1,"Republican",0,0,4,1,3,NA,NA,NA,NA,1,1
+"1899","Female","Other",144097,55,0,5,"Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1900","Male","Black",4790,54,1,0,"Never Married",0,"Democrat",0,0,7,0,3,NA,NA,NA,NA,1,1
+"1901","Male","Other",120521,49,0,3,"Married",0,"Republican",0,0,1,NA,3,1,0,1,1,1,1
+"1904","Male","White",71879,43,0,3,"Married",0,"Democrat",0,1,2,0,2,NA,NA,NA,NA,1,0
+"1905","Female","Other",12865,45,0,3,"Was Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1907","Male","White",145458,51,1,0,"Was Married",0,"Republican",1,0,4,0,2,NA,NA,NA,NA,1,0
+"1908","Female","White",73388,34,1,3,"Never Married",0,"Independent/Other",0,0,3,1,4,1,0,1,1,0,1
+"1909","Male","White",51015,28,3,0,"Married",0,"Republican",1,1,3,1,3,NA,NA,NA,NA,1,1
+"1910","Female","White",102779,35,2,1,"Married",0,"Republican",0,0,7,NA,2,1,1,1,1,1,1
+"1911","Male","White",74636,61,3,3,"Was Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1912","Female","White",57513,35,4,0,"Married",0,"Independent/Other",1,NA,NA,NA,3,0,1,1,1,1,NA
+"1913","Female","White",58714,66,1,0,"Was Married",1,"Democrat",1,0,2,NA,4,1,1,1,1,1,1
+"1914","Male","White",56777,43,1,2,"Was Married",0,"Republican",1,NA,NA,NA,4,1,1,1,0,0,NA
+"1915","Male","White",16677,20,1,0,"Never Married",0,"Democrat",0,0,4,0,1,NA,NA,NA,NA,1,1
+"1919","Male","White",93841,60,1,0,"Never Married",0,"Democrat",1,0,1,1,2,NA,NA,NA,NA,1,1
+"1920","Male","White",79744,34,1,0,"Never Married",0,"Independent/Other",0,0,5,NA,2,0,0,0,0,1,0
+"1921","Female","White",80304,31,1,1,"Married",0,"Democrat",1,0,5,1,3,1,0,1,1,0,1
+"1922","Male","White",79956,24,1,0,"Never Married",0,"Republican",1,0,5,NA,4,0,0,0,1,1,0
+"1923","Female","Other",64845,64,3,4,"Was Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1924","Female","White",98543,38,2,2,"Never Married",0,"Democrat",1,0,1,1,4,1,0,1,1,1,1
+"1925","Male","White",120344,56,0,3,"Never Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,0,1,NA
+"1926","Female","White",66006,60,3,0,"Was Married",0,"Independent/Other",0,0,1,1,2,NA,NA,NA,NA,1,0
+"1927","Male","White",75682,27,1,1,"Never Married",1,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"1928","Female","White",135236,25,1,0,"Never Married",0,"Independent/Other",0,0,1,1,5,1,0,1,0,1,1
+"1929","Male","Other",83810,38,1,1,"Never Married",0,NA,0,NA,NA,NA,2,1,0,1,0,1,NA
+"1930","Female","Other",121296,71,3,1,"Was Married",0,"Republican",1,NA,NA,NA,1,1,1,1,0,1,NA
+"1931","Male","White",145520,73,1,1,"Married",1,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"1933","Female","White",52619,30,0,3,"Was Married",0,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,1,0
+"1935","Female","White",19920,53,1,4,"Was Married",1,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1936","Male","White",13979,41,3,4,"Married",0,"Democrat",0,1,5,1,2,1,0,1,1,1,1
+"1937","Female","White",95324,56,4,4,"Married",0,"Republican",1,NA,NA,NA,1,1,1,0,0,1,NA
+"1938","Female","White",131383,26,3,0,"Married",0,"Democrat",1,0,3,1,3,1,0,1,1,0,0
+"1941","Male","White",103107,56,4,2,"Married",1,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1945","Female","White",119419,44,4,2,"Married",0,"Republican",1,0,6,0,2,NA,NA,NA,NA,0,1
+"1948","Male","White",10576,24,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,3,1,1,1,1,1,NA
+"1950","Male","White",106670,29,3,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,1,0,0,0,0,1,NA
+"1952","Female","White",66984,33,3,2,"Was Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1955","Male","White",83129,46,1,1,"Never Married",0,"Independent/Other",0,0,3,NA,4,1,1,0,1,1,1
+"1956","Female","White",148570,30,1,1,"Never Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"1957","Female","White",112578,49,3,2,"Was Married",0,"Republican",1,0,3,1,3,NA,NA,NA,NA,1,0
+"1958","Male","White",125136,51,2,6,"Was Married",0,"Republican",1,NA,NA,NA,1,1,0,1,0,0,NA
+"1961","Female","Other",56305,69,1,4,"Was Married",0,"Republican",1,0,6,1,3,0,0,1,0,1,0
+"1962","Male","White",129500,24,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,1,0,1,NA
+"1963","Male","Other",100556,99,4,9,"Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"1964","Female","Other",125599,42,0,4,"Was Married",0,"Independent/Other",0,0,4,1,3,NA,NA,NA,NA,0,0
+"1965","Male","Other",56487,30,1,3,"Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"1966","Female","White",106171,32,1,3,"Married",0,"Democrat",0,NA,NA,NA,1,1,0,1,1,1,NA
+"1969","Female","White",21932,28,1,5,"Was Married",0,"Independent/Other",0,0,4,0,5,1,0,1,0,1,0
+"1971","Female","White",58248,51,1,0,"Was Married",0,"Republican",1,NA,NA,NA,2,1,0,0,0,1,NA
+"1972","Male","White",128417,32,1,0,"Never Married",0,"Independent/Other",0,1,2,1,2,NA,NA,NA,NA,1,1
+"1974","Male","White",72923,59,1,4,"Married",0,"Independent/Other",0,1,4,0,3,0,0,0,0,1,0
+"1975","Female","White",43481,38,0,5,"Married",0,"Independent/Other",0,0,1,0,3,NA,NA,NA,NA,1,0
+"1978","Male","White",80550,29,3,2,"Never Married",0,"Independent/Other",0,1,2,NA,4,1,1,1,1,1,1
+"1979","Male","Other",8513,59,0,4,"Was Married",0,"Independent/Other",0,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"1980","Female","Other",110710,42,0,3,"Married",0,"Independent/Other",0,0,4,1,4,1,1,1,0,1,0
+"1983","Male","White",103549,34,4,0,"Never Married",0,"Independent/Other",1,1,2,1,4,NA,NA,NA,NA,1,1
+"1984","Female","White",58541,32,3,1,"Never Married",0,"Independent/Other",1,1,1,NA,2,1,0,1,1,1,1
+"1986","Female","Other",110906,35,1,3,"Married",1,"Independent/Other",0,0,4,1,3,NA,NA,NA,NA,1,1
+"1987","Female","Black",12998,22,1,2,"Never Married",0,"Independent/Other",0,0,1,1,1,NA,NA,NA,NA,1,1
+"1991","Male","Other",9446,44,0,0,"Never Married",0,"Republican",0,NA,NA,NA,5,1,0,1,1,1,NA
+"2002","Female","White",91990,60,1,2,"Was Married",0,"Democrat",1,0,2,1,2,NA,NA,NA,NA,1,0
+"2003","Female","White",86309,56,3,2,"Married",1,"Republican",1,0,5,NA,2,0,0,1,0,0,0
+"2004","Female","White",126029,55,3,2,"Married",0,"Republican",1,1,6,0,1,NA,NA,NA,NA,0,0
+"2007","Female","Other",13865,29,3,0,"Never Married",0,"Democrat",1,0,2,1,4,NA,NA,NA,NA,0,1
+"2008","Female","White",83494,46,4,3,"Was Married",0,"Democrat",1,1,3,NA,2,1,0,1,1,1,0
+"2013","Male","White",15376,25,3,0,"Never Married",0,"Democrat",0,0,1,1,4,NA,NA,NA,NA,1,1
+"2016","Female","White",23720,53,1,0,"Married",0,"Republican",1,0,7,0,3,NA,NA,NA,NA,0,1
+"2019","Male","White",55979,55,3,2,"Married",0,"Republican",1,1,7,NA,1,0,0,1,0,0,0
+"2020","Male","White",136661,51,1,2,"Married",0,"Republican",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2024","Male","White",60013,57,2,2,"Was Married",1,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"2025","Male","White",35847,44,4,2,"Married",0,"Republican",1,1,7,0,2,0,0,0,0,1,0
+"2027","Male","White",99320,44,4,0,"Never Married",0,"Democrat",1,1,5,1,1,NA,NA,NA,NA,1,1
+"2028","Female","White",59347,58,4,3,"Was Married",0,"Democrat",1,NA,NA,NA,1,NA,NA,NA,NA,1,NA
+"2029","Female","White",21208,41,2,1,"Was Married",0,"Independent/Other",1,0,2,1,4,NA,NA,NA,NA,0,1
+"2031","Female","White",142917,28,2,0,"Married",0,"Independent/Other",1,NA,NA,NA,2,1,0,1,1,0,NA
+"2032","Female","White",74116,36,3,1,"Never Married",0,"Democrat",1,1,4,NA,2,1,0,1,1,1,1
+"2034","Female","White",109593,25,1,0,"Married",0,"Democrat",0,1,1,1,2,NA,NA,NA,NA,1,1
+"2035","Female","Other",88030,62,1,2,"Married",0,"Democrat",1,0,5,1,3,NA,NA,NA,NA,1,1
+"2036","Female","White",77991,33,1,1,"Never Married",0,"Independent/Other",0,0,4,NA,4,1,0,1,1,1,1
+"2037","Male","White",118878,37,1,1,"Never Married",0,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2038","Male","White",129805,36,0,0,"Was Married",0,"Republican",0,0,3,1,3,1,1,0,0,0,1
+"2040","Female","Other",11557,61,1,4,"Was Married",0,"Democrat",0,0,1,NA,2,1,1,1,1,1,1
+"2041","Male","White",103931,71,4,1,"Married",1,"Republican",1,NA,NA,NA,1,0,1,0,0,0,NA
+"2042","Male","White",25759,53,4,0,"Married",0,"Democrat",1,1,3,NA,2,1,1,1,1,1,1
+"2043","Male","Other",48992,44,1,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2044","Male","Other",102887,50,2,2,"Was Married",0,"Independent/Other",0,0,6,1,1,1,0,0,0,0,0
+"2049","Male","White",101075,66,1,3,"Married",1,"Independent/Other",1,NA,NA,NA,3,1,0,1,0,0,NA
+"2050","Male","White",61486,35,1,0,"Was Married",1,"Republican",0,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"2051","Male","White",63268,44,1,0,"Married",0,"Independent/Other",1,0,7,0,2,0,0,0,0,1,1
+"2055","Male","White",102654,18,0,0,"Never Married",0,"Republican",0,NA,NA,NA,4,1,0,0,0,1,NA
+"2056","Male","White",96710,36,1,0,"Never Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,0,1
+"2062","Female","White",136482,56,2,3,"Was Married",0,NA,0,0,5,NA,2,1,1,1,1,0,0
+"2063","Female","White",75582,53,1,2,"Never Married",1,"Democrat",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2064","Female","White",113172,54,3,3,"Married",0,"Republican",1,1,7,0,1,NA,NA,NA,NA,0,0
+"2066","Male","Other",3377,37,1,0,"Never Married",1,"Independent/Other",0,0,4,0,1,1,1,0,0,1,1
+"2068","Female","White",21745,51,1,2,"Was Married",0,"Independent/Other",0,0,7,NA,1,0,1,1,1,1,0
+"2069","Female","White",78847,52,2,2,"Married",0,"Independent/Other",0,0,3,1,3,1,0,1,0,1,1
+"2074","Male","White",22453,22,1,0,"Never Married",0,"Independent/Other",0,0,4,NA,3,0,1,0,0,1,1
+"2075","Female","White",20824,53,1,6,"Was Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,1,NA
+"2077","Male","White",86515,28,4,0,"Never Married",0,"Independent/Other",1,0,2,1,3,NA,NA,NA,NA,1,1
+"2078","Female","White",57306,27,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,0,0,0,0,1,NA
+"2080","Male","Black",108013,26,1,2,"Married",1,"Independent/Other",1,0,1,1,1,NA,NA,NA,NA,1,1
+"2081","Female","White",13301,28,1,0,"Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,0,0,0,NA
+"2082","Female","White",100475,66,2,2,"Married",0,"Republican",1,1,5,NA,2,1,0,1,0,0,1
+"2083","Male","White",92759,59,1,2,"Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2085","Female","White",69732,75,1,3,"Married",0,"Republican",1,NA,NA,NA,2,1,0,1,0,1,NA
+"2087","Male","White",59484,64,1,5,"Married",0,"Republican",1,0,3,1,3,NA,NA,NA,NA,0,0
+"2088","Male","Other",147161,36,2,3,"Married",0,"Republican",1,0,2,1,2,NA,NA,NA,NA,1,1
+"2092","Male","White",77820,37,3,1,"Married",0,"Democrat",1,1,1,1,3,NA,NA,NA,NA,1,1
+"2093","Male","White",124053,39,3,4,"Married",0,"Republican",1,NA,NA,NA,3,0,1,0,0,1,NA
+"2099","Female","White",119088,57,1,4,"Was Married",0,"Republican",1,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"2100","Female","White",47187,44,2,2,"Was Married",0,"Independent/Other",1,0,6,0,1,1,0,1,0,0,1
+"2101","Female","White",54000,43,2,2,"Married",0,"Republican",1,NA,NA,NA,2,1,0,1,1,0,NA
+"2103","Male","White",56659,27,1,0,"Never Married",0,"Independent/Other",0,0,4,0,3,1,1,1,1,1,1
+"2105","Male","Other",88232,46,1,3,"Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2107","Male","White",57193,63,3,2,"Married",0,"Republican",1,1,5,1,1,NA,NA,NA,NA,1,0
+"2109","Female","White",29593,56,3,2,"Married",0,"Republican",1,0,6,0,1,1,0,1,0,1,0
+"2111","Female","White",14421,34,2,3,"Never Married",0,"Independent/Other",0,0,1,1,4,NA,NA,NA,NA,0,1
+"2112","Female","White",11317,36,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2121","Female","Black",91059,48,1,4,"Was Married",0,"Democrat",1,0,4,0,4,NA,NA,NA,NA,1,1
+"2122","Female","White",20943,52,1,2,"Married",0,"Republican",1,0,1,1,2,NA,NA,NA,NA,1,1
+"2124","Male","White",134218,39,2,3,"Married",0,"Independent/Other",0,0,4,1,4,NA,NA,NA,NA,0,1
+"2126","Female","White",21368,30,1,0,"Never Married",0,"Republican",0,0,4,0,4,1,0,1,1,0,1
+"2128","Female","White",81553,49,1,0,"Married",0,"Republican",1,1,3,NA,2,1,0,1,1,1,1
+"2129","Female","White",59028,36,3,3,"Married",0,"Democrat",1,0,1,1,3,NA,NA,NA,NA,1,0
+"2130","Male","White",72122,40,0,2,"Married",0,"Democrat",0,0,7,NA,1,1,0,1,1,1,0
+"2133","Female","White",79593,38,4,2,"Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,1,0,NA
+"2134","Male","White",99745,59,4,3,"Married",0,"Independent/Other",1,0,5,0,1,NA,NA,NA,NA,0,1
+"2135","Female","White",52379,25,1,0,"Married",0,"Independent/Other",0,0,6,NA,1,0,0,0,0,0,1
+"2137","Female","White",66622,37,1,3,"Married",0,"Republican",1,0,7,0,4,1,0,1,0,1,0
+"2138","Female","White",145381,72,4,2,"Married",0,"Republican",1,0,7,1,2,NA,NA,NA,NA,0,0
+"2139","Female","White",46749,58,0,5,"Married",0,"Independent/Other",0,NA,NA,NA,1,1,0,1,0,1,NA
+"2140","Female","White",20596,65,1,2,"Married",0,"Independent/Other",0,0,1,NA,3,1,0,1,0,0,0
+"2145","Male","White",148485,89,1,2,"Was Married",0,"Independent/Other",1,0,6,0,3,0,1,1,0,0,0
+"2151","Male","White",95983,46,0,5,"Was Married",0,"Independent/Other",1,0,1,1,2,NA,NA,NA,NA,0,0
+"2153","Female","White",132740,34,1,7,"Never Married",0,"Independent/Other",0,0,7,0,4,NA,NA,NA,NA,1,1
+"2154","Female","White",140758,31,1,1,"Married",0,"Democrat",0,0,3,NA,3,1,0,1,0,1,1
+"2155","Female","Black",146468,32,1,0,"Never Married",0,"Democrat",1,0,4,0,4,NA,NA,NA,NA,1,1
+"2156","Male","White",146832,26,3,0,"Never Married",0,"Democrat",1,NA,NA,NA,1,1,1,1,1,1,NA
+"2157","Male","White",24592,53,1,8,"Was Married",1,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2159","Female","Black",22,20,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,1,0,1,NA
+"2160","Female","White",56635,39,1,2,"Was Married",0,"Republican",1,0,7,1,2,NA,NA,NA,NA,1,0
+"2161","Female","White",126904,38,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2162","Male","White",110908,33,4,0,"Never Married",0,"Independent/Other",1,0,5,1,4,NA,NA,NA,NA,1,1
+"2163","Male","White",70723,63,1,1,"Married",1,"Independent/Other",1,1,6,NA,2,0,0,0,0,1,0
+"2165","Female","White",128243,47,1,3,"Never Married",0,"Independent/Other",0,0,2,1,2,0,0,1,0,1,1
+"2166","Male","White",10892,38,2,2,"Married",0,"Republican",0,NA,NA,NA,2,1,0,0,0,1,NA
+"2167","Male","Black",135385,25,1,1,"Never Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2168","Female","Black",45305,55,0,1,"Never Married",0,"Independent/Other",0,0,7,1,3,NA,NA,NA,NA,1,0
+"2169","Female","Other",76192,55,1,3,"Married",0,"Independent/Other",0,0,7,0,3,0,0,0,0,1,1
+"2172","Female","White",50210,61,1,4,"Was Married",1,"Democrat",1,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2173","Male","White",128370,29,1,1,"Never Married",0,"Republican",1,0,5,0,2,0,1,0,0,1,1
+"2174","Female","White",113490,29,1,2,"Married",1,"Independent/Other",0,NA,NA,NA,2,1,0,1,1,1,NA
+"2175","Female","Other",70002,31,1,3,"Never Married",0,"Democrat",1,1,4,NA,1,1,0,1,1,1,0
+"2176","Female","White",16076,37,1,2,"Was Married",0,"Democrat",0,0,3,1,3,1,0,1,1,0,1
+"2178","Female","White",21482,80,2,4,"Was Married",0,"Democrat",1,NA,NA,NA,3,1,0,1,0,0,NA
+"2181","Female","White",91086,39,1,3,"Married",0,"Democrat",1,0,5,NA,3,1,0,0,0,0,1
+"2183","Male","White",110330,52,1,3,"Married",1,"Republican",1,0,3,1,1,NA,NA,NA,NA,0,0
+"2185","Female","White",61162,36,1,1,"Never Married",0,"Independent/Other",1,0,3,NA,3,0,0,0,0,0,1
+"2187","Female","White",104379,47,1,0,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,0,0,1,NA
+"2188","Male","White",103627,65,1,3,"Married",1,"Independent/Other",0,0,4,NA,4,1,1,0,0,0,0
+"2189","Male","White",118089,37,1,2,"Married",0,"Independent/Other",0,NA,NA,NA,4,0,0,0,0,0,NA
+"2190","Female","White",126768,56,3,2,"Married",0,"Independent/Other",1,1,2,NA,2,1,0,1,1,1,0
+"2191","Male","White",129923,40,1,1,"Married",0,"Republican",1,NA,NA,NA,2,0,0,1,0,0,NA
+"2192","Male","White",97737,39,4,2,"Married",0,"Democrat",1,1,3,1,3,NA,NA,NA,NA,1,1
+"2193","Female","White",12486,30,3,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2195","Female","Other",72243,24,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,0,0,0,1,1,NA
+"2197","Male","White",47205,44,1,3,"Married",0,"Independent/Other",1,0,5,NA,2,0,0,1,1,1,0
+"2199","Male","White",102809,39,4,0,"Never Married",0,"Independent/Other",1,0,1,1,2,1,0,1,1,1,1
+"2201","Female","White",22863,56,1,2,"Was Married",1,"Republican",0,NA,NA,NA,4,1,0,1,1,1,NA
+"2202","Female","White",146371,36,1,3,"Was Married",0,"Democrat",1,0,5,NA,3,1,0,1,0,1,1
+"2204","Female","White",15429,35,1,3,"Never Married",0,"Independent/Other",1,0,4,1,3,NA,NA,NA,NA,1,1
+"2205","Male","White",90126,37,2,2,"Married",0,"Independent/Other",0,0,4,NA,1,1,0,1,0,1,0
+"2206","Male","White",82454,62,1,1,"Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2207","Female","White",82971,33,4,1,"Married",0,"Republican",1,0,6,1,2,1,0,0,1,1,1
+"2208","Male","White",9070,25,1,0,"Never Married",0,"Republican",1,1,6,0,4,NA,NA,NA,NA,1,1
+"2209","Female","White",111731,40,2,0,"Married",0,"Independent/Other",1,NA,NA,NA,2,0,0,1,0,1,NA
+"2211","Female","White",96600,50,4,2,"Married",0,"Democrat",1,0,4,1,1,0,0,1,0,0,1
+"2217","Male","White",149016,51,3,2,"Married",0,"Democrat",1,NA,NA,NA,3,0,0,1,0,1,NA
+"2218","Female","White",9980,42,1,0,"Never Married",0,NA,0,0,1,1,3,NA,NA,NA,NA,1,1
+"2223","Male","Other",31315,58,0,6,"Married",0,"Independent/Other",0,0,5,NA,3,0,0,0,1,0,0
+"2224","Male","White",60395,59,1,0,"Was Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"2225","Female","White",24140,27,4,0,"Married",0,"Republican",0,NA,NA,NA,3,1,0,0,1,0,NA
+"2226","Male","White",73066,29,3,0,"Never Married",0,"Independent/Other",0,0,4,1,3,NA,NA,NA,NA,0,1
+"2227","Female","White",110699,32,1,3,"Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"2228","Male","White",142452,32,0,1,"Never Married",0,"Independent/Other",1,1,3,0,2,1,1,1,0,0,1
+"2229","Male","Other",133945,27,1,0,"Never Married",0,"Democrat",0,0,3,0,1,NA,NA,NA,NA,0,0
+"2230","Female","White",63445,40,1,0,"Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,1,0,NA
+"2233","Female","White",17455,47,3,1,"Was Married",0,"Independent/Other",1,0,2,NA,3,1,1,1,0,1,1
+"2234","Male","White",227,51,0,0,"Never Married",1,"Democrat",0,0,6,0,4,1,0,1,0,1,0
+"2235","Female","White",86136,56,0,3,"Married",0,"Independent/Other",0,0,5,0,5,NA,NA,NA,NA,1,0
+"2236","Male","White",24619,70,1,2,"Was Married",0,"Republican",0,0,2,NA,2,1,0,0,0,1,1
+"2238","Female","White",64348,53,0,2,"Married",0,"Democrat",1,0,1,1,4,1,0,1,1,0,1
+"2240","Female","White",144850,57,1,2,"Married",0,"Democrat",1,NA,NA,NA,3,0,0,1,0,0,NA
+"2242","Female","White",143938,61,0,2,"Married",0,"Republican",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2243","Male","White",106130,45,1,2,"Was Married",0,"Independent/Other",0,0,1,1,2,NA,NA,NA,NA,1,0
+"2245","Female","White",20530,55,1,2,"Was Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2248","Male","White",126610,55,1,4,"Married",1,"Democrat",0,0,5,0,3,NA,NA,NA,NA,0,1
+"2249","Female","White",63487,48,1,2,"Married",0,"Independent/Other",1,0,5,NA,3,1,0,1,0,0,0
+"2250","Female","White",83728,56,2,2,"Was Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,0,NA
+"2252","Female","White",131397,30,4,2,"Married",0,"Republican",1,NA,NA,NA,2,1,0,1,0,1,NA
+"2253","Female","White",94756,21,1,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,0,1,0,NA
+"2254","Male","White",133970,29,1,1,"Was Married",1,"Republican",1,0,3,0,2,NA,NA,NA,NA,1,1
+"2256","Female","White",101421,57,1,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,4,NA,NA,NA,NA,0,NA
+"2257","Male","White",14079,37,1,3,"Was Married",0,"Republican",0,0,4,1,3,NA,NA,NA,NA,0,1
+"2260","Female","Other",113571,34,0,4,"Married",0,"Independent/Other",0,0,1,NA,1,0,0,1,0,1,0
+"2261","Female","Black",110575,24,3,0,"Never Married",0,"Independent/Other",0,0,1,1,4,1,0,0,1,1,1
+"2262","Female","Other",3166,21,1,0,"Never Married",0,"Independent/Other",0,NA,NA,NA,2,1,1,1,1,1,NA
+"2263","Male","Other",5277,30,0,3,"Never Married",1,"Independent/Other",0,0,7,0,4,NA,NA,NA,NA,1,1
+"2267","Male","White",16696,65,1,1,"Married",0,"Independent/Other",1,1,4,0,3,NA,NA,NA,NA,1,1
+"2270","Male","Black",64187,46,1,4,"Was Married",0,"Democrat",1,0,1,1,3,0,0,1,1,1,0
+"2272","Female","White",122546,34,0,3,"Married",0,"Independent/Other",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2273","Female","Black",91198,34,2,3,"Married",0,"Democrat",1,0,3,1,4,1,0,1,0,1,0
+"2275","Female","White",75316,40,2,5,"Married",0,"Republican",1,0,3,NA,2,1,0,1,0,1,0
+"2276","Male","Black",90783,56,2,2,"Married",0,"Independent/Other",0,0,7,0,4,1,0,1,1,1,0
+"2279","Female","White",24198,68,4,0,"Never Married",0,"Republican",1,1,5,0,3,0,1,1,0,1,0
+"2280","Female","White",74347,30,1,1,"Married",0,NA,0,0,3,1,2,NA,NA,NA,NA,1,0
+"2284","Female","White",58660,35,1,6,"Married",0,"Independent/Other",0,NA,NA,NA,2,1,0,1,0,1,NA
+"2286","Female","White",116649,48,1,2,"Married",0,"Independent/Other",1,1,1,NA,2,1,0,1,1,1,1
+"2287","Male","Other",121744,34,0,4,"Never Married",0,"Democrat",0,NA,NA,NA,1,1,0,1,1,1,NA
+"2292","Female","Black",6263,41,1,3,"Never Married",0,"Democrat",1,1,1,NA,4,1,0,1,1,0,1
+"2293","Male","Black",12070,41,1,2,"Never Married",0,"Democrat",0,NA,NA,NA,2,NA,NA,NA,NA,1,NA
+"2295","Female","Black",1432,23,1,1,"Never Married",0,"Independent/Other",0,NA,NA,NA,3,1,0,1,1,1,NA
+"2297","Male","Black",66970,30,1,1,"Never Married",0,"Independent/Other",0,0,4,1,3,0,0,0,0,1,1
+"2298","Female","Black",9023,21,1,0,"Never Married",0,"Democrat",0,NA,NA,NA,2,0,0,0,0,1,NA
+"2302","Female","Black",24798,28,1,2,"Married",0,"Democrat",1,NA,NA,NA,3,NA,NA,NA,NA,1,NA
+"2306","Male","White",139219,40,1,0,"Married",0,"Independent/Other",0,0,3,1,3,NA,NA,NA,NA,1,1
+"2308","Male","Black",10806,32,1,0,"Never Married",0,"Independent/Other",0,0,2,NA,1,0,0,1,1,1,0
+"2315","Male","White",50629,26,1,0,"Never Married",0,"Independent/Other",0,1,5,NA,2,1,0,0,0,1,0
+"2316","Male","White",45563,75,0,3,"Married",0,"Independent/Other",0,NA,NA,NA,1,NA,NA,NA,NA,0,NA
+"2317","Male","White",78700,56,3,0,"Married",0,"Republican",1,NA,NA,NA,3,0,1,0,1,0,NA
+"2319","Female","White",114946,52,1,3,"Was Married",0,"Independent/Other",0,0,8,1,2,1,0,1,0,1,1
+"2320","Male","Black",53549,68,1,3,"Married",0,"Democrat",1,0,2,1,4,NA,NA,NA,NA,1,1
+"2322","Male","White",71134,53,3,2,"Married",0,"Republican",1,0,4,0,3,NA,NA,NA,NA,0,1
+"2323","Female","White",107740,43,2,1,"Married",0,"Republican",0,0,7,0,1,NA,NA,NA,NA,1,0
+"2326","Female","White",115970,57,3,3,"Was Married",0,"Independent/Other",1,NA,NA,NA,1,1,0,1,1,1,NA
+"2327","Male","White",56997,39,1,4,"Never Married",0,"Independent/Other",1,0,1,1,3,NA,NA,NA,NA,0,0
+"2331","Male","White",63316,50,2,2,"Married",0,"Independent/Other",1,1,4,0,3,NA,NA,NA,NA,1,0
+"2336","Female","White",95797,54,4,0,"Married",0,"Independent/Other",1,NA,NA,NA,3,NA,NA,NA,NA,0,NA
+"2337","Female","White",118979,25,3,0,"Never Married",0,"Independent/Other",0,0,5,1,2,NA,NA,NA,NA,0,1
+"2340","Female","White",111726,29,1,0,"Married",0,"Independent/Other",0,NA,NA,NA,4,0,1,1,1,1,NA
+"2344","Female","White",66525,37,1,2,"Was Married",0,"Independent/Other",1,NA,NA,NA,3,1,0,1,1,1,NA
+"2345","Female","White",107550,75,1,4,"Married",0,"Republican",1,NA,NA,NA,1,1,0,0,0,0,NA
