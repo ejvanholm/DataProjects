@@ -112,7 +112,7 @@ summary(lm(medv~log(lstat), data=Boston))
 ### Interactions
 
 
-read.csv("https://raw.githubusercontent.com/ejvanholm/DataProjects/master/PSID1982.csv")
+PSID1982 <- read.csv("https://raw.githubusercontent.com/ejvanholm/DataProjects/master/PSID1982.csv")
 summary(lm(wage~gender+ethnicity, data=PSID1982))
 
 
